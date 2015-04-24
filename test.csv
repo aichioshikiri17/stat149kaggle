@@ -1,0 +1,1140 @@
+phone,healthgroup,sex,agegrp,race,employ.ins,insured,employ,marital.stat,postponed.care,emergency,specialist,meds,health,confident,bmi,children,educ,Id
+Landline,rural,female,35_to_44,White,Yes,Yes,Student,Married,No,No,Yes,No,Very_good,NA,25.6035379812695,3,some college,1
+Landline,urban,male,65_to_74,White,Yes,Yes,Retired,Married,No,No,Yes,Yes,Good,10,26.6057525951557,0,more than 4-year college,2
+Landline,mill_town,female,55_to_64,White,Yes,Yes,Employed_for_wages,Married,No,No,Yes,Yes,Good,10,31.739854877721,0,some college,3
+Landline,NA,female,55_to_64,NA,Yes,Yes,Employed_for_wages,Widowed,No,No,Yes,Yes,Very_good,4,31.2444444444444,NA,NA,4
+Landline,mill_town,female,55_to_64,White,Yes,Yes,Employed_for_wages,Married,Yes,No,Yes,Yes,Very_good,8,34.326171875,0,high school graduate,5
+Landline,wealth_suburb,male,35_to_44,White,Yes,Yes,Employed_for_wages,Married,Yes,Yes,Yes,Yes,Very_good,9,29.4112244897959,0,high school graduate,6
+Landline,mill_town,female,65_to_74,Black,No,Yes,Retired,Widowed,Yes,Yes,Yes,Yes,Fair,10,24.7495296963182,NA,some college,7
+Cell,mill_town,male,65_to_74,Black,Yes,Yes,Employed_for_wages,Divorced,No,No,No,Yes,Fair,8,36.9375117282792,0,high school graduate,8
+Landline,mill_town,female,35_to_44,White,Yes,Yes,Employed_for_wages,Married,No,No,No,Yes,Very_good,9,43.0663844954333,0,some college,9
+Cell,urban,male,25_to_34,Hispanic,Yes,Yes,Out_of_work_1-,Married,No,Yes,No,Yes,Very_good,NA,23.6252888048729,0,some college,10
+Landline,mfg,female,35_to_44,White,No,Yes,Disabled,Divorced,No,Yes,Yes,Yes,Poor,4,31.8820861678005,0,college graduate,11
+Landline,rural,male,45_to_54,White,Yes,Yes,Employed_for_wages,Married,No,No,Yes,No,Very_good,10,29.8565197428834,2,college graduate,12
+Landline,rural,female,75_or_older,Black,Yes,Yes,Out_of_work_1+,Married,No,No,Yes,Yes,Fair,7,38.960205078125,0,high school graduate,13
+Cell,mill_town,female,45_to_54,White,No,No,Employed_for_wages,Divorced,No,No,No,Yes,Excellent,10,18.2882414151925,1,more than 4-year college,14
+Landline,mill_town,female,25_to_34,White,Yes,Yes,Employed_for_wages,Single/Never,Yes,Yes,No,Yes,Good,4,50.974365234375,0,college graduate,15
+Cell,urban,female,55_to_64,Hispanic,No,Yes,Homemaker,Married,No,Yes,No,No,Very_good,10,22.6717057193248,2,high school graduate,16
+Cell,urban,female,25_to_34,Black,No,No,Out_of_work_1+,Single/Never,No,Yes,No,No,Good,10,22.31201171875,NA,college graduate,17
+Landline,diverse_suburb,female,75_or_older,White,No,Yes,Retired,Widowed,No,No,Yes,Yes,Very_good,9,31.1730717549046,0,high school graduate,18
+Cell,urban,male,45_to_54,White,No,Yes,Out_of_work_1+,Widowed,No,Yes,Yes,Yes,Poor,7,29.7549565604812,0,some college,19
+Landline,urban,female,25_to_34,Hispanic,Yes,Yes,Employed_for_wages,Single/Never,No,No,Yes,Yes,Good,10,26.0720236495566,2,high school graduate,20
+Cell,wealth_suburb,male,18_to_24,White,Yes,Yes,Employed_for_wages,Single/Never,Yes,No,No,Yes,Very_good,NA,24.3252595155709,0,high school graduate,21
+Landline,rural,female,65_to_74,White,No,Yes,Retired,Married,No,Yes,Yes,Yes,Very_good,5,27.11767578125,0,more than 4-year college,22
+Landline,wealth_suburb,male,25_to_34,White,Yes,Yes,Employed_for_wages,Single/Never,No,Yes,Yes,No,Good,NA,20.8030612244898,0,college graduate,23
+Landline,rural,male,65_to_74,White,No,Yes,Self-employed,Single/Never,No,Yes,Yes,Yes,Excellent,10,28.4780092592593,NA,more than 4-year college,24
+Landline,mill_town,female,75_or_older,White,Yes,Yes,Retired,Widowed,No,No,Yes,Yes,Excellent,NA,21.254724111867,0,some college,25
+Landline,mfg,male,75_or_older,White,No,Yes,Retired,Married,No,No,Yes,Yes,Very_good,8,22.3130331283476,0,some high school,26
+Landline,mill_town,female,25_to_34,White,Yes,Yes,Employed_for_wages,Single/Never,No,No,No,Yes,Very_good,NA,24.2079889807163,0,college graduate,27
+Landline,mfg,male,75_or_older,White,Yes,Yes,Retired,Widowed,No,No,No,Yes,Fair,7,27.4609375,0,high school graduate,28
+Landline,rural,female,75_or_older,NA,No,Yes,Retired,Married,No,No,Yes,Yes,Good,NA,22.3812244897959,0,some college,29
+Landline,mill_town,male,35_to_44,White,Yes,Yes,Employed_for_wages,Married,Yes,No,Yes,Yes,Good,7,26.3839369487709,3,more than 4-year college,30
+Cell,wealth_suburb,male,45_to_54,White,Yes,Yes,Employed_for_wages,Married,No,No,Yes,Yes,Very_good,NA,29.4052960026986,0,college graduate,31
+Landline,rural,female,55_to_64,White,Yes,Yes,Employed_for_wages,Married,No,Yes,No,Yes,Good,10,25.6035379812695,0,high school graduate,32
+Landline,urban,male,65_to_74,Black,No,Yes,Retired,Married,No,No,No,Yes,Very_good,8,34.7626981994088,2,8th grade or less,33
+Landline,rural,male,45_to_54,White,No,Yes,Out_of_work_1+,Married,Yes,No,No,No,Good,7,26.6224852071006,1,some college,34
+Cell,rural,female,18_to_24,White,Yes,Yes,Employed_for_wages,Single/Never,Yes,No,Yes,Yes,Good,8,25.6035379812695,1,some college,35
+Cell,mill_town,male,25_to_34,Black,Yes,Yes,Student,Single/Never,No,Yes,Yes,Yes,Very_good,10,25.1071428571429,0,more than 4-year college,36
+Landline,diverse_suburb,female,75_or_older,White,No,Yes,Retired,Widowed,No,Yes,Yes,Yes,Very_good,8,24.9585798816568,0,high school graduate,37
+Landline,mill_town,female,65_to_74,White,No,Yes,Retired,Married,Yes,No,Yes,Yes,Very_good,10,28.2863905325444,0,college graduate,38
+Landline,mfg,male,65_to_74,White,Yes,Yes,Retired,Married,No,No,No,Yes,Very_good,10,24.743595455558,0,more than 4-year college,39
+Landline,mill_town,female,65_to_74,Black,No,Yes,Retired,Single/Never,Yes,No,Yes,Yes,Fair,5,25.05810546875,0,some college,40
+Cell,mill_town,female,25_to_34,Asian,No,Yes,Student,Single/Never,No,No,Yes,No,Very_good,NA,24.4097222222222,0,some college,41
+Landline,rural,female,55_to_64,White,Yes,Yes,Employed_for_wages,Divorced,Yes,Yes,Yes,Yes,Good,10,29.5316110060912,1,more than 4-year college,42
+Cell,rural,male,25_to_34,White,Yes,Yes,Employed_for_wages,Married,No,Yes,No,No,Good,10,32.4847721067003,1,some college,43
+Landline,diverse_suburb,male,45_to_54,White,No,Yes,Self-employed,Divorced,No,No,Yes,No,Very_good,NA,28.8862456747405,0,college graduate,44
+Landline,urban,female,75_or_older,Black,No,Yes,Retired,Widowed,No,Yes,Yes,Yes,Fair,6,25.2913609467456,0,high school graduate,45
+Landline,mill_town,male,25_to_34,White,No,Yes,Disabled,Single/Never,No,Yes,Yes,Yes,Poor,7,36.3685333333333,0,some college,46
+Landline,rural,male,65_to_74,White,No,Yes,Disabled,Married,No,Yes,Yes,Yes,Good,10,17.7525252525253,0,some college,47
+Landline,mill_town,female,55_to_64,White,Yes,Yes,Employed_for_wages,Married,No,No,No,No,Very_good,NA,29.283251939098,3,high school graduate,48
+Landline,rural,female,55_to_64,White,No,Yes,Out_of_work_1+,Divorced,Yes,No,Yes,Yes,Good,8,27.3945176027949,0,college graduate,49
+Landline,mfg,male,75_or_older,White,Yes,Yes,Retired,Married,No,No,No,Yes,Very_good,9,31.190200617284,0,some college,50
+Cell,NA,female,25_to_34,White,Yes,Yes,Employed_for_wages,Single/Never,Yes,Yes,Yes,Yes,Excellent,NA,25.0149219467401,0,college graduate,51
+Landline,diverse_suburb,female,75_or_older,White,No,Yes,Retired,Widowed,No,No,Yes,Yes,Good,9,32.0255555555556,0,high school graduate,52
+Landline,NA,female,45_to_54,White,Yes,Yes,Employed_for_wages,Married,Yes,No,No,Yes,Very_good,10,NA,0,high school graduate,53
+Cell,urban,male,25_to_34,Hispanic,No,Yes,Disabled,Single/Never,No,No,No,No,Very_good,8,29.5316110060912,0,high school graduate,54
+Landline,diverse_suburb,male,NA,Hispanic,No,Yes,Employed_for_wages,Married,No,No,Yes,Yes,Good,NA,25.821854912764,2,some high school,55
+Landline,mill_town,female,65_to_74,White,No,Yes,Retired,Single/Never,Yes,No,Yes,No,Very_good,NA,25.1763085399449,0,more than 4-year college,56
+Cell,mill_town,male,35_to_44,White,Yes,Yes,Employed_for_wages,Married,Yes,No,Yes,Yes,Excellent,NA,27.4951111111111,2,more than 4-year college,57
+Landline,urban,female,55_to_64,White,Yes,Yes,Employed_for_wages,Married,No,No,Yes,Yes,Excellent,10,17.9655555555556,0,more than 4-year college,58
+Landline,mfg,male,45_to_54,Black,Yes,Yes,Employed_for_wages,Married,No,No,Yes,Yes,Excellent,9,29.3723599632691,2,more than 4-year college,59
+Landline,mfg,female,75_or_older,White,Yes,Yes,Retired,Single/Never,No,No,Yes,Yes,Excellent,10,29.6175147928994,0,college graduate,60
+Landline,wealth_suburb,female,55_to_64,White,Yes,Yes,Employed_for_wages,Single/Never,No,No,Yes,Yes,Excellent,10,18.5978835978836,0,high school graduate,61
+Landline,urban,male,45_to_54,White,Yes,Yes,Employed_for_wages,Married,No,No,Yes,Yes,Good,9,26.1891891891892,0,some college,62
+Landline,diverse_suburb,female,75_or_older,Black,Yes,Yes,Retired,Divorced,No,No,Yes,Yes,Excellent,10,28.2426538108356,0,college graduate,63
+Landline,rural,female,55_to_64,White,Yes,Yes,Employed_for_wages,Married,No,No,Yes,Yes,Good,8,NA,0,some college,64
+Landline,rural,female,65_to_74,White,Yes,Yes,Retired,Married,No,No,Yes,Yes,Excellent,10,24.4594082840237,0,more than 4-year college,65
+Landline,mfg,male,35_to_44,White,Yes,Yes,Employed_for_wages,Married,No,No,Yes,Yes,Very_good,NA,25.5415224913495,3,some college,66
+Landline,mill_town,female,55_to_64,White,No,Yes,Self-employed,Married,No,No,No,No,Excellent,NA,27.9853867472915,0,some college,67
+Landline,wealth_suburb,male,45_to_54,White,Yes,Yes,Employed_for_wages,Married,No,No,No,Yes,Very_good,8,21.9354022600776,4,college graduate,68
+Cell,mill_town,male,55_to_64,White,Yes,Yes,Employed_for_wages,Married,No,No,Yes,Yes,Good,10,27.1219135802469,0,some college,69
+Landline,wealth_suburb,male,35_to_44,White,Yes,Yes,Employed_for_wages,Married,Yes,Yes,Yes,Yes,Very_good,7,21.1416796613945,2,college graduate,70
+Landline,diverse_suburb,female,75_or_older,White,No,Yes,Retired,Widowed,No,Yes,Yes,Yes,Good,10,20.0857142857143,0,some high school,71
+Cell,rural,female,55_to_64,White,Yes,Yes,Out_of_work_1+,Married,No,Yes,Yes,Yes,Very_good,NA,21.945889698231,0,some college,72
+Landline,urban,female,75_or_older,White,Yes,Yes,Retired,Single/Never,No,No,Yes,Yes,Very_good,10,35.8962644450417,0,more than 4-year college,73
+Landline,mill_town,male,75_or_older,White,Yes,Yes,Retired,Widowed,No,No,No,Yes,Good,9,24.2737803519715,0,some college,74
+Landline,mfg,male,25_to_34,Black,No,No,Out_of_work_1+,Single/Never,Yes,Yes,No,No,Excellent,NA,27.4729220392779,0,some college,75
+Landline,rural,female,65_to_74,White,Yes,Yes,Employed_for_wages,Single/Never,No,No,No,Yes,Very_good,NA,23.7747138397503,0,college graduate,76
+Landline,mill_town,female,65_to_74,White,No,Yes,Retired,Widowed,Yes,No,No,No,Good,10,17.2265537981733,0,some college,77
+Landline,mill_town,male,NA,NA,Yes,Yes,Out_of_work_1-,Married,Yes,No,Yes,Yes,Very_good,8,29.2916666666667,0,college graduate,78
+Landline,wealth_suburb,male,45_to_54,White,Yes,Yes,Self-employed,Married,Yes,Yes,Yes,Yes,Very_good,10,27.8912914104344,1,more than 4-year college,79
+Landline,rural,male,35_to_44,White,Yes,Yes,Out_of_work_1+,Married,No,No,No,Yes,Very_good,10,25.3810751834953,0,some college,80
+Cell,mill_town,male,45_to_54,Hispanic,No,No,Out_of_work_1-,Single/Never,No,No,No,Yes,Very_good,9,31.1667387543253,0,NA,81
+Landline,rural,female,35_to_44,White,Yes,Yes,Employed_for_wages,Married,No,No,Yes,Yes,Good,7,34.7476586888658,1,more than 4-year college,82
+Landline,urban,female,18_to_24,Hispanic,No,Yes,Out_of_work_1-,Single/Never,No,Yes,Yes,Yes,Good,10,29.2252456538171,0,some college,83
+Landline,mill_town,male,65_to_74,White,No,Yes,Retired,Married,No,No,No,Yes,Good,10,31.746481831548,0,more than 4-year college,84
+Landline,urban,male,45_to_54,Black,Yes,Yes,Employed_for_wages,Married,No,No,No,Yes,Excellent,NA,28.8862456747405,0,high school graduate,85
+Landline,urban,female,75_or_older,Hispanic,Yes,Yes,Homemaker,Widowed,No,No,Yes,Yes,Good,7,31.4557752341311,0,some college,86
+Landline,wealth_suburb,female,55_to_64,White,Yes,Yes,Homemaker,Married,Yes,Yes,Yes,Yes,Good,8,38.0813807004283,0,high school graduate,87
+Landline,diverse_suburb,male,75_or_older,White,Yes,Yes,Retired,Married,No,Yes,No,Yes,Good,8,24.3897959183673,0,high school graduate,88
+Cell,rural,male,35_to_44,White,Yes,Yes,Employed_for_wages,Single/Never,No,No,Yes,Yes,Excellent,NA,27.7031337962094,NA,some college,89
+Landline,wealth_suburb,female,55_to_64,Asian,Yes,Yes,Employed_for_wages,Single/Never,No,Yes,Yes,Yes,Good,9,24.5606019887127,0,more than 4-year college,90
+Landline,urban,male,35_to_44,White,Yes,Yes,Self-employed,Married,No,No,Yes,Yes,Very_good,NA,31.2444444444444,0,college graduate,91
+Landline,diverse_suburb,female,55_to_64,White,Yes,Yes,Employed_for_wages,Single/Never,No,No,Yes,Yes,Very_good,10,28.2863905325444,0,college graduate,92
+Cell,mfg,male,35_to_44,White,No,No,Employed_for_wages,Single/Never,Yes,Yes,No,Yes,Poor,NA,26.6228558699042,0,high school graduate,93
+Landline,wealth_suburb,female,45_to_54,White,Yes,Yes,Out_of_work_1-,Married,No,No,Yes,Yes,Excellent,10,23.4333333333333,1,college graduate,94
+Landline,mfg,female,45_to_54,White,Yes,Yes,Employed_for_wages,Single/Never,Yes,No,Yes,Yes,Fair,NA,26.946044921875,0,some college,95
+Landline,diverse_suburb,female,35_to_44,Other,No,Yes,Disabled,Single/Never,Yes,Yes,Yes,Yes,Poor,5,37.3020408163265,1,high school graduate,96
+Cell,rural,female,65_to_74,White,No,Yes,Retired,Divorced,No,Yes,No,Yes,Fair,6,26.602783203125,0,some college,97
+Cell,mill_town,male,18_to_24,White,No,Yes,Student,Single/Never,Yes,No,No,Yes,Excellent,8,15.8303621692625,0,some college,98
+Landline,mfg,male,25_to_34,Hispanic,Yes,Yes,Employed_for_wages,Married,No,No,No,No,Excellent,NA,25.1071428571429,4,high school graduate,99
+Cell,mfg,female,18_to_24,Hispanic,Yes,Yes,Student,Single/Never,Yes,No,Yes,Yes,Very_good,NA,24.3252595155709,0,some college,100
+Landline,urban,male,55_to_64,Black,Yes,Yes,Employed_for_wages,Single/Never,Yes,No,No,No,Good,NA,NA,0,high school graduate,101
+Cell,urban,female,45_to_54,Black,Yes,Yes,Employed_for_wages,Single/Never,No,No,Yes,Yes,Very_good,10,30.2930192473427,0,some college,102
+Landline,rural,female,35_to_44,White,No,Yes,Employed_for_wages,Divorced,Yes,Yes,Yes,Yes,Good,8,24.3252595155709,2,high school graduate,103
+Landline,rural,male,65_to_74,White,No,Yes,Retired,Divorced,No,No,No,Yes,Good,7,33.9613526570048,0,some high school,104
+Landline,mfg,female,35_to_44,Black,No,Yes,Employed_for_wages,Single/Never,Yes,No,Yes,Yes,Good,10,23.8305084745763,1,some high school,105
+Landline,mfg,female,55_to_64,NA,Yes,Yes,Employed_for_wages,Married,No,Yes,Yes,Yes,Very_good,10,29.8098335067638,0,more than 4-year college,106
+Cell,urban,male,25_to_34,Other,No,Yes,Employed_for_wages,Married,No,Yes,No,No,Very_good,10,28.12,0,high school graduate,107
+Landline,rural,female,65_to_74,White,No,Yes,Self-employed,Married,No,Yes,Yes,Yes,Very_good,10,30.8935546875,0,high school graduate,108
+Landline,rural,male,35_to_44,Black,No,No,Employed_for_wages,Single/Never,Yes,Yes,No,Yes,Poor,6,34.9675605536332,2,some college,109
+Cell,urban,male,25_to_34,Black,No,No,Out_of_work_1+,Single/Never,No,No,No,No,Excellent,NA,NA,0,high school graduate,110
+Cell,mfg,female,25_to_34,Black,Yes,Yes,Employed_for_wages,Married,No,No,No,Yes,Very_good,9,25.0149219467401,3,some college,111
+Landline,diverse_suburb,female,35_to_44,Asian,Yes,Yes,Employed_for_wages,Married,Yes,No,Yes,Yes,Good,10,29.6464100346021,1,more than 4-year college,112
+Landline,diverse_suburb,male,75_or_older,White,No,Yes,Retired,Divorced,Yes,No,No,Yes,Very_good,10,26.4438657407407,0,some college,113
+Landline,diverse_suburb,female,35_to_44,White,Yes,Yes,Employed_for_wages,Married,No,No,No,No,Excellent,NA,22.8049307958477,2,more than 4-year college,114
+Landline,rural,male,45_to_54,White,Yes,Yes,Employed_for_wages,Divorced,No,No,No,No,Excellent,NA,23.6252888048729,0,college graduate,115
+Landline,rural,male,65_to_74,White,Yes,Yes,Retired,Married,No,No,No,Yes,Very_good,8,31.1667387543253,0,8th grade or less,116
+Landline,rural,female,65_to_74,White,No,Yes,Retired,Married,Yes,Yes,Yes,Yes,Good,9,27.3945176027949,0,some college,117
+Landline,diverse_suburb,female,55_to_64,White,No,No,Out_of_work_1-,Single/Never,Yes,No,Yes,Yes,Fair,8,36.3119834710744,0,high school graduate,118
+Landline,urban,male,55_to_64,White,No,Yes,Disabled,Single/Never,No,No,No,No,Very_good,NA,NA,0,8th grade or less,119
+Landline,mfg,male,65_to_74,White,No,Yes,Retired,Single/Never,No,No,Yes,Yes,Good,9,21.0194830246914,0,high school graduate,120
+Landline,rural,female,55_to_64,White,No,Yes,Employed_for_wages,Married,No,No,No,Yes,Excellent,NA,20.7988165680473,1,more than 4-year college,121
+Landline,mill_town,female,75_or_older,White,No,Yes,Retired,Widowed,No,Yes,Yes,Yes,Fair,10,24.9585798816568,0,high school graduate,122
+Landline,mfg,female,55_to_64,Hispanic,No,Yes,Disabled,Married,No,Yes,Yes,Yes,Fair,8,28.9719313878369,0,high school graduate,123
+Landline,mfg,male,75_or_older,White,No,Yes,Retired,Married,No,No,Yes,Yes,Excellent,NA,26.2178139258084,0,more than 4-year college,124
+Landline,mill_town,male,55_to_64,White,No,Yes,Out_of_work_1-,Single/Never,No,No,Yes,Yes,Excellent,6,32.5350346020761,0,more than 4-year college,125
+Landline,diverse_suburb,female,35_to_44,White,Yes,Yes,Homemaker,Married,Yes,No,Yes,No,Very_good,NA,24.6921487603306,4,more than 4-year college,126
+Landline,mill_town,female,75_or_older,White,Yes,Yes,Retired,Widowed,No,Yes,Yes,Yes,Very_good,10,20.4660355029586,0,college graduate,127
+Landline,mfg,female,65_to_74,White,No,Yes,Retired,Married,No,No,No,Yes,Very_good,NA,22.1403376165281,0,high school graduate,128
+Landline,rural,male,35_to_44,White,Yes,Yes,Employed_for_wages,Married,No,No,Yes,No,Excellent,10,26.5418367346939,2,some college,129
+Cell,mfg,female,25_to_34,Hispanic,No,Yes,Employed_for_wages,Single/Never,Yes,No,No,No,Good,6,39.47509765625,4,high school graduate,130
+Cell,mill_town,male,25_to_34,Other,No,Yes,Self-employed,Married,No,No,No,Yes,Good,NA,NA,0,college graduate,131
+Landline,mill_town,male,35_to_44,White,Yes,Yes,Employed_for_wages,Married,No,Yes,Yes,Yes,Good,8,29.6464100346021,0,college graduate,132
+Cell,diverse_suburb,female,55_to_64,White,Yes,Yes,Employed_for_wages,Married,No,No,No,No,Good,NA,21.7871900826446,NA,some high school,133
+Landline,mill_town,female,45_to_54,White,Yes,Yes,Employed_for_wages,Divorced,No,No,No,No,Excellent,NA,27.3945176027949,0,more than 4-year college,134
+Landline,NA,female,65_to_74,White,No,Yes,Out_of_work_1+,Divorced,No,No,Yes,Yes,Excellent,NA,20.1733241505969,0,college graduate,135
+Cell,mill_town,female,45_to_54,White,No,Yes,Disabled,Separated,No,No,Yes,Yes,Fair,10,31.92333984375,0,high school graduate,136
+Cell,rural,female,65_to_74,NA,No,Yes,Employed_for_wages,Married,No,No,No,Yes,Fair,10,NA,0,some high school,137
+Landline,rural,male,45_to_54,White,No,No,Employed_for_wages,Single/Never,Yes,No,No,No,Very_good,NA,18.9853395061728,0,high school graduate,138
+Landline,wealth_suburb,male,55_to_64,White,Yes,Yes,Employed_for_wages,Married,No,No,No,No,Excellent,10,22.5008650519031,0,more than 4-year college,139
+Landline,mfg,female,55_to_64,White,Yes,Yes,Employed_for_wages,Married,No,No,No,No,Excellent,10,19.7513007284079,0,more than 4-year college,140
+Landline,diverse_suburb,female,45_to_54,White,No,Yes,Employed_for_wages,Married,Yes,No,Yes,No,Excellent,NA,22.4569444444444,0,college graduate,141
+Cell,wealth_suburb,female,18_to_24,White,No,Yes,Student,Single/Never,No,No,No,Yes,Very_good,9,24.9585798816568,0,some college,142
+Landline,wealth_suburb,male,65_to_74,White,Yes,Yes,Retired,Married,No,Yes,Yes,Yes,Fair,10,28.7933207309389,0,more than 4-year college,143
+Landline,urban,female,55_to_64,Black,No,Yes,Disabled,Single/Never,Yes,No,Yes,Yes,Good,10,44.9891660367851,0,8th grade or less,144
+Landline,wealth_suburb,female,45_to_54,White,Yes,Yes,Employed_for_wages,Married,No,No,No,No,Very_good,NA,26.5179500520291,2,college graduate,145
+Cell,mill_town,male,75_or_older,White,No,Yes,Retired,Married,No,Yes,Yes,Yes,Very_good,7,21.4548897304522,0,college graduate,146
+Landline,mill_town,female,35_to_44,White,Yes,Yes,Employed_for_wages,Married,Yes,Yes,No,No,Very_good,NA,26.6224852071006,2,college graduate,147
+Landline,mill_town,male,55_to_64,White,No,Yes,Out_of_work_1+,Divorced,Yes,No,No,Yes,Poor,8,31.2814201183432,0,high school graduate,148
+Landline,rural,female,65_to_74,White,No,Yes,Employed_for_wages,Married,No,Yes,Yes,Yes,Very_good,NA,27.2494797086368,0,some college,149
+Cell,rural,male,35_to_44,White,Yes,Yes,Employed_for_wages,Single/Never,No,Yes,Yes,Yes,Excellent,NA,27.7999614197531,0,college graduate,150
+Landline,mill_town,female,35_to_44,White,Yes,Yes,Employed_for_wages,Married,Yes,Yes,No,Yes,Very_good,NA,23.6274556213018,1,some college,151
+Landline,urban,male,25_to_34,White,Yes,Yes,Employed_for_wages,Married,No,No,No,Yes,Very_good,NA,22.4263464064552,1,college graduate,152
+Landline,urban,female,65_to_74,Black,Yes,Yes,Retired,Married,Yes,No,No,Yes,Good,10,24.2658100277148,0,high school graduate,153
+Landline,diverse_suburb,male,45_to_54,White,No,Yes,Out_of_work_1+,Widowed,No,Yes,Yes,Yes,Good,9,45.6098615916955,0,high school graduate,154
+Landline,mill_town,female,65_to_74,White,No,Yes,Retired,Divorced,No,Yes,Yes,Yes,Good,10,NA,0,high school graduate,155
+Cell,rural,male,45_to_54,White,Yes,Yes,Employed_for_wages,Married,Yes,Yes,Yes,No,Excellent,NA,36.1762234824617,0,more than 4-year college,156
+Landline,mfg,female,55_to_64,White,Yes,Yes,Out_of_work_1-,Divorced,Yes,Yes,Yes,Yes,Fair,NA,29.17724609375,NA,some high school,157
+Landline,mill_town,female,65_to_74,White,No,Yes,Retired,Married,No,Yes,Yes,Yes,Excellent,10,27.3167401806343,0,college graduate,158
+Landline,diverse_suburb,male,75_or_older,White,Yes,Yes,Retired,Widowed,No,Yes,Yes,Yes,Good,8,22.3755787037037,0,high school graduate,159
+Landline,mfg,male,75_or_older,White,No,Yes,Retired,Married,No,No,Yes,Yes,Very_good,9,25.6756756756757,0,more than 4-year college,160
+Landline,urban,female,75_or_older,White,No,Yes,Retired,Widowed,No,Yes,No,Yes,Very_good,10,26.6224852071006,0,high school graduate,161
+Landline,rural,female,35_to_44,White,Yes,Yes,Out_of_work_1-,Married,Yes,No,Yes,Yes,Good,NA,22.8603017689906,0,high school graduate,162
+Landline,mill_town,female,45_to_54,White,Yes,Yes,Employed_for_wages,Married,Yes,Yes,Yes,Yes,Good,8,22.1403376165281,0,more than 4-year college,163
+Cell,rural,male,25_to_34,White,Yes,Yes,Employed_for_wages,Married,Yes,No,No,No,Very_good,NA,22.3755787037037,3,high school graduate,164
+Landline,mfg,male,25_to_34,White,Yes,Yes,Employed_for_wages,Divorced,Yes,Yes,No,Yes,Good,9,32.9979591836735,0,college graduate,165
+Landline,mfg,female,18_to_24,Hispanic,No,Yes,Out_of_work_1+,Single/Never,No,No,No,Yes,Very_good,NA,21.942627824019,1,high school graduate,166
+Landline,NA,female,75_or_older,NA,No,Yes,Retired,Widowed,No,No,NA,NA,NA,NA,NA,NA,NA,167
+Cell,mfg,male,35_to_44,White,Yes,Yes,Employed_for_wages,Single/Never,No,No,No,Yes,Very_good,NA,26.3839369487709,0,some college,168
+Landline,mill_town,female,55_to_64,White,No,Yes,Employed_for_wages,Married,Yes,Yes,Yes,Yes,Good,8,39.3197190426639,0,college graduate,169
+Landline,urban,male,75_or_older,White,No,Yes,Retired,Widowed,No,No,No,Yes,Very_good,10,22.8049307958477,0,more than 4-year college,170
+Landline,diverse_suburb,female,35_to_44,White,Yes,Yes,Employed_for_wages,Married,Yes,No,Yes,Yes,Excellent,9,21.7266863746305,2,college graduate,171
+Landline,rural,female,75_or_older,White,No,Yes,Retired,Widowed,No,Yes,Yes,Yes,Good,10,23.294674556213,0,some college,172
+Landline,rural,female,45_to_54,White,Yes,Yes,Employed_for_wages,Married,No,No,Yes,No,Very_good,8,22.6528979238754,0,college graduate,173
+Landline,urban,female,55_to_64,White,No,Yes,Employed_for_wages,Single/Never,No,No,No,No,Excellent,NA,24.2079889807163,0,high school graduate,174
+Landline,rural,male,75_or_older,White,No,Yes,Retired,Married,No,No,Yes,Yes,Very_good,10,23.0103154136084,0,high school graduate,175
+Landline,wealth_suburb,female,55_to_64,Black,Yes,Yes,Employed_for_wages,Divorced,No,Yes,Yes,Yes,Good,NA,25.5052405267401,0,college graduate,176
+Landline,urban,male,55_to_64,Black,Yes,Yes,Self-employed,Married,Yes,No,Yes,Yes,Good,8,28.3585526315789,0,some college,177
+Landline,mfg,female,35_to_44,Black,No,Yes,Disabled,Single/Never,No,Yes,Yes,Yes,Good,7,31.8820861678005,1,some college,178
+Landline,urban,female,55_to_64,White,Yes,Yes,Employed_for_wages,Married,No,No,Yes,Yes,Very_good,10,22.1403376165281,0,high school graduate,179
+Landline,mill_town,male,45_to_54,White,Yes,Yes,Employed_for_wages,Married,No,Yes,Yes,Yes,Very_good,9,29.2677551020408,1,some college,180
+Landline,mill_town,male,45_to_54,White,Yes,Yes,Employed_for_wages,Married,Yes,No,Yes,Yes,Very_good,NA,27.1219135802469,0,some college,181
+Cell,mill_town,female,18_to_24,White,Yes,Yes,Student,Single/Never,No,No,No,Yes,Excellent,NA,24.0283203125,0,some college,182
+Landline,diverse_suburb,female,55_to_64,Black,Yes,Yes,Employed_for_wages,Married,No,Yes,Yes,Yes,Good,8,26.9552662721893,0,some college,183
+Landline,rural,female,45_to_54,White,Yes,Yes,Employed_for_wages,Married,No,Yes,Yes,Yes,Very_good,10,27.4609375,2,more than 4-year college,184
+Landline,wealth_suburb,female,65_to_74,White,No,Yes,Self-employed,Widowed,No,No,Yes,Yes,Very_good,10,19.6340828402367,0,college graduate,185
+Landline,rural,male,18_to_24,White,Yes,Yes,Student,Single/Never,No,Yes,Yes,Yes,Very_good,NA,23.7139483892731,0,some college,186
+Landline,rural,female,55_to_64,White,No,Yes,Retired,Married,No,Yes,Yes,Yes,Very_good,9,31.9545454545455,0,more than 4-year college,187
+Landline,mill_town,female,75_or_older,White,Yes,Yes,Retired,Married,No,No,No,Yes,Good,10,29.256837098692,0,high school graduate,188
+Cell,rural,male,45_to_54,Hispanic,Yes,Yes,Employed_for_wages,Married,No,No,No,No,Excellent,NA,25.0568055246157,0,college graduate,189
+Landline,mill_town,female,75_or_older,White,Yes,Yes,Retired,Widowed,No,No,No,Yes,Very_good,NA,19.9091796875,0,some college,190
+Landline,mill_town,female,65_to_74,White,Yes,Yes,Retired,Divorced,No,Yes,Yes,Yes,Very_good,10,29.8565197428834,0,some college,191
+Cell,NA,male,35_to_44,White,Yes,Yes,Employed_for_wages,Single/Never,No,No,No,No,Excellent,NA,25.1071428571429,0,some college,192
+Landline,urban,female,55_to_64,Black,No,Yes,Retired,Single/Never,No,Yes,Yes,Yes,Fair,6,30.1755983350676,0,some high school,193
+Landline,rural,female,65_to_74,White,No,Yes,Employed_for_wages,Divorced,No,No,No,Yes,Excellent,NA,32.7676996724616,0,high school graduate,194
+Landline,diverse_suburb,female,45_to_54,White,Yes,Yes,Employed_for_wages,Married,No,No,Yes,Yes,Excellent,NA,25.5052405267401,2,high school graduate,195
+Landline,mill_town,female,45_to_54,White,Yes,Yes,Employed_for_wages,Divorced,Yes,Yes,Yes,Yes,Fair,3,37.2719982178659,0,some college,196
+Landline,mfg,male,55_to_64,White,Yes,Yes,Employed_for_wages,Divorced,No,No,Yes,Yes,Fair,8,37.4416896235078,0,high school graduate,197
+Landline,mill_town,male,55_to_64,White,Yes,Yes,Employed_for_wages,Divorced,No,Yes,No,Yes,Very_good,NA,28.6938775510204,0,some college,198
+Cell,mill_town,female,35_to_44,Asian,Yes,Yes,Employed_for_wages,Divorced,Yes,Yes,Yes,Yes,Fair,8,21.4805555555556,3,more than 4-year college,199
+Landline,mfg,female,75_or_older,White,No,Yes,Homemaker,Married,No,No,No,Yes,Fair,10,28.7170115560333,0,high school graduate,200
+Cell,rural,female,65_to_74,White,Yes,Yes,Retired,Married,No,Yes,Yes,Yes,Excellent,10,25.0149219467401,0,more than 4-year college,201
+Landline,mfg,male,65_to_74,Black,No,Yes,Retired,Married,No,No,Yes,Yes,Excellent,NA,32.4847721067003,0,high school graduate,202
+Cell,mill_town,female,25_to_34,Hispanic,No,Yes,Employed_for_wages,Single/Never,No,No,No,Yes,Good,NA,23.9115646258503,3,high school graduate,203
+Landline,mill_town,female,55_to_64,White,No,Yes,Disabled,Divorced,No,No,Yes,Yes,Fair,10,41.8800728407908,0,high school graduate,204
+Landline,wealth_suburb,female,65_to_74,White,Yes,Yes,Retired,Married,No,Yes,Yes,Yes,Very_good,9,25.5056689342404,0,some college,205
+Landline,mfg,male,55_to_64,Hispanic,Yes,Yes,Employed_for_wages,Married,Yes,No,Yes,Yes,Good,8,24.4097222222222,0,some college,206
+Landline,mill_town,male,45_to_54,White,Yes,Yes,Employed_for_wages,Married,No,No,No,No,Very_good,NA,25.7994445546519,2,more than 4-year college,207
+Landline,diverse_suburb,female,65_to_74,White,Yes,Yes,Retired,Divorced,No,No,Yes,Yes,Very_good,10,25.821854912764,0,more than 4-year college,208
+Landline,mfg,female,45_to_54,White,Yes,Yes,Employed_for_wages,Divorced,Yes,No,Yes,Yes,Good,10,21.945889698231,0,high school graduate,209
+Landline,mill_town,female,75_or_older,White,Yes,Yes,Retired,Widowed,No,No,Yes,Yes,Excellent,10,20.595703125,0,more than 4-year college,210
+Landline,urban,female,65_to_74,White,Yes,Yes,Employed_for_wages,Single/Never,No,Yes,Yes,Yes,Very_good,10,21.3488309594195,0,more than 4-year college,211
+Cell,diverse_suburb,female,35_to_44,White,No,Yes,Employed_for_wages,Single/Never,No,Yes,No,Yes,Fair,10,47.6097823165816,0,high school graduate,212
+Cell,rural,male,45_to_54,White,Yes,Yes,Employed_for_wages,Single/Never,No,No,No,Yes,Excellent,NA,25.8455882352941,NA,some college,213
+Landline,mfg,male,45_to_54,White,Yes,Yes,Employed_for_wages,Single/Never,No,No,No,No,Very_good,8,30.3415274910865,0,high school graduate,214
+Landline,wealth_suburb,female,65_to_74,White,No,Yes,Employed_for_wages,Widowed,No,No,Yes,Yes,Good,10,18.0771428571429,NA,some college,215
+Landline,diverse_suburb,female,35_to_44,Black,Yes,Yes,Out_of_work_1+,Married,No,Yes,Yes,Yes,Good,10,37.5500125976316,2,some college,216
+Cell,mill_town,female,45_to_54,Black,No,Yes,Disabled,Divorced,No,Yes,Yes,Yes,Good,10,31.2728928199792,0,some college,217
+Landline,rural,male,55_to_64,White,Yes,Yes,Self-employed,Married,No,No,Yes,Yes,Very_good,8,24.3897959183673,0,more than 4-year college,218
+Landline,diverse_suburb,male,75_or_older,White,No,Yes,Retired,Married,No,Yes,Yes,Yes,Very_good,8,26.9098183391003,0,some college,219
+Landline,mill_town,female,45_to_54,White,No,Yes,Homemaker,Married,No,No,No,No,Good,NA,33.6533131771227,0,some high school,220
+Landline,diverse_suburb,female,45_to_54,White,Yes,Yes,Employed_for_wages,Married,No,No,Yes,Yes,Good,NA,NA,0,college graduate,221
+Landline,rural,female,75_or_older,White,Yes,Yes,Retired,Widowed,No,Yes,Yes,Yes,Very_good,10,23.0259511211892,0,more than 4-year college,222
+Landline,rural,female,35_to_44,White,Yes,Yes,Employed_for_wages,Married,No,No,No,Yes,Good,8,28.2863905325444,0,college graduate,223
+Cell,rural,male,35_to_44,Asian,Yes,Yes,Employed_for_wages,Married,No,No,Yes,Yes,Very_good,NA,27.4540186444948,2,college graduate,224
+Landline,mill_town,female,55_to_64,White,No,Yes,Out_of_work_1+,Married,No,No,Yes,Yes,Very_good,9,21.945889698231,0,college graduate,225
+Landline,mfg,female,35_to_44,Hispanic,No,Yes,Employed_for_wages,Single/Never,No,No,No,Yes,Very_good,NA,20.7988165680473,4,high school graduate,226
+Landline,mill_town,male,45_to_54,White,Yes,Yes,Employed_for_wages,Single/Never,Yes,Yes,Yes,Yes,Good,10,28.12,0,high school graduate,227
+Landline,rural,male,55_to_64,NA,Yes,Yes,Employed_for_wages,Married,No,No,Yes,Yes,Very_good,9,NA,0,some college,228
+Landline,urban,female,55_to_64,Other,No,Yes,Employed_for_wages,Married,Yes,No,Yes,Yes,Very_good,9,24.5869904210292,0,college graduate,229
+Landline,rural,female,75_or_older,White,No,Yes,Retired,Married,No,Yes,No,Yes,Good,NA,26.7008324661811,NA,high school graduate,230
+Landline,urban,male,65_to_74,White,Yes,Yes,Employed_for_wages,Married,No,No,No,No,Good,7,23.8039652483849,0,college graduate,231
+Landline,rural,male,55_to_64,White,Yes,Yes,Employed_for_wages,Single/Never,Yes,Yes,Yes,No,Excellent,8,22.9168962350781,0,more than 4-year college,232
+Landline,rural,female,65_to_74,White,Yes,Yes,Retired,Married,No,Yes,Yes,Yes,Good,9,30.9964726631393,0,high school graduate,233
+Landline,mill_town,female,55_to_64,White,Yes,Yes,Employed_for_wages,Divorced,No,No,No,No,Excellent,NA,24.9585798816568,0,high school graduate,234
+Landline,urban,female,25_to_34,White,Yes,Yes,Employed_for_wages,Married,No,No,No,No,Excellent,NA,25.0568055246157,0,college graduate,235
+Landline,mfg,male,65_to_74,White,Yes,Yes,Employed_for_wages,Married,Yes,Yes,Yes,Yes,Very_good,8,25.6599880975997,0,high school graduate,236
+Landline,mfg,female,75_or_older,White,No,Yes,Retired,Widowed,No,No,Yes,Yes,Excellent,10,23.8039652483849,0,high school graduate,237
+Landline,mill_town,female,35_to_44,White,Yes,Yes,Employed_for_wages,Separated,No,Yes,Yes,Yes,Very_good,NA,24.1404786680541,0,some college,238
+Landline,mfg,male,55_to_64,White,Yes,Yes,Employed_for_wages,Married,No,No,Yes,Yes,Fair,10,29.6819290673672,0,more than 4-year college,239
+Landline,urban,male,55_to_64,Black,No,Yes,Out_of_work_1+,Single/Never,Yes,No,Yes,Yes,Very_good,7,38.916306999437,0,some high school,240
+Landline,mfg,male,45_to_54,Other,Yes,Yes,Employed_for_wages,Married,No,No,No,No,Excellent,NA,31.0081915563957,0,high school graduate,241
+Landline,mill_town,female,NA,Other,No,Yes,Employed_for_wages,Single/Never,No,No,No,Yes,Good,10,NA,0,some college,242
+Landline,mfg,female,45_to_54,Black,No,Yes,Out_of_work_1+,Divorced,No,Yes,Yes,Yes,Excellent,10,23.4089490114464,3,some college,243
+Cell,mill_town,female,45_to_54,White,No,Yes,Disabled,Separated,Yes,Yes,Yes,Yes,Fair,7,21.254724111867,1,high school graduate,244
+Landline,mfg,female,18_to_24,Black,Yes,Yes,Out_of_work_1-,Single/Never,No,No,No,Yes,Good,NA,20.1170655567118,0,high school graduate,245
+Cell,rural,female,45_to_54,Asian,Yes,Yes,Employed_for_wages,Single/Never,No,No,Yes,Yes,Excellent,NA,17.1630859375,0,more than 4-year college,246
+Landline,wealth_suburb,male,45_to_54,White,Yes,Yes,Employed_for_wages,Married,No,No,No,No,Excellent,NA,23.6252888048729,1,college graduate,247
+Cell,urban,female,25_to_34,White,Yes,Yes,Employed_for_wages,Divorced,Yes,No,Yes,Yes,Good,8,NA,0,some college,248
+Cell,urban,male,25_to_34,White,No,Yes,Self-employed,Married,Yes,No,No,No,Very_good,NA,27.7999614197531,0,more than 4-year college,249
+Landline,mill_town,female,75_or_older,White,Yes,Yes,Retired,Widowed,No,Yes,No,Yes,Very_good,9,22.707730006683,NA,college graduate,250
+Landline,mfg,female,65_to_74,White,No,Yes,Retired,Married,No,No,No,Yes,Fair,10,28.49072265625,0,some college,251
+Landline,urban,male,45_to_54,Black,No,Yes,Employed_for_wages,Married,No,No,No,Yes,Excellent,NA,30.4065743944637,2,high school graduate,252
+Landline,mill_town,female,45_to_54,Black,Yes,Yes,Employed_for_wages,Married,No,Yes,No,No,Very_good,NA,23.2420408163265,0,high school graduate,253
+Landline,mill_town,male,45_to_54,White,No,No,Out_of_work_1+,Single/Never,No,No,No,No,Very_good,NA,29.527027027027,0,high school graduate,254
+Landline,mfg,female,35_to_44,Hispanic,No,Yes,Employed_for_wages,Single/Never,No,No,No,No,Very_good,9,26.6228558699042,2,college graduate,255
+Landline,mfg,male,55_to_64,NA,Yes,Yes,Employed_for_wages,Married,No,Yes,No,NA,Good,NA,32.0945945945946,NA,NA,256
+Cell,mill_town,male,45_to_54,White,No,Yes,Disabled,Single/Never,No,No,No,Yes,Good,10,25.83983069726,0,some high school,257
+Landline,wealth_suburb,female,35_to_44,White,Yes,Yes,Employed_for_wages,Married,No,No,No,Yes,Very_good,NA,22.8603017689906,0,college graduate,258
+Landline,urban,female,65_to_74,Hispanic,No,Yes,Out_of_work_1+,Single/Never,Yes,Yes,Yes,Yes,NA,10,27.9122807017544,0,some college,259
+Landline,mfg,female,55_to_64,White,Yes,Yes,Employed_for_wages,Widowed,Yes,No,Yes,Yes,Good,10,23.294674556213,0,some college,260
+Landline,wealth_suburb,male,55_to_64,White,Yes,Yes,Retired,Married,No,No,Yes,Yes,Very_good,10,NA,NA,college graduate,261
+Landline,mill_town,female,65_to_74,White,No,Yes,Retired,Married,No,Yes,Yes,Yes,Good,7,42.5692041522491,0,college graduate,262
+Cell,mfg,female,65_to_74,White,No,Yes,Retired,Single/Never,No,No,Yes,Yes,Fair,10,28.9519526627219,0,8th grade or less,263
+Landline,urban,male,45_to_54,Hispanic,No,Yes,Employed_for_wages,Married,Yes,Yes,Yes,Yes,Very_good,10,23.9115646258503,0,college graduate,264
+Cell,diverse_suburb,male,35_to_44,White,No,Yes,Self-employed,Single/Never,No,Yes,Yes,Yes,Excellent,NA,26.1891891891892,NA,college graduate,265
+Cell,diverse_suburb,female,55_to_64,White,Yes,Yes,Employed_for_wages,Divorced,No,Yes,Yes,Yes,Very_good,10,29.5316110060912,0,some college,266
+Cell,rural,female,18_to_24,White,Yes,Yes,Student,Single/Never,Yes,Yes,Yes,Yes,Good,7,27.0618512110727,0,some college,267
+Landline,mill_town,male,45_to_54,White,No,No,Self-employed,Married,No,No,No,No,Fair,NA,28.1889062151927,0,some high school,268
+Cell,NA,male,35_to_44,NA,Yes,Yes,Employed_for_wages,NA,Yes,No,NA,NA,NA,NA,NA,NA,NA,269
+Cell,urban,female,25_to_34,Hispanic,No,Yes,Student,Single/Never,No,No,No,No,Fair,NA,18.2882414151925,2,high school graduate,270
+Landline,urban,female,55_to_64,Black,No,Yes,Self-employed,Divorced,No,No,No,Yes,Very_good,9,27.4643982356648,0,more than 4-year college,271
+Cell,rural,male,18_to_24,White,Yes,Yes,Student,Single/Never,Yes,No,No,Yes,Excellent,NA,25.83983069726,0,college graduate,272
+Landline,mfg,male,75_or_older,White,No,Yes,Retired,Single/Never,No,No,No,No,Good,NA,NA,0,8th grade or less,273
+Landline,rural,male,75_or_older,White,No,Yes,Retired,Married,No,No,Yes,Yes,Good,8,25.3810751834953,NA,college graduate,274
+Landline,rural,male,65_to_74,White,Yes,Yes,Employed_for_wages,Married,No,No,No,Yes,Good,7,23.2892283277128,0,high school graduate,275
+Landline,rural,male,65_to_74,White,Yes,Yes,Retired,Married,No,No,Yes,Yes,Very_good,10,30.8626730103806,0,more than 4-year college,276
+Landline,rural,male,75_or_older,White,No,Yes,Retired,Divorced,No,No,Yes,Yes,Very_good,10,21.1416437098255,0,more than 4-year college,277
+Landline,rural,female,65_to_74,White,No,Yes,Retired,Married,No,No,Yes,Yes,Excellent,NA,20.595703125,0,high school graduate,278
+Landline,wealth_suburb,male,25_to_34,White,Yes,Yes,Employed_for_wages,Single/Never,No,Yes,Yes,Yes,Good,10,27.9765306122449,0,some college,279
+Landline,mill_town,female,65_to_74,White,No,Yes,Retired,Married,No,No,Yes,Yes,Good,10,28.6191715976331,0,some college,280
+Landline,urban,female,35_to_44,Hispanic,No,Yes,Disabled,Separated,No,Yes,Yes,Yes,Fair,8,42.6313912009512,0,high school graduate,281
+Landline,mill_town,female,35_to_44,White,Yes,Yes,Self-employed,Married,No,No,No,Yes,Excellent,NA,19.0041089965398,2,more than 4-year college,282
+Landline,diverse_suburb,female,45_to_54,White,Yes,Yes,Employed_for_wages,Single/Never,No,No,No,Yes,Very_good,8,26.602783203125,0,college graduate,283
+Cell,mill_town,female,35_to_44,White,No,Yes,Out_of_work_1-,Single/Never,No,No,Yes,Yes,Very_good,10,36.3936004162331,1,some college,284
+Landline,mill_town,male,35_to_44,White,Yes,Yes,Employed_for_wages,Married,No,Yes,Yes,Yes,Very_good,NA,23.1208888888889,NA,some college,285
+Landline,rural,female,55_to_64,Asian,Yes,Yes,Out_of_work_1-,Married,No,No,Yes,Yes,Good,8,26.260951357162,0,more than 4-year college,286
+Landline,NA,female,65_to_74,NA,No,Yes,Retired,Married,No,No,NA,NA,NA,NA,NA,NA,NA,287
+Landline,mill_town,female,75_or_older,White,No,Yes,Self-employed,Married,No,No,No,Yes,Excellent,10,23.170166015625,0,more than 4-year college,288
+Landline,diverse_suburb,female,65_to_74,Hispanic,No,Yes,Disabled,Divorced,No,No,Yes,Yes,Very_good,10,28.1260813148789,0,high school graduate,289
+Cell,rural,male,35_to_44,White,No,No,Self-employed,Divorced,Yes,No,No,No,Good,8,22.5941230486685,2,high school graduate,290
+Landline,urban,male,45_to_54,Black,Yes,Yes,Employed_for_wages,Single/Never,Yes,No,Yes,Yes,Very_good,NA,31.9269031141869,0,some college,291
+Cell,mill_town,female,35_to_44,Hispanic,Yes,Yes,Employed_for_wages,Married,No,Yes,Yes,Yes,Good,8,32.2208333333333,2,college graduate,292
+Landline,mill_town,male,25_to_34,White,No,Yes,Employed_for_wages,Single/Never,Yes,No,No,Yes,Good,6,31.190200617284,3,high school graduate,293
+Landline,mill_town,female,65_to_74,Other,No,Yes,Retired,Divorced,No,No,Yes,Yes,Excellent,10,24.886474609375,0,high school graduate,294
+Landline,wealth_suburb,female,75_or_older,White,Yes,Yes,Retired,Widowed,No,No,Yes,Yes,Good,10,22.1045417898414,0,high school graduate,295
+Landline,diverse_suburb,male,65_to_74,White,Yes,Yes,Disabled,Married,No,No,Yes,Yes,Good,7,30.6804205514779,0,high school graduate,296
+Landline,urban,female,75_or_older,White,No,Yes,Retired,Widowed,No,Yes,Yes,Yes,Very_good,NA,20.5041666666667,0,some high school,297
+Landline,mill_town,female,55_to_64,White,No,Yes,Homemaker,Married,Yes,Yes,No,Yes,Good,6,28.662353515625,1,college graduate,298
+Landline,rural,female,65_to_74,White,No,Yes,Retired,Divorced,No,No,Yes,Yes,Very_good,9,27.1436111111111,0,high school graduate,299
+Landline,urban,male,45_to_54,Black,No,Yes,Homemaker,Single/Never,Yes,No,No,No,Fair,NA,32.7304522165293,0,some high school,300
+Landline,urban,female,55_to_64,White,Yes,Yes,Retired,Married,No,No,Yes,Yes,Very_good,10,24.743595455558,0,some college,301
+Landline,wealth_suburb,male,45_to_54,White,Yes,Yes,Employed_for_wages,Married,No,No,Yes,Yes,Good,10,35.15,2,more than 4-year college,302
+Landline,urban,female,35_to_44,Hispanic,Yes,Yes,Employed_for_wages,Married,No,No,No,No,Very_good,NA,23.0259511211892,0,more than 4-year college,303
+Landline,mfg,female,45_to_54,Hispanic,Yes,Yes,Employed_for_wages,Single/Never,No,No,No,No,Very_good,NA,25.6035379812695,0,high school graduate,304
+Cell,diverse_suburb,female,25_to_34,Hispanic,Yes,Yes,Employed_for_wages,Single/Never,No,No,No,Yes,Good,10,29.0495867768595,2,high school graduate,305
+Landline,wealth_suburb,male,45_to_54,White,Yes,Yes,Employed_for_wages,Married,Yes,No,Yes,Yes,Excellent,10,34.4326530612245,0,college graduate,306
+Landline,urban,female,65_to_74,Hispanic,No,Yes,Disabled,Widowed,No,No,Yes,Yes,Fair,10,28.3467741935484,0,8th grade or less,307
+Landline,diverse_suburb,female,35_to_44,White,Yes,Yes,Homemaker,Married,No,No,Yes,Yes,Very_good,8,24.9585798816568,1,college graduate,308
+Landline,rural,female,55_to_64,White,Yes,Yes,Employed_for_wages,Married,No,No,Yes,Yes,Excellent,NA,19.4834971025447,0,more than 4-year college,309
+Landline,mfg,female,45_to_54,White,Yes,Yes,Employed_for_wages,Married,Yes,Yes,Yes,Yes,Very_good,8,20.25244140625,1,some college,310
+Landline,mill_town,male,45_to_54,White,No,Yes,Self-employed,Single/Never,Yes,No,No,Yes,Excellent,10,29.9946666666667,0,high school graduate,311
+Landline,mill_town,male,55_to_64,White,Yes,Yes,Out_of_work_1+,Single/Never,No,No,Yes,Yes,Very_good,10,28.4780092592593,0,college graduate,312
+Landline,diverse_suburb,female,55_to_64,White,Yes,Yes,Employed_for_wages,Divorced,No,No,Yes,Yes,Excellent,NA,22.9618934911243,1,more than 4-year college,313
+Landline,mfg,female,35_to_44,Hispanic,Yes,Yes,Employed_for_wages,Married,No,No,Yes,Yes,Good,9,39.8526077097506,1,some college,314
+Landline,mfg,male,65_to_74,White,Yes,Yes,Employed_for_wages,Divorced,No,No,No,Yes,Very_good,9,25.1018693551775,0,more than 4-year college,315
+Landline,diverse_suburb,female,45_to_54,White,Yes,Yes,Employed_for_wages,Married,No,No,Yes,Yes,Excellent,10,23.4010560146924,2,college graduate,316
+Landline,wealth_suburb,male,55_to_64,White,No,No,Self-employed,Married,NA,No,No,No,Excellent,NA,29.005615234375,0,college graduate,317
+Landline,rural,male,75_or_older,White,No,Yes,Retired,Widowed,No,No,No,Yes,Good,7,NA,0,high school graduate,318
+Landline,urban,male,18_to_24,Hispanic,No,Yes,Student,Single/Never,No,No,No,No,Excellent,NA,33.4695496925213,0,high school graduate,319
+Landline,NA,male,75_or_older,NA,Yes,Yes,Retired,Married,No,No,NA,NA,NA,NA,NA,NA,NA,320
+Landline,mill_town,female,65_to_74,White,Yes,Yes,Retired,Widowed,Yes,No,Yes,Yes,Excellent,10,32.9188345473465,0,more than 4-year college,321
+Landline,mill_town,male,55_to_64,White,Yes,Yes,Employed_for_wages,Married,Yes,No,No,Yes,Good,5,32.0749851219996,NA,some college,322
+Landline,mill_town,female,65_to_74,White,Yes,Yes,Retired,Divorced,No,No,Yes,Yes,Good,9,NA,0,some college,323
+Landline,mfg,male,65_to_74,White,Yes,Yes,Employed_for_wages,Married,No,Yes,Yes,Yes,Good,10,22.8869985297206,0,college graduate,324
+Landline,mill_town,male,75_or_older,White,No,Yes,Retired,Married,No,Yes,Yes,Yes,Good,NA,28.3627322199287,0,high school graduate,325
+Landline,mfg,female,55_to_64,White,Yes,Yes,Employed_for_wages,Divorced,Yes,No,No,Yes,Good,10,28.498004620878,0,some college,326
+Landline,wealth_suburb,female,65_to_74,White,No,Yes,Retired,Single/Never,No,Yes,Yes,Yes,Very_good,10,29.2252456538171,0,college graduate,327
+Landline,rural,male,45_to_54,White,Yes,Yes,Employed_for_wages,Married,No,No,Yes,Yes,Excellent,NA,25.8401596303298,2,more than 4-year college,328
+Landline,urban,male,45_to_54,White,No,Yes,Self-employed,Single/Never,No,Yes,Yes,Yes,Very_good,8,30.9593334655822,0,some college,329
+Cell,mill_town,female,55_to_64,White,Yes,Yes,Out_of_work_1+,Single/Never,No,No,No,Yes,Excellent,9,24.1266272189349,0,more than 4-year college,330
+Landline,urban,male,45_to_54,Black,Yes,Yes,Employed_for_wages,Single/Never,No,No,No,No,Good,NA,25.102162269391,0,high school graduate,331
+Landline,mfg,male,45_to_54,White,Yes,Yes,Employed_for_wages,Married,No,Yes,Yes,Yes,Excellent,NA,30.0776881215988,0,more than 4-year college,332
+Cell,diverse_suburb,female,18_to_24,White,No,Yes,Student,Single/Never,Yes,No,No,No,Very_good,10,22.8603017689906,1,some college,333
+Landline,urban,male,35_to_44,Black,Yes,Yes,Self-employed,Married,No,Yes,Yes,Yes,Fair,5,24.4097222222222,NA,more than 4-year college,334
+Landline,rural,female,35_to_44,Asian,Yes,Yes,Employed_for_wages,Married,No,No,No,No,Excellent,NA,22.5941230486685,2,college graduate,335
+Landline,rural,female,55_to_64,White,No,Yes,Employed_for_wages,Married,Yes,Yes,Yes,Yes,Very_good,NA,29.261186264308,0,some college,336
+Cell,NA,male,35_to_44,NA,Yes,Yes,Employed_for_wages,Single/Never,No,Yes,NA,NA,NA,NA,NA,NA,NA,337
+Landline,rural,male,45_to_54,White,Yes,Yes,Self-employed,Married,No,No,No,Yes,Very_good,10,25.1018693551775,0,high school graduate,338
+Landline,urban,female,25_to_34,Hispanic,No,Yes,Homemaker,Single/Never,Yes,No,No,Yes,Good,NA,NA,2,some high school,339
+Cell,mill_town,male,18_to_24,Hispanic,No,No,Employed_for_wages,Married,Yes,No,No,No,Fair,4,29.983138266217,0,high school graduate,340
+Landline,urban,male,65_to_74,Hispanic,No,Yes,Disabled,Married,No,No,No,Yes,Excellent,10,32.277318640955,0,some high school,341
+Landline,rural,male,45_to_54,Other,Yes,Yes,Employed_for_wages,Divorced,Yes,No,No,No,Good,3,29.1560570987654,0,some college,342
+Landline,mfg,male,55_to_64,White,No,Yes,Disabled,Divorced,Yes,No,No,Yes,Good,NA,19.5239039873041,0,some college,343
+Cell,urban,male,55_to_64,Hispanic,Yes,Yes,Retired,Married,No,No,No,Yes,Very_good,8,27.1219135802469,0,high school graduate,344
+Landline,diverse_suburb,female,55_to_64,Black,Yes,Yes,Retired,Widowed,No,No,Yes,Yes,Very_good,8,22.1299408284024,0,some college,345
+Cell,rural,female,25_to_34,White,Yes,Yes,Employed_for_wages,Single/Never,No,No,Yes,Yes,Very_good,9,29.261186264308,1,more than 4-year college,346
+Landline,mill_town,female,55_to_64,White,Yes,Yes,Employed_for_wages,Divorced,Yes,No,No,Yes,Excellent,NA,24.4097222222222,0,more than 4-year college,347
+Landline,diverse_suburb,female,55_to_64,White,Yes,Yes,Retired,Widowed,No,Yes,Yes,Yes,Fair,9,37.7587890625,0,high school graduate,348
+Landline,diverse_suburb,female,35_to_44,White,No,Yes,Disabled,Single/Never,No,No,Yes,Yes,Fair,7,22.31201171875,0,college graduate,349
+Landline,mill_town,female,65_to_74,White,Yes,Yes,Retired,Divorced,No,No,Yes,Yes,Fair,10,22.1299408284024,0,more than 4-year college,350
+Landline,rural,female,65_to_74,White,Yes,Yes,Employed_for_wages,Widowed,No,Yes,Yes,Yes,Very_good,9,27.4357208448118,0,college graduate,351
+Cell,urban,female,35_to_44,White,Yes,Yes,Employed_for_wages,Single/Never,Yes,Yes,Yes,No,Good,7,31.8820861678005,0,some college,352
+Cell,urban,female,18_to_24,Hispanic,No,Yes,Employed_for_wages,Single/Never,No,No,No,Yes,Excellent,10,32.9188345473465,1,high school graduate,353
+Cell,mfg,female,45_to_54,Other,Yes,Yes,Employed_for_wages,Single/Never,Yes,No,Yes,Yes,Excellent,6,22.1967993079585,0,more than 4-year college,354
+Landline,rural,male,55_to_64,White,Yes,Yes,Self-employed,Married,No,Yes,Yes,Yes,Very_good,NA,29.2858559809562,0,more than 4-year college,355
+Landline,mfg,female,65_to_74,White,Yes,Yes,Retired,Married,No,No,No,Yes,Excellent,10,23.5624426078972,0,college graduate,356
+Landline,wealth_suburb,female,65_to_74,White,Yes,Yes,Homemaker,Widowed,No,No,Yes,Yes,Good,9,21.5204081632653,0,some college,357
+Landline,urban,female,75_or_older,White,Yes,Yes,Retired,Widowed,No,No,Yes,No,Excellent,10,22.0663888888889,0,more than 4-year college,358
+Cell,mill_town,male,25_to_34,White,Yes,Yes,Disabled,Married,No,Yes,Yes,Yes,Fair,10,31.660724338525,0,college graduate,359
+Landline,diverse_suburb,female,65_to_74,White,Yes,Yes,Retired,Married,No,No,No,Yes,Very_good,9,NA,0,more than 4-year college,360
+Landline,mill_town,male,55_to_64,White,Yes,Yes,Employed_for_wages,Married,Yes,No,No,No,Excellent,NA,30.3584807492196,0,more than 4-year college,361
+Cell,rural,male,65_to_74,White,Yes,Yes,Retired,Married,No,No,No,Yes,Very_good,10,35.5493428380486,0,high school graduate,362
+Cell,mill_town,male,25_to_34,Hispanic,No,Yes,Self-employed,Single/Never,Yes,No,No,Yes,Excellent,NA,26.5418367346939,NA,more than 4-year college,363
+Landline,rural,male,65_to_74,White,Yes,Yes,Self-employed,Married,No,No,Yes,Yes,Very_good,10,23.7075976988693,0,more than 4-year college,364
+Landline,rural,female,35_to_44,White,Yes,Yes,Employed_for_wages,Married,No,No,Yes,Yes,Excellent,9,25.83983069726,0,high school graduate,365
+Landline,mill_town,male,65_to_74,White,Yes,Yes,Retired,Married,No,No,Yes,Yes,Very_good,9,29.8565197428834,0,high school graduate,366
+Landline,rural,male,35_to_44,White,Yes,Yes,Employed_for_wages,Married,Yes,No,Yes,No,Excellent,NA,24.2456888888889,3,some college,367
+Landline,rural,female,55_to_64,White,No,Yes,Disabled,Single/Never,No,No,Yes,Yes,Good,10,54.921875,0,some college,368
+Landline,mfg,male,45_to_54,White,Yes,Yes,Employed_for_wages,Divorced,No,Yes,No,Yes,Good,10,51.5316358024691,0,some college,369
+Landline,diverse_suburb,male,25_to_34,White,Yes,Yes,Employed_for_wages,Married,No,Yes,No,Yes,Very_good,10,34.5761224489796,3,some college,370
+Cell,wealth_suburb,male,65_to_74,White,No,Yes,Employed_for_wages,Married,No,No,No,Yes,Excellent,NA,25.6925015752993,0,college graduate,371
+Landline,rural,female,55_to_64,White,No,Yes,Disabled,Married,No,Yes,Yes,Yes,Poor,9,44.8336684860672,0,some high school,372
+Landline,mfg,female,35_to_44,Hispanic,No,Yes,Employed_for_wages,Married,Yes,Yes,Yes,Yes,Good,10,30.721923828125,2,college graduate,373
+Landline,urban,female,65_to_74,White,No,Yes,Retired,Married,No,No,Yes,Yes,Very_good,8,24.5606019887127,NA,college graduate,374
+Cell,rural,male,35_to_44,White,Yes,Yes,Employed_for_wages,Single/Never,No,No,No,No,Excellent,10,27.1940091251736,0,college graduate,375
+Landline,mfg,female,45_to_54,White,Yes,Yes,Employed_for_wages,Single/Never,Yes,Yes,Yes,Yes,Very_good,8,37.5852082869236,0,more than 4-year college,376
+Landline,NA,female,55_to_64,NA,Yes,Yes,Employed_for_wages,Single/Never,No,Yes,NA,NA,NA,NA,NA,NA,NA,377
+Landline,diverse_suburb,female,55_to_64,White,Yes,Yes,Employed_for_wages,Married,No,Yes,Yes,Yes,Excellent,NA,19.5277777777778,0,more than 4-year college,378
+Cell,wealth_suburb,male,55_to_64,White,Yes,Yes,Employed_for_wages,Married,No,Yes,Yes,Yes,Very_good,8,28.7933207309389,NA,college graduate,379
+Landline,rural,female,45_to_54,White,No,Yes,Disabled,Widowed,Yes,No,Yes,Yes,Good,8,29.17724609375,1,college graduate,380
+Cell,mfg,male,18_to_24,Hispanic,No,No,Employed_for_wages,Single/Never,No,No,No,No,Poor,5,NA,0,some high school,381
+Landline,diverse_suburb,female,55_to_64,White,Yes,Yes,Employed_for_wages,Single/Never,No,No,Yes,No,Very_good,8,31.751708984375,0,college graduate,382
+Landline,NA,female,65_to_74,White,Yes,Yes,Self-employed,Married,No,No,Yes,Yes,Excellent,10,NA,0,more than 4-year college,383
+Landline,rural,female,35_to_44,White,Yes,Yes,Employed_for_wages,Married,Yes,No,Yes,Yes,Good,8,29.1560570987654,2,college graduate,384
+Landline,mill_town,male,75_or_older,White,No,Yes,Retired,Widowed,No,Yes,Yes,Yes,Good,10,23.9115646258503,0,some college,385
+Landline,mfg,female,25_to_34,White,No,Yes,Employed_for_wages,Single/Never,No,Yes,No,No,Fair,4,36.576482830385,1,high school graduate,386
+Landline,rural,female,65_to_74,White,No,Yes,Retired,Married,Yes,No,Yes,Yes,Excellent,10,24.9585798816568,0,college graduate,387
+Landline,mill_town,female,45_to_54,White,No,No,Employed_for_wages,Single/Never,Yes,Yes,Yes,No,Good,4,26.3625,0,high school graduate,388
+Landline,wealth_suburb,female,65_to_74,White,No,Yes,Employed_for_wages,Divorced,No,No,Yes,Yes,Very_good,9,29.2851414568946,0,college graduate,389
+Cell,mill_town,female,45_to_54,White,No,Yes,Disabled,Single/Never,Yes,Yes,No,Yes,Good,6,44.103552532124,0,high school graduate,390
+Cell,mill_town,male,25_to_34,White,Yes,Yes,Employed_for_wages,Married,No,No,No,No,Very_good,NA,23.0536265432099,0,college graduate,391
+Landline,diverse_suburb,male,35_to_44,Black,Yes,Yes,Employed_for_wages,Divorced,No,No,No,No,Very_good,NA,25.8455882352941,2,college graduate,392
+Landline,NA,female,75_or_older,NA,No,Yes,Retired,Married,No,No,NA,NA,NA,NA,NA,NA,NA,393
+Landline,mfg,male,65_to_74,White,No,Yes,Retired,Married,No,No,Yes,Yes,Very_good,10,31.3035076664566,0,some college,394
+Landline,rural,female,65_to_74,White,Yes,Yes,Retired,Divorced,No,No,Yes,Yes,Very_good,9,21.797119140625,0,high school graduate,395
+Landline,rural,female,35_to_44,White,Yes,Yes,Employed_for_wages,Married,Yes,Yes,Yes,Yes,Very_good,10,25.3894896193772,2,more than 4-year college,396
+Landline,urban,female,35_to_44,White,No,Yes,Employed_for_wages,Single/Never,Yes,Yes,Yes,Yes,Fair,8,38.2698224852071,0,high school graduate,397
+Landline,urban,male,75_or_older,White,No,Yes,Retired,Widowed,No,No,Yes,Yes,Very_good,10,31.7960722078953,0,some college,398
+Landline,urban,female,25_to_34,Black,Yes,Yes,Employed_for_wages,Married,No,No,Yes,Yes,Excellent,NA,41.0083333333333,3,some college,399
+Landline,rural,female,55_to_64,White,Yes,Yes,Employed_for_wages,Married,No,No,Yes,No,Very_good,NA,25.0568055246157,0,high school graduate,400
+Landline,mfg,female,35_to_44,Hispanic,No,Yes,Homemaker,Single/Never,No,No,No,Yes,Fair,10,33.8332466181061,1,some college,401
+Landline,wealth_suburb,male,18_to_24,White,Yes,Yes,Employed_for_wages,Single/Never,No,No,No,No,Good,NA,26.5418367346939,NA,college graduate,402
+Landline,urban,female,65_to_74,White,No,Yes,Retired,Divorced,No,No,Yes,Yes,Excellent,10,27.9536094674556,0,more than 4-year college,403
+Landline,mfg,female,18_to_24,Hispanic,No,Yes,Employed_for_wages,Single/Never,No,No,No,Yes,Good,NA,19.8374092985757,0,some college,404
+Cell,diverse_suburb,male,25_to_34,Black,Yes,Yes,Employed_for_wages,Married,No,No,Yes,No,Excellent,NA,24.2079889807163,0,more than 4-year college,405
+Landline,NA,female,45_to_54,NA,No,No,Out_of_work_1+,Married,Yes,Yes,No,No,NA,NA,NA,NA,NA,406
+Landline,mill_town,female,55_to_64,White,No,Yes,Employed_for_wages,Divorced,Yes,No,Yes,Yes,Excellent,NA,26.9226505416982,0,some college,407
+Landline,urban,female,65_to_74,Black,No,Yes,Retired,Single/Never,No,No,Yes,Yes,Fair,9,33.8332466181061,0,high school graduate,408
+Landline,mfg,female,75_or_older,White,No,Yes,Retired,Divorced,No,No,Yes,Yes,Fair,9,20.1733241505969,0,high school graduate,409
+Cell,mill_town,male,35_to_44,White,No,Yes,Employed_for_wages,Separated,Yes,Yes,Yes,Yes,Fair,6,30.2680555555556,2,high school graduate,410
+Landline,mill_town,female,25_to_34,White,Yes,Yes,Employed_for_wages,Single/Never,Yes,No,No,Yes,Very_good,NA,24.3252595155709,0,college graduate,411
+Landline,urban,female,55_to_64,White,Yes,Yes,Employed_for_wages,Single/Never,No,No,Yes,Yes,Very_good,7,23.294674556213,0,high school graduate,412
+Landline,urban,female,55_to_64,Hispanic,No,No,Employed_for_wages,Married,No,No,No,No,Fair,9,23.4010560146924,0,8th grade or less,413
+Landline,wealth_suburb,female,55_to_64,White,No,Yes,Homemaker,Married,No,No,Yes,Yes,Very_good,9,21.963550295858,0,more than 4-year college,414
+Cell,rural,male,18_to_24,Asian,No,Yes,Student,Single/Never,No,No,No,Yes,Very_good,NA,24.6689810471008,0,high school graduate,415
+Cell,diverse_suburb,female,65_to_74,White,No,Yes,Retired,Widowed,Yes,Yes,Yes,Yes,Fair,10,39.47509765625,0,high school graduate,416
+Landline,mfg,male,45_to_54,White,Yes,Yes,Retired,Married,No,No,Yes,Yes,Fair,10,38.019387755102,0,some college,417
+Landline,rural,male,55_to_64,White,Yes,Yes,Retired,Married,Yes,No,Yes,Yes,Very_good,10,28.8153263533081,0,college graduate,418
+Landline,rural,female,55_to_64,White,Yes,Yes,Employed_for_wages,Single/Never,Yes,No,Yes,Yes,Very_good,9,23.170166015625,0,more than 4-year college,419
+Landline,mfg,male,55_to_64,White,No,Yes,Disabled,Divorced,No,No,Yes,Yes,Fair,10,26.6224852071006,0,high school graduate,420
+Cell,rural,female,45_to_54,White,Yes,Yes,Employed_for_wages,Married,Yes,No,Yes,Yes,Very_good,9,27.4058810425485,0,more than 4-year college,421
+Cell,rural,female,55_to_64,White,Yes,Yes,Retired,Married,Yes,No,No,Yes,Very_good,8,27.4357208448118,0,high school graduate,422
+Landline,urban,female,65_to_74,Black,No,Yes,Retired,Widowed,Yes,No,No,Yes,Good,5,35.5297067901235,0,high school graduate,423
+Landline,wealth_suburb,female,55_to_64,White,Yes,Yes,Homemaker,Married,No,No,Yes,Yes,Very_good,10,32.9979591836735,0,some college,424
+Cell,urban,male,45_to_54,Hispanic,Yes,Yes,Employed_for_wages,Divorced,No,No,No,Yes,Excellent,NA,21.4104179794161,0,high school graduate,425
+Landline,urban,female,75_or_older,White,No,Yes,Retired,Divorced,Yes,No,Yes,Yes,Good,10,15.5450052029136,0,high school graduate,426
+Landline,diverse_suburb,female,45_to_54,White,Yes,Yes,Out_of_work_1-,Divorced,No,No,No,No,Very_good,NA,25.821854912764,2,high school graduate,427
+Landline,urban,female,45_to_54,White,No,Yes,Disabled,Divorced,No,No,No,Yes,Fair,10,24.9585798816568,0,high school graduate,428
+Landline,urban,female,65_to_74,Other,No,Yes,Retired,Divorced,No,No,No,Yes,Good,10,24.1404786680541,0,some college,429
+Landline,mfg,female,55_to_64,White,Yes,Yes,Employed_for_wages,Married,No,No,Yes,Yes,Good,10,35.424540186445,0,more than 4-year college,430
+Landline,wealth_suburb,male,18_to_24,White,Yes,Yes,Student,Single/Never,No,Yes,Yes,Yes,Good,9,23.7171280276817,0,some high school,431
+Landline,diverse_suburb,female,55_to_64,White,No,Yes,Employed_for_wages,Married,Yes,No,No,Yes,Fair,10,18.3029585798817,0,some college,432
+Landline,rural,female,75_or_older,White,No,Yes,Retired,Widowed,No,Yes,Yes,Yes,Very_good,9,26.3350676378772,NA,some college,433
+Landline,mill_town,male,55_to_64,White,Yes,Yes,Employed_for_wages,Married,No,No,Yes,Yes,Good,8,24.2144444444444,0,8th grade or less,434
+Landline,mill_town,male,65_to_74,White,No,Yes,Retired,Widowed,No,No,Yes,Yes,Very_good,10,21.7871900826446,0,college graduate,435
+Landline,rural,female,18_to_24,White,Yes,Yes,Student,Single/Never,No,No,No,Yes,Excellent,NA,20.0454444196926,4,some college,436
+Landline,mfg,female,75_or_older,White,No,Yes,Retired,Widowed,Yes,No,No,Yes,Very_good,10,14.363406795225,0,some college,437
+Landline,urban,male,65_to_74,Black,Yes,Yes,Retired,Divorced,No,Yes,Yes,Yes,Fair,7,28.4802631578947,0,some college,438
+Landline,rural,female,35_to_44,White,Yes,Yes,Homemaker,Married,No,No,Yes,Yes,Good,8,20.4660355029586,1,more than 4-year college,439
+Landline,mfg,female,45_to_54,White,Yes,Yes,Self-employed,Married,No,No,Yes,Yes,Good,10,32.9188345473465,0,high school graduate,440
+Cell,mfg,male,45_to_54,White,No,Yes,Out_of_work_1-,Married,No,Yes,No,Yes,Fair,8,25.5266206282023,0,high school graduate,441
+Landline,urban,female,45_to_54,Hispanic,Yes,Yes,Homemaker,Married,No,No,No,Yes,Fair,10,20.595703125,0,8th grade or less,442
+Landline,mfg,female,65_to_74,White,Yes,Yes,Retired,Single/Never,No,No,Yes,Yes,Good,10,21.0776014109347,0,some college,443
+Landline,rural,female,65_to_74,White,Yes,Yes,Employed_for_wages,Divorced,No,No,Yes,Yes,Very_good,8,29.2837946788498,0,more than 4-year college,444
+Landline,urban,female,45_to_54,Black,Yes,Yes,Employed_for_wages,Married,No,No,No,No,Excellent,NA,22.707730006683,0,some college,445
+Landline,urban,female,45_to_54,Black,Yes,Yes,Out_of_work_1-,Single/Never,No,No,Yes,Yes,Excellent,10,32.4134542705971,1,some college,446
+Landline,mill_town,female,65_to_74,White,No,Yes,Retired,Married,No,No,Yes,Yes,NA,9,30.6969261706406,0,high school graduate,447
+Landline,wealth_suburb,female,55_to_64,White,Yes,Yes,Employed_for_wages,Divorced,No,No,Yes,Yes,Excellent,10,25.74462890625,1,college graduate,448
+Landline,mill_town,male,65_to_74,White,No,Yes,Retired,Married,No,No,No,No,Very_good,NA,25.1018693551775,0,high school graduate,449
+Landline,mill_town,female,25_to_34,White,Yes,Yes,Employed_for_wages,Married,No,Yes,Yes,No,Excellent,NA,22.707730006683,2,some college,450
+Landline,mfg,male,55_to_64,White,No,Yes,Retired,Divorced,No,No,No,Yes,Very_good,10,24.0067567567568,0,high school graduate,451
+Landline,diverse_suburb,male,55_to_64,White,Yes,Yes,Employed_for_wages,Married,No,No,Yes,Yes,Good,10,38.7367346938776,0,college graduate,452
+Landline,rural,female,65_to_74,White,Yes,Yes,Retired,Divorced,No,No,Yes,Yes,Excellent,10,21.254724111867,0,more than 4-year college,453
+Landline,urban,female,45_to_54,Hispanic,No,Yes,Homemaker,Separated,No,No,Yes,Yes,Fair,9,30.9841440472991,1,some high school,454
+Landline,diverse_suburb,male,55_to_64,White,Yes,Yes,Retired,Single/Never,Yes,Yes,Yes,Yes,Very_good,8,26.3839369487709,0,some college,455
+Landline,rural,male,45_to_54,White,No,No,Employed_for_wages,Married,No,No,No,Yes,Very_good,NA,26.578449905482,0,college graduate,456
+Landline,mill_town,female,25_to_34,White,No,No,Employed_for_wages,Married,Yes,No,Yes,Yes,Very_good,8,26.4498790647675,0,some college,457
+Landline,mill_town,female,45_to_54,White,Yes,Yes,Employed_for_wages,Divorced,Yes,No,Yes,Yes,Very_good,6,21.5801248699272,0,college graduate,458
+Landline,wealth_suburb,female,55_to_64,White,No,Yes,Homemaker,Married,No,Yes,Yes,Yes,Very_good,10,19.7642733564014,0,more than 4-year college,459
+Landline,mill_town,female,75_or_older,White,No,Yes,Retired,Widowed,No,Yes,NA,No,Very_good,NA,15.6222222222222,0,high school graduate,460
+Landline,urban,female,55_to_64,White,Yes,Yes,Employed_for_wages,Married,Yes,No,No,Yes,Good,8,NA,0,some high school,461
+Landline,mill_town,male,55_to_64,White,Yes,Yes,Retired,Married,No,No,No,Yes,Poor,NA,34.4326530612245,0,high school graduate,462
+Landline,mill_town,male,55_to_64,White,No,Yes,Disabled,Single/Never,No,No,Yes,Yes,Good,NA,22.0447664359862,0,high school graduate,463
+Landline,mfg,female,55_to_64,White,Yes,Yes,Employed_for_wages,Single/Never,No,No,Yes,Yes,Very_good,10,26.788875739645,0,some college,464
+Cell,rural,female,45_to_54,White,No,No,Out_of_work_1-,Divorced,Yes,No,No,No,Good,NA,27.9853867472915,0,some college,465
+Landline,diverse_suburb,male,75_or_older,White,Yes,Yes,Retired,Married,No,Yes,Yes,Yes,Excellent,10,24.6293252595156,0,some college,466
+Landline,rural,male,18_to_24,White,Yes,Yes,Student,Single/Never,No,No,Yes,Yes,Excellent,NA,18.3072916666667,0,some college,467
+Landline,rural,female,18_to_24,White,Yes,Yes,Employed_for_wages,Single/Never,No,No,Yes,Yes,Very_good,10,29.0495867768595,0,college graduate,468
+Landline,diverse_suburb,male,18_to_24,Asian,No,No,Student,Single/Never,No,No,No,No,Very_good,NA,29.9946666666667,0,high school graduate,469
+Landline,mill_town,female,55_to_64,White,No,No,Self-employed,Divorced,No,No,No,No,Excellent,NA,20.9802571166208,0,some college,470
+Landline,rural,female,75_or_older,White,No,Yes,Retired,Married,No,No,No,Yes,Very_good,10,28.2863905325444,0,high school graduate,471
+Landline,rural,male,65_to_74,Hispanic,Yes,Yes,Employed_for_wages,Married,No,No,Yes,Yes,Very_good,10,24.1028571428571,0,more than 4-year college,472
+Landline,mfg,female,65_to_74,White,No,Yes,Employed_for_wages,Single/Never,No,No,No,No,Excellent,10,29.261186264308,0,high school graduate,473
+Landline,mill_town,female,65_to_74,White,No,Yes,Retired,Married,No,Yes,Yes,Yes,Good,10,24.2344153978742,0,some high school,474
+Landline,urban,male,25_to_34,White,No,No,Employed_for_wages,Single/Never,No,Yes,No,Yes,Very_good,NA,34.9587164571214,0,some college,475
+Landline,rural,female,65_to_74,White,No,Yes,Homemaker,Widowed,No,Yes,Yes,Yes,Very_good,10,28.2863905325444,0,high school graduate,476
+Landline,mfg,female,55_to_64,Hispanic,No,Yes,Disabled,Single/Never,No,Yes,Yes,Yes,Fair,10,NA,0,some high school,477
+Landline,mill_town,female,55_to_64,White,Yes,Yes,Retired,Married,No,Yes,Yes,No,Good,NA,31.8820861678005,0,some college,478
+Landline,urban,female,18_to_24,Hispanic,No,Yes,Employed_for_wages,Single/Never,No,Yes,No,Yes,Fair,NA,25.5056689342404,0,some college,479
+Landline,wealth_suburb,female,65_to_74,White,Yes,Yes,Retired,Married,No,No,Yes,Yes,Good,8,32.2208333333333,0,some college,480
+Landline,rural,female,35_to_44,White,Yes,Yes,Disabled,Separated,Yes,Yes,Yes,Yes,Fair,9,45.9237869822485,2,some college,481
+Landline,mill_town,female,75_or_older,White,No,Yes,Retired,Widowed,No,No,Yes,Yes,Good,10,20.1170655567118,0,more than 4-year college,482
+Landline,urban,male,25_to_34,White,No,Yes,Student,Married,No,Yes,Yes,Yes,Very_good,NA,25.4945987654321,0,college graduate,483
+Landline,mfg,female,25_to_34,Black,Yes,Yes,Employed_for_wages,Married,Yes,Yes,Yes,Yes,Fair,5,33.468017578125,2,some college,484
+Landline,mill_town,female,25_to_34,Other,No,Yes,Employed_for_wages,Single/Never,No,No,No,No,Very_good,NA,20.9004787100025,2,high school graduate,485
+Landline,rural,female,65_to_74,White,Yes,Yes,Employed_for_wages,Married,No,No,Yes,Yes,Very_good,NA,28.3467741935484,0,some college,486
+Cell,rural,female,25_to_34,White,No,Yes,Student,Divorced,Yes,Yes,Yes,Yes,Good,10,20.4660355029586,4,some college,487
+Cell,mfg,female,55_to_64,White,No,Yes,Self-employed,Divorced,Yes,No,Yes,NA,Excellent,NA,20.595703125,0,more than 4-year college,488
+Landline,urban,female,45_to_54,White,No,Yes,Out_of_work_1+,Divorced,No,No,No,No,Very_good,NA,22.31201171875,0,some college,489
+Landline,mill_town,female,45_to_54,White,Yes,Yes,Employed_for_wages,Married,No,No,Yes,No,Excellent,9,21.453857421875,1,college graduate,490
+Landline,rural,male,45_to_54,White,No,No,Self-employed,Married,Yes,No,No,Yes,Fair,2,29.022330643648,0,some college,491
+Landline,mfg,female,18_to_24,White,Yes,Yes,Employed_for_wages,Married,Yes,Yes,No,Yes,Good,5,21.7871900826446,1,college graduate,492
+Landline,mfg,female,45_to_54,White,Yes,Yes,Employed_for_wages,Married,No,Yes,No,Yes,Very_good,NA,NA,0,high school graduate,493
+Landline,rural,female,45_to_54,White,Yes,Yes,Employed_for_wages,Married,No,No,Yes,Yes,Excellent,10,21.2979881656805,0,college graduate,494
+Landline,rural,male,45_to_54,White,No,Yes,Employed_for_wages,Married,Yes,Yes,No,No,Good,NA,30.4065743944637,2,some college,495
+Landline,mill_town,male,65_to_74,Hispanic,Yes,Yes,Employed_for_wages,Married,No,No,Yes,Yes,Excellent,10,27.9765306122449,1,more than 4-year college,496
+Landline,mill_town,female,45_to_54,White,Yes,Yes,Employed_for_wages,Single/Never,Yes,Yes,Yes,Yes,Very_good,10,31.580078125,0,more than 4-year college,497
+Cell,wealth_suburb,male,55_to_64,White,Yes,Yes,Employed_for_wages,Married,No,No,No,Yes,Very_good,10,25.0877700617284,0,some college,498
+Landline,rural,male,45_to_54,White,Yes,Yes,Employed_for_wages,Married,Yes,No,No,Yes,Excellent,8,28.1260813148789,1,some college,499
+Landline,mfg,female,35_to_44,Black,Yes,Yes,Employed_for_wages,NA,Yes,No,Yes,No,Good,8,NA,1,more than 4-year college,500
+Landline,urban,female,55_to_64,Hispanic,No,Yes,Retired,Married,Yes,No,Yes,Yes,Fair,8,24.9585798816568,NA,some high school,501
+Landline,urban,female,65_to_74,Hispanic,No,Yes,Disabled,Married,No,No,Yes,Yes,Good,NA,21.0776014109347,0,high school graduate,502
+Landline,mfg,female,45_to_54,Black,Yes,Yes,Employed_for_wages,Married,No,No,Yes,Yes,Good,10,34.1398975272889,3,some college,503
+Landline,mfg,female,75_or_older,White,Yes,Yes,Homemaker,Married,No,No,No,No,Good,8,20.1170655567118,0,high school graduate,504
+Landline,mill_town,female,45_to_54,White,Yes,Yes,Employed_for_wages,Single/Never,No,No,No,Yes,Very_good,8,25.3861111111111,0,high school graduate,505
+Cell,mill_town,male,65_to_74,White,Yes,Yes,Retired,Married,No,No,Yes,Yes,Good,8,26.578449905482,0,more than 4-year college,506
+Landline,mfg,female,75_or_older,White,No,Yes,Retired,Widowed,No,Yes,Yes,Yes,Good,10,20.9004787100025,0,college graduate,507
+Landline,urban,male,45_to_54,Hispanic,Yes,Yes,Employed_for_wages,Married,No,Yes,No,Yes,Very_good,10,29.4112244897959,0,some college,508
+Landline,mfg,female,55_to_64,White,Yes,Yes,Employed_for_wages,Divorced,No,No,No,No,Excellent,NA,25.6941682343456,0,high school graduate,509
+Landline,diverse_suburb,female,75_or_older,White,No,Yes,Retired,Single/Never,No,No,No,Yes,Very_good,8,18.87939453125,0,college graduate,510
+Cell,diverse_suburb,female,18_to_24,Hispanic,Yes,Yes,Employed_for_wages,Single/Never,No,No,No,No,Very_good,NA,23.0491803278689,2,some college,511
+Landline,urban,female,55_to_64,White,Yes,Yes,Retired,Married,No,Yes,Yes,Yes,Good,10,26.2141597379693,0,more than 4-year college,512
+Cell,mfg,female,35_to_44,White,No,No,Self-employed,Single/Never,Yes,No,No,Yes,Good,5,29.6951331496786,1,some college,513
+Landline,mill_town,female,65_to_74,White,Yes,Yes,Employed_for_wages,Married,Yes,No,Yes,Yes,Very_good,8,NA,0,high school graduate,514
+Landline,wealth_suburb,female,75_or_older,White,No,Yes,Retired,Married,No,No,Yes,Yes,Good,10,25.6035379812695,0,high school graduate,515
+Landline,urban,male,75_or_older,Black,Yes,Yes,Employed_for_wages,Married,No,Yes,Yes,Yes,Good,9,26.6477763182586,0,more than 4-year college,516
+Landline,mfg,male,55_to_64,White,Yes,Yes,Employed_for_wages,Married,No,Yes,Yes,Yes,Very_good,10,26.4967268399127,0,college graduate,517
+Cell,rural,female,55_to_64,NA,No,Yes,Self-employed,Married,Yes,Yes,No,Yes,Very_good,7,26.6228558699042,NA,more than 4-year college,518
+Landline,wealth_suburb,male,75_or_older,White,Yes,Yes,Retired,Married,No,No,Yes,Yes,Very_good,8,26.9594594594595,0,some college,519
+Landline,wealth_suburb,male,45_to_54,White,Yes,Yes,Employed_for_wages,Married,No,No,No,No,Very_good,NA,26.4967268399127,NA,high school graduate,520
+Cell,mill_town,male,45_to_54,White,Yes,Yes,Employed_for_wages,Single/Never,No,Yes,Yes,Yes,Very_good,NA,34.2991180334021,NA,more than 4-year college,521
+Landline,rural,female,25_to_34,White,Yes,Yes,Employed_for_wages,Married,Yes,Yes,Yes,Yes,Good,9,29.9502958579882,0,college graduate,522
+Cell,urban,female,55_to_64,Black,No,No,Out_of_work_1+,Married,No,Yes,Yes,Yes,Good,NA,23.0259511211892,0,8th grade or less,523
+Cell,mfg,female,75_or_older,White,Yes,Yes,Retired,Widowed,No,No,Yes,Yes,Good,NA,29.2916666666667,0,high school graduate,524
+Landline,diverse_suburb,female,25_to_34,White,Yes,Yes,Employed_for_wages,Married,Yes,Yes,Yes,Yes,Good,NA,38.2698224852071,0,more than 4-year college,525
+Landline,mfg,male,55_to_64,White,Yes,Yes,Employed_for_wages,Married,No,Yes,No,Yes,Very_good,NA,24.2079889807163,0,high school graduate,526
+Landline,urban,female,65_to_74,Black,No,No,Out_of_work_1+,Divorced,No,No,No,Yes,Good,NA,29.983138266217,0,some college,527
+Landline,rural,female,55_to_64,White,Yes,Yes,Employed_for_wages,Divorced,No,Yes,Yes,Yes,Good,9,32.5738471820004,0,more than 4-year college,528
+Landline,urban,female,25_to_34,Hispanic,Yes,Yes,Employed_for_wages,Married,Yes,Yes,Yes,Yes,Good,2,31.0900104058273,2,college graduate,529
+Landline,wealth_suburb,male,35_to_44,White,Yes,Yes,Employed_for_wages,Married,No,No,Yes,Yes,Good,8,31.9269031141869,2,college graduate,530
+Landline,rural,female,25_to_34,Hispanic,Yes,Yes,Employed_for_wages,Married,No,Yes,No,No,Fair,NA,28.319091796875,0,high school graduate,531
+Landline,wealth_suburb,male,65_to_74,White,No,Yes,Self-employed,Married,No,No,Yes,Yes,Very_good,9,28.5885736956953,0,college graduate,532
+Landline,diverse_suburb,female,55_to_64,White,No,Yes,Employed_for_wages,Widowed,No,No,No,No,Fair,NA,29.261186264308,0,high school graduate,533
+Landline,urban,male,35_to_44,NA,Yes,Yes,Employed_for_wages,Married,Yes,No,No,No,Very_good,NA,23.5650951557093,0,high school graduate,534
+Landline,rural,male,55_to_64,White,Yes,Yes,Employed_for_wages,Divorced,Yes,No,Yes,Yes,Good,10,NA,0,some college,535
+Landline,mill_town,male,45_to_54,White,Yes,Yes,Employed_for_wages,Married,No,No,Yes,Yes,Very_good,NA,40.6828703703704,0,high school graduate,536
+Landline,rural,female,65_to_74,White,Yes,Yes,Employed_for_wages,Widowed,No,No,Yes,Yes,Very_good,10,31.8820861678005,0,some college,537
+Cell,urban,female,35_to_44,Hispanic,No,Yes,Out_of_work_1-,Single/Never,No,Yes,Yes,Yes,Good,8,34.5647762747138,2,some college,538
+Cell,diverse_suburb,female,65_to_74,NA,No,Yes,Retired,Divorced,No,No,No,Yes,Good,10,30.035400390625,NA,some college,539
+Landline,mill_town,female,75_or_older,White,Yes,Yes,Retired,Widowed,No,Yes,Yes,Yes,Very_good,10,20.0119375573921,0,college graduate,540
+Cell,mill_town,male,45_to_54,White,No,Yes,Self-employed,Married,No,No,No,No,Very_good,NA,25.1018693551775,3,more than 4-year college,541
+Landline,rural,male,45_to_54,White,Yes,Yes,Employed_for_wages,Married,Yes,No,No,Yes,Very_good,8,24.7456,0,some college,542
+Landline,mill_town,female,65_to_74,White,Yes,Yes,Retired,Married,No,Yes,No,Yes,Very_good,10,36.571046373365,0,high school graduate,543
+Cell,mfg,male,25_to_34,White,Yes,Yes,Employed_for_wages,Married,No,No,No,No,Very_good,NA,23.7075976988693,2,high school graduate,544
+Landline,rural,male,45_to_54,White,Yes,Yes,Employed_for_wages,Divorced,No,No,No,Yes,Very_good,7,41.9605142332415,0,high school graduate,545
+Landline,mill_town,female,65_to_74,White,No,Yes,Disabled,Divorced,Yes,Yes,Yes,Yes,Very_good,NA,21.7266863746305,0,high school graduate,546
+Landline,mill_town,female,45_to_54,White,No,No,Self-employed,Married,Yes,Yes,Yes,Yes,Very_good,0,34.2139577594123,0,college graduate,547
+Cell,mill_town,female,18_to_24,White,Yes,Yes,Homemaker,Single/Never,Yes,No,No,No,Good,8,30.2930192473427,2,some college,548
+Landline,rural,female,55_to_64,White,No,Yes,Homemaker,Single/Never,Yes,Yes,Yes,Yes,Excellent,5,18.5978835978836,1,more than 4-year college,549
+Landline,rural,male,75_or_older,White,Yes,Yes,Retired,Married,No,No,No,Yes,Fair,10,26.6057525951557,0,high school graduate,550
+Landline,urban,female,35_to_44,Black,Yes,Yes,Employed_for_wages,Widowed,No,No,Yes,No,Excellent,NA,20.4960973370064,1,college graduate,551
+Cell,mfg,female,35_to_44,Hispanic,Yes,Yes,Employed_for_wages,Single/Never,No,Yes,Yes,Yes,Excellent,NA,24.7921893491124,1,more than 4-year college,552
+Landline,urban,female,45_to_54,White,Yes,Yes,Out_of_work_1-,Married,No,Yes,Yes,Yes,Very_good,10,27.4058810425485,0,college graduate,553
+Landline,mill_town,female,25_to_34,White,No,No,Out_of_work_1+,Single/Never,Yes,Yes,No,Yes,Good,6,18.5594582185491,1,college graduate,554
+Cell,urban,male,18_to_24,White,No,Yes,Employed_for_wages,Single/Never,No,Yes,No,Yes,Excellent,NA,24.2652859960552,0,some college,555
+Cell,rural,female,18_to_24,Hispanic,Yes,Yes,Student,Single/Never,Yes,Yes,Yes,Yes,Fair,5,34.9420118343195,0,some college,556
+Landline,urban,male,65_to_74,White,No,Yes,Self-employed,Single/Never,No,No,Yes,Yes,Fair,8,34.5114619377163,0,more than 4-year college,557
+Landline,mfg,female,55_to_64,White,Yes,Yes,Employed_for_wages,Married,No,No,Yes,Yes,Very_good,10,22.271349862259,0,high school graduate,558
+Landline,mfg,female,45_to_54,White,Yes,Yes,Employed_for_wages,Married,No,No,No,Yes,Excellent,10,25.4206555671176,1,college graduate,559
+Landline,rural,female,35_to_44,White,Yes,Yes,Employed_for_wages,Married,No,No,No,Yes,Excellent,NA,21.003160011491,0,high school graduate,560
+Landline,urban,female,75_or_older,White,No,Yes,Retired,Widowed,No,No,Yes,Yes,Fair,5,18.807966706302,0,more than 4-year college,561
+Landline,mill_town,female,55_to_64,White,Yes,Yes,Employed_for_wages,Married,No,Yes,No,Yes,Very_good,8,27.3945176027949,0,high school graduate,562
+Landline,diverse_suburb,female,65_to_74,Black,No,Yes,Retired,Separated,No,Yes,Yes,Yes,Fair,4,34.1301350186728,0,8th grade or less,563
+Landline,mfg,female,55_to_64,Black,No,Yes,Homemaker,Married,Yes,Yes,Yes,Yes,Very_good,8,21.537758667025,0,more than 4-year college,564
+Landline,mill_town,female,75_or_older,White,Yes,Yes,Retired,Widowed,No,No,No,Yes,Very_good,NA,29.6175147928994,0,high school graduate,565
+Landline,mfg,female,45_to_54,Other,No,Yes,Self-employed,Married,No,No,No,No,Fair,6,24.0283203125,2,high school graduate,566
+Landline,urban,female,55_to_64,White,Yes,Yes,Employed_for_wages,Widowed,No,No,Yes,Yes,Good,7,45.6098615916955,0,some college,567
+Landline,mfg,male,55_to_64,White,Yes,Yes,Employed_for_wages,Single/Never,No,Yes,No,Yes,Good,5,30.6195555555556,NA,more than 4-year college,568
+Landline,diverse_suburb,female,25_to_34,White,Yes,Yes,Employed_for_wages,Married,No,Yes,Yes,Yes,Very_good,10,30.3813766985966,2,some college,569
+Landline,urban,female,55_to_64,White,Yes,Yes,Employed_for_wages,Married,No,No,Yes,Yes,Very_good,9,29.0495867768595,0,more than 4-year college,570
+Landline,mfg,male,55_to_64,Other,No,Yes,Retired,Single/Never,No,No,No,Yes,Good,7,28.5885736956953,0,high school graduate,571
+Landline,urban,female,75_or_older,White,No,Yes,Retired,Married,Yes,No,Yes,Yes,Good,NA,26.0720236495566,0,high school graduate,572
+Landline,mfg,male,35_to_44,Hispanic,Yes,Yes,Out_of_work_1-,Single/Never,No,No,No,No,Good,8,27.4357208448118,0,some college,573
+Cell,urban,male,25_to_34,Hispanic,No,No,Disabled,Single/Never,No,Yes,Yes,Yes,Fair,2,40.6828703703704,NA,high school graduate,574
+Landline,urban,male,55_to_64,Other,Yes,Yes,Employed_for_wages,Married,Yes,No,No,Yes,Good,10,39.0478079746082,0,some college,575
+Landline,urban,female,35_to_44,Black,Yes,Yes,Homemaker,Married,No,No,No,No,Very_good,NA,29.9502958579882,2,high school graduate,576
+Landline,rural,female,55_to_64,Black,Yes,Yes,Retired,Married,No,No,Yes,Yes,Good,8,30.4494674556213,NA,college graduate,577
+Landline,rural,male,35_to_44,White,Yes,Yes,Employed_for_wages,Married,No,No,Yes,Yes,Excellent,NA,27.1219135802469,2,college graduate,578
+Landline,rural,female,65_to_74,White,Yes,Yes,Retired,Divorced,No,Yes,Yes,Yes,Good,NA,22.9618934911243,0,some college,579
+Cell,urban,female,35_to_44,Hispanic,No,No,Employed_for_wages,Single/Never,No,No,No,No,Fair,10,NA,0,8th grade or less,580
+Landline,mfg,female,55_to_64,White,Yes,Yes,Employed_for_wages,Married,No,No,Yes,Yes,Very_good,10,26.6578569376616,0,high school graduate,581
+Landline,rural,male,45_to_54,White,No,Yes,Self-employed,Married,No,No,Yes,Yes,Very_good,NA,27.8912914104344,NA,college graduate,582
+Landline,mfg,male,65_to_74,Black,Yes,Yes,Retired,Married,No,No,No,No,Fair,NA,30.5020661157025,0,high school graduate,583
+Cell,mfg,female,35_to_44,Hispanic,No,Yes,Homemaker,Single/Never,No,No,No,Yes,Fair,10,65.7741145021163,NA,some college,584
+Landline,urban,male,55_to_64,White,Yes,Yes,Employed_for_wages,Divorced,No,Yes,Yes,Yes,Very_good,9,31.4209816157868,0,more than 4-year college,585
+Landline,mill_town,female,65_to_74,White,No,No,Employed_for_wages,Single/Never,Yes,Yes,Yes,Yes,Good,10,27.4357208448118,0,high school graduate,586
+Landline,mill_town,female,75_or_older,White,No,Yes,Retired,Widowed,No,No,No,Yes,Excellent,10,25.6035379812695,0,college graduate,587
+Landline,urban,female,45_to_54,Black,No,Yes,Out_of_work_1-,Single/Never,No,No,Yes,Yes,Good,7,28.3152777777778,1,some college,588
+Landline,urban,male,25_to_34,White,No,No,Disabled,Single/Never,Yes,No,No,Yes,Good,10,22.9168962350781,0,8th grade or less,589
+Landline,mill_town,female,65_to_74,White,No,Yes,Retired,Divorced,No,No,Yes,Yes,Excellent,10,27.4609375,0,some college,590
+Landline,urban,female,45_to_54,Black,No,Yes,Disabled,Single/Never,No,Yes,No,Yes,Very_good,9,21.2822265625,1,8th grade or less,591
+Landline,urban,female,65_to_74,Black,No,Yes,Retired,Separated,No,Yes,No,Yes,Very_good,10,24.6257988165681,1,college graduate,592
+Cell,rural,female,18_to_24,White,Yes,Yes,Student,Single/Never,No,No,No,No,Good,NA,21.7266863746305,1,some college,593
+Landline,mill_town,male,55_to_64,Other,No,Yes,Retired,Divorced,No,No,Yes,Yes,Very_good,10,22.3755787037037,0,college graduate,594
+Landline,rural,female,65_to_74,White,Yes,Yes,Retired,Married,No,No,NA,Yes,Excellent,10,23.9602366863905,0,high school graduate,595
+Landline,urban,female,55_to_64,White,No,Yes,Disabled,Single/Never,No,No,Yes,Yes,Fair,8,31.1376337693222,0,high school graduate,596
+Landline,rural,female,65_to_74,White,Yes,Yes,Retired,Married,No,No,No,Yes,Very_good,10,27.0665972944849,0,high school graduate,597
+Cell,diverse_suburb,male,35_to_44,White,No,Yes,Employed_for_wages,Married,Yes,Yes,No,No,Good,NA,32.4942222222222,1,college graduate,598
+Landline,mill_town,female,35_to_44,White,Yes,Yes,Employed_for_wages,Married,No,No,No,No,Excellent,NA,26.6057525951557,0,college graduate,599
+Landline,wealth_suburb,male,45_to_54,White,Yes,Yes,Employed_for_wages,Single/Never,No,No,No,No,Excellent,NA,24.274112654321,0,high school graduate,600
+Cell,NA,male,45_to_54,White,Yes,Yes,Employed_for_wages,Married,No,No,No,No,Excellent,NA,25.0877700617284,1,college graduate,601
+Landline,diverse_suburb,male,25_to_34,White,No,Yes,Self-employed,Single/Never,No,No,No,No,Very_good,NA,25.7994445546519,1,some college,602
+Landline,NA,female,65_to_74,White,No,Yes,Retired,Divorced,No,No,Yes,No,Excellent,NA,21.3030303030303,0,more than 4-year college,603
+Cell,mfg,female,18_to_24,White,Yes,Yes,Student,Single/Never,Yes,No,No,Yes,Very_good,NA,23.294674556213,0,some college,604
+Cell,diverse_suburb,female,45_to_54,White,Yes,Yes,Employed_for_wages,Divorced,Yes,Yes,No,No,Good,NA,NA,1,college graduate,605
+Landline,diverse_suburb,female,45_to_54,White,Yes,Yes,Employed_for_wages,Married,No,No,Yes,Yes,Very_good,10,21.7871900826446,2,high school graduate,606
+Cell,urban,female,45_to_54,Black,No,Yes,Employed_for_wages,Widowed,Yes,Yes,No,Yes,Very_good,10,26.4498790647675,1,some college,607
+Landline,diverse_suburb,female,65_to_74,White,Yes,Yes,Retired,Married,No,No,No,Yes,Good,10,31.8820861678005,1,high school graduate,608
+Landline,rural,female,45_to_54,White,No,Yes,Self-employed,Married,No,Yes,No,Yes,Very_good,7,18.19287109375,0,more than 4-year college,609
+Landline,mill_town,female,55_to_64,White,No,No,Self-employed,Married,Yes,No,No,Yes,Good,8,30.2830769230769,0,some college,610
+Landline,mill_town,male,75_or_older,White,No,Yes,Retired,Married,No,No,No,Yes,Good,10,23.3855102040816,0,high school graduate,611
+Landline,mill_town,female,65_to_74,White,Yes,Yes,Retired,Divorced,No,Yes,Yes,Yes,Good,8,25.9719444444444,0,high school graduate,612
+Cell,diverse_suburb,male,45_to_54,Black,No,No,Self-employed,Divorced,No,No,No,No,Excellent,NA,22.2377551020408,0,some college,613
+Cell,mill_town,male,18_to_24,White,Yes,Yes,Employed_for_wages,Single/Never,No,No,No,No,Excellent,NA,27.8912914104344,0,college graduate,614
+Landline,mfg,male,55_to_64,White,Yes,Yes,Employed_for_wages,Married,No,Yes,Yes,Yes,Very_good,8,30.035400390625,0,high school graduate,615
+Landline,NA,female,75_or_older,NA,Yes,Yes,Retired,Married,No,No,NA,NA,NA,NA,NA,NA,NA,616
+Landline,diverse_suburb,female,25_to_34,Other,Yes,Yes,Employed_for_wages,Single/Never,No,No,Yes,Yes,Excellent,10,27.4544378698225,0,more than 4-year college,617
+Cell,wealth_suburb,male,45_to_54,Black,Yes,Yes,Employed_for_wages,Single/Never,Yes,No,No,No,Very_good,NA,27.2591836734694,0,college graduate,618
+Cell,urban,female,55_to_64,White,No,Yes,Self-employed,Single/Never,Yes,Yes,Yes,Yes,Poor,8,22.8049307958477,0,college graduate,619
+Landline,diverse_suburb,female,45_to_54,Black,No,No,Out_of_work_1+,Married,Yes,No,Yes,Yes,Poor,0,31.3507180650038,1,college graduate,620
+Cell,mfg,male,65_to_74,Black,Yes,Yes,Retired,Separated,No,No,No,No,Excellent,NA,20.6213333333333,0,some high school,621
+Landline,diverse_suburb,female,45_to_54,White,Yes,Yes,Employed_for_wages,Married,No,No,No,Yes,Excellent,9,24.7971781305115,3,more than 4-year college,622
+Landline,urban,male,75_or_older,White,Yes,Yes,Retired,Single/Never,No,Yes,Yes,Yes,Very_good,10,31.3210069057697,0,high school graduate,623
+Landline,mill_town,male,65_to_74,White,Yes,Yes,Retired,Married,No,No,Yes,Yes,Very_good,9,29.8269271161521,0,high school graduate,624
+Landline,mill_town,male,35_to_44,White,Yes,Yes,Employed_for_wages,Married,Yes,No,Yes,No,Excellent,9,26.3839369487709,0,high school graduate,625
+Landline,rural,male,65_to_74,White,Yes,Yes,Retired,Married,No,No,Yes,Yes,Very_good,8,27.1940091251736,0,more than 4-year college,626
+Landline,rural,female,65_to_74,White,Yes,Yes,Retired,Married,No,No,Yes,Yes,Excellent,NA,22.9618934911243,0,high school graduate,627
+Landline,urban,male,65_to_74,Black,No,Yes,Retired,Single/Never,No,No,Yes,Yes,Very_good,9,23.2178645149184,0,college graduate,628
+Landline,mill_town,female,75_or_older,White,No,Yes,Retired,Married,No,No,Yes,Yes,Good,8,24.323361082206,0,high school graduate,629
+Landline,rural,female,45_to_54,White,Yes,Yes,Employed_for_wages,Married,No,No,No,Yes,Very_good,10,29.8565197428834,2,college graduate,630
+Landline,wealth_suburb,male,55_to_64,White,Yes,Yes,Self-employed,Married,No,No,Yes,Yes,Very_good,10,33.1995277449823,0,more than 4-year college,631
+Cell,mfg,male,25_to_34,White,No,Yes,Employed_for_wages,Single/Never,Yes,No,Yes,Yes,Good,NA,NA,0,high school graduate,632
+Cell,wealth_suburb,male,18_to_24,White,Yes,Yes,Student,Single/Never,No,No,No,No,Excellent,NA,25.8455882352941,0,some college,633
+Landline,mill_town,male,55_to_64,White,Yes,Yes,Out_of_work_1-,Single/Never,No,No,No,No,Excellent,NA,21.1824324324324,0,some college,634
+Landline,mill_town,female,18_to_24,Hispanic,No,Yes,Employed_for_wages,Married,No,No,No,No,Very_good,10,31.8820861678005,1,college graduate,635
+Cell,rural,male,25_to_34,White,Yes,Yes,Employed_for_wages,Married,Yes,No,No,Yes,Excellent,NA,27.1219135802469,0,college graduate,636
+Landline,mill_town,female,35_to_44,White,No,Yes,Out_of_work_1+,Single/Never,Yes,No,No,No,Good,8,22.8049307958477,0,college graduate,637
+Landline,mill_town,female,75_or_older,White,No,Yes,Retired,Widowed,No,Yes,No,Yes,Good,NA,24.0283203125,NA,some high school,638
+Landline,urban,male,55_to_64,Black,Yes,Yes,Employed_for_wages,Married,No,Yes,Yes,Yes,Very_good,10,18.1661840053464,1,NA,639
+Landline,diverse_suburb,male,55_to_64,White,No,Yes,Disabled,Single/Never,Yes,No,Yes,Yes,Good,8,29.983138266217,0,some college,640
+Landline,diverse_suburb,female,65_to_74,Black,Yes,Yes,Employed_for_wages,Widowed,No,No,Yes,Yes,Very_good,10,22.8603017689906,0,high school graduate,641
+Cell,mill_town,female,35_to_44,White,Yes,Yes,Employed_for_wages,Married,No,No,Yes,Yes,Very_good,10,23.6274556213018,4,some college,642
+Landline,mill_town,female,55_to_64,White,No,No,Out_of_work_1-,Single/Never,Yes,Yes,No,Yes,Good,8,29.261186264308,0,high school graduate,643
+Landline,rural,female,65_to_74,White,Yes,Yes,Retired,Married,No,No,Yes,Yes,Very_good,10,21.0314776274714,0,more than 4-year college,644
+Landline,urban,male,45_to_54,Black,Yes,Yes,Employed_for_wages,Single/Never,No,No,No,No,Excellent,NA,31.3968849690373,0,some college,645
+Cell,diverse_suburb,male,18_to_24,White,Yes,Yes,Employed_for_wages,Married,No,No,No,No,Excellent,NA,20.8030612244898,2,high school graduate,646
+Landline,rural,female,35_to_44,White,Yes,Yes,Out_of_work_1-,Married,Yes,Yes,Yes,Yes,Very_good,NA,27.4609375,3,more than 4-year college,647
+Cell,mfg,male,25_to_34,Hispanic,Yes,Yes,Employed_for_wages,Married,Yes,No,Yes,No,Very_good,NA,33.8911845730028,1,more than 4-year college,648
+Landline,rural,female,55_to_64,White,Yes,Yes,Retired,Married,No,No,Yes,Yes,Very_good,8,29.261186264308,0,more than 4-year college,649
+Landline,rural,male,65_to_74,White,No,Yes,Retired,Married,No,Yes,No,Yes,Very_good,8,31.660724338525,0,high school graduate,650
+Cell,urban,female,18_to_24,Hispanic,Yes,Yes,Homemaker,Married,Yes,No,No,No,Excellent,NA,NA,1,some high school,651
+Landline,mfg,female,45_to_54,White,Yes,Yes,Employed_for_wages,Divorced,No,Yes,No,Yes,Excellent,NA,25.74462890625,1,high school graduate,652
+Cell,mill_town,male,25_to_34,White,No,Yes,Student,Single/Never,Yes,Yes,No,Yes,Good,NA,28.1260813148789,3,some college,653
+Landline,mfg,female,25_to_34,White,Yes,Yes,Homemaker,Married,Yes,Yes,Yes,Yes,Very_good,9,20.3586544887503,1,more than 4-year college,654
+Landline,urban,female,45_to_54,NA,Yes,Yes,Employed_for_wages,Single/Never,No,No,No,Yes,Excellent,8,22.5941230486685,0,some college,655
+Landline,rural,male,65_to_74,White,No,Yes,Retired,Married,No,No,Yes,Yes,Very_good,NA,22.8475,0,high school graduate,656
+Cell,rural,female,45_to_54,White,Yes,Yes,Employed_for_wages,Married,No,No,No,Yes,Excellent,10,30.035400390625,0,high school graduate,657
+Landline,urban,female,55_to_64,Black,No,Yes,Disabled,Single/Never,No,Yes,No,Yes,Poor,4,34.4531075963466,1,some high school,658
+Cell,NA,male,45_to_54,White,Yes,Yes,Employed_for_wages,Single/Never,No,No,No,Yes,Good,NA,24.1259670700258,0,college graduate,659
+Landline,mill_town,female,55_to_64,White,Yes,Yes,Retired,Married,No,Yes,Yes,Yes,Good,9,22.6717057193248,0,more than 4-year college,660
+Landline,mfg,female,65_to_74,White,Yes,Yes,Retired,Married,No,Yes,Yes,Yes,Good,8,31.3507180650038,0,college graduate,661
+Landline,diverse_suburb,female,65_to_74,Black,No,Yes,Disabled,Widowed,No,Yes,Yes,Yes,Very_good,10,26.4662508353754,3,high school graduate,662
+Cell,rural,male,18_to_24,White,No,Yes,Employed_for_wages,Single/Never,No,Yes,Yes,Yes,Fair,6,28.6938775510204,0,high school graduate,663
+Cell,mfg,female,25_to_34,Hispanic,No,Yes,Employed_for_wages,Single/Never,Yes,Yes,Yes,Yes,Fair,2,17.9701775147929,2,high school graduate,664
+Landline,diverse_suburb,female,25_to_34,Hispanic,Yes,Yes,Homemaker,Married,No,Yes,Yes,Yes,Fair,3,22.31201171875,3,more than 4-year college,665
+Landline,mill_town,female,25_to_34,White,Yes,Yes,Employed_for_wages,Married,No,No,No,Yes,Good,NA,23.4907551793272,0,college graduate,666
+Landline,urban,female,45_to_54,White,Yes,Yes,Employed_for_wages,Married,No,Yes,Yes,Yes,Excellent,10,28.1625094482237,0,some college,667
+Cell,urban,female,35_to_44,White,Yes,Yes,Employed_for_wages,Married,No,No,Yes,Yes,Excellent,10,29.17724609375,2,college graduate,668
+Landline,diverse_suburb,male,55_to_64,White,Yes,Yes,Employed_for_wages,Divorced,Yes,Yes,Yes,Yes,Fair,5,30.8108108108108,0,some college,669
+Landline,mfg,male,65_to_74,White,No,Yes,Self-employed,Single/Never,Yes,No,No,Yes,Very_good,10,30.3765432098765,0,high school graduate,670
+Landline,mill_town,female,75_or_older,White,Yes,Yes,Retired,Married,No,No,Yes,Yes,Very_good,10,25.1514235323759,0,some college,671
+Cell,mill_town,male,35_to_44,White,Yes,Yes,Employed_for_wages,Married,Yes,Yes,Yes,Yes,Good,10,27.7999614197531,1,more than 4-year college,672
+Landline,rural,female,45_to_54,White,Yes,Yes,Employed_for_wages,Married,No,No,Yes,Yes,Good,8,30.55029296875,0,some college,673
+Landline,diverse_suburb,female,45_to_54,White,Yes,Yes,Employed_for_wages,Divorced,Yes,Yes,Yes,Yes,Good,9,NA,2,college graduate,674
+Landline,rural,female,55_to_64,White,No,Yes,Retired,Married,No,Yes,Yes,Yes,Good,10,34.0069873689868,0,8th grade or less,675
+Landline,rural,female,65_to_74,White,No,Yes,Retired,Married,Yes,Yes,Yes,Yes,Very_good,10,20.3586544887503,0,more than 4-year college,676
+Landline,mfg,male,65_to_74,White,No,Yes,Retired,Married,No,No,No,No,Excellent,10,22.1487082545684,0,high school graduate,677
+Landline,mfg,male,65_to_74,White,No,Yes,Retired,Divorced,No,Yes,Yes,Yes,Fair,10,24.4048799841301,0,high school graduate,678
+Cell,rural,female,25_to_34,White,No,No,Employed_for_wages,Divorced,No,Yes,Yes,Yes,Very_good,10,27.2880473372781,2,college graduate,679
+Landline,mfg,female,65_to_74,White,No,Yes,Retired,Divorced,No,No,Yes,Yes,Good,9,24.2079889807163,0,some high school,680
+Landline,urban,female,55_to_64,Asian,Yes,Yes,Employed_for_wages,Married,No,No,Yes,No,Very_good,10,21.453857421875,0,more than 4-year college,681
+Landline,mill_town,female,35_to_44,White,Yes,Yes,Employed_for_wages,Single/Never,No,No,Yes,Yes,Good,7,19.366391184573,0,college graduate,682
+Landline,diverse_suburb,female,35_to_44,White,Yes,Yes,Employed_for_wages,Married,No,No,Yes,Yes,Very_good,10,27.3945176027949,2,more than 4-year college,683
+Cell,mill_town,female,18_to_24,White,Yes,Yes,Student,Single/Never,No,Yes,Yes,Yes,Very_good,7,25.0568055246157,0,some college,684
+Cell,rural,female,35_to_44,White,Yes,Yes,Employed_for_wages,Married,Yes,No,No,Yes,Excellent,NA,21.8533921445075,2,college graduate,685
+Landline,mill_town,female,55_to_64,Black,Yes,Yes,Employed_for_wages,Married,No,No,Yes,No,Good,NA,29.0495867768595,NA,more than 4-year college,686
+Landline,urban,female,55_to_64,Hispanic,No,Yes,Homemaker,Divorced,No,Yes,No,Yes,Good,10,29.8098335067638,2,high school graduate,687
+Landline,rural,female,55_to_64,White,Yes,Yes,Retired,Married,No,Yes,Yes,Yes,Very_good,9,43.5743801652893,0,some college,688
+Cell,mfg,male,18_to_24,Hispanic,No,No,Out_of_work_1+,Single/Never,No,No,No,No,Very_good,8,NA,0,some high school,689
+Landline,diverse_suburb,female,45_to_54,White,Yes,Yes,Out_of_work_1+,Married,Yes,No,No,No,Excellent,NA,22.707730006683,1,college graduate,690
+Cell,mfg,male,45_to_54,Hispanic,No,Yes,Disabled,Divorced,No,Yes,Yes,Yes,Good,10,27.4951111111111,0,high school graduate,691
+Landline,mfg,female,45_to_54,White,Yes,Yes,Disabled,Married,Yes,Yes,Yes,Yes,Very_good,10,35.6620707596254,1,high school graduate,692
+Landline,NA,female,75_or_older,NA,No,Yes,Retired,Divorced,No,No,NA,NA,NA,NA,NA,NA,NA,693
+Landline,wealth_suburb,female,75_or_older,White,Yes,Yes,Retired,Widowed,No,Yes,Yes,Yes,Poor,10,32.953125,0,high school graduate,694
+Landline,mill_town,female,45_to_54,White,Yes,Yes,Employed_for_wages,Single/Never,No,No,No,Yes,Very_good,9,23.9115646258503,0,high school graduate,695
+Cell,urban,male,25_to_34,Hispanic,No,No,Employed_for_wages,Single/Never,Yes,No,No,No,Good,NA,25.74462890625,0,high school graduate,696
+Landline,rural,male,65_to_74,White,Yes,Yes,Retired,Married,No,Yes,Yes,Yes,Very_good,10,29.1560570987654,0,more than 4-year college,697
+Landline,mill_town,female,18_to_24,White,Yes,Yes,Student,Single/Never,Yes,No,Yes,Yes,Good,6,21.4805555555556,2,high school graduate,698
+Landline,diverse_suburb,male,25_to_34,White,Yes,Yes,Employed_for_wages,Single/Never,No,No,No,Yes,Fair,5,38.7367346938776,0,more than 4-year college,699
+Landline,wealth_suburb,female,45_to_54,Hispanic,Yes,Yes,Self-employed,Married,Yes,No,No,Yes,Excellent,10,24.442932728647,NA,more than 4-year college,700
+Landline,wealth_suburb,male,45_to_54,White,Yes,Yes,Employed_for_wages,Married,Yes,No,No,No,Excellent,NA,27.1219135802469,0,more than 4-year college,701
+Landline,urban,female,35_to_44,Black,No,Yes,Out_of_work_1+,Single/Never,No,No,No,No,Excellent,NA,27.7723730180059,0,some college,702
+Landline,mfg,male,55_to_64,White,Yes,Yes,Employed_for_wages,Married,No,Yes,Yes,Yes,Very_good,9,28.0550304557866,0,some college,703
+Landline,mfg,male,65_to_74,White,Yes,Yes,Employed_for_wages,Married,No,No,No,Yes,Very_good,10,27.1219135802469,0,some college,704
+Landline,mill_town,female,65_to_74,White,Yes,Yes,Retired,Widowed,No,No,Yes,Yes,Fair,9,36.4878892733564,0,college graduate,705
+Landline,rural,female,55_to_64,White,No,No,Employed_for_wages,Married,Yes,No,No,No,Very_good,NA,25.0149219467401,0,college graduate,706
+Cell,rural,male,35_to_44,White,No,No,Self-employed,Divorced,Yes,No,No,No,Good,4,29.2858559809562,0,some college,707
+Landline,NA,female,35_to_44,White,No,Yes,Disabled,Divorced,Yes,Yes,Yes,Yes,Poor,6,NA,0,high school graduate,708
+Landline,mill_town,female,55_to_64,White,Yes,Yes,Retired,Married,Yes,Yes,Yes,Yes,Good,7,28.4780092592593,0,some high school,709
+Landline,rural,male,25_to_34,White,Yes,Yes,Employed_for_wages,Single/Never,No,No,Yes,Yes,Very_good,8,25.9985207100592,0,college graduate,710
+Landline,mfg,female,75_or_older,White,Yes,Yes,Retired,Divorced,No,Yes,No,Yes,Very_good,10,22.2934694974469,0,high school graduate,711
+Landline,mfg,female,25_to_34,Black,No,Yes,Employed_for_wages,Single/Never,No,Yes,Yes,Yes,Excellent,NA,28.2734846308532,4,high school graduate,712
+Landline,wealth_suburb,female,75_or_older,White,No,Yes,Retired,Widowed,No,No,Yes,Yes,Good,10,23.7747138397503,0,more than 4-year college,713
+Landline,diverse_suburb,male,45_to_54,White,Yes,Yes,Employed_for_wages,Single/Never,Yes,No,No,Yes,Good,5,44.9324324324324,0,more than 4-year college,714
+Cell,mill_town,female,25_to_34,White,No,Yes,Employed_for_wages,Divorced,No,Yes,Yes,Yes,Good,9,29.2252456538171,2,some college,715
+Landline,urban,female,35_to_44,Other,Yes,Yes,Employed_for_wages,Married,No,No,Yes,Yes,Very_good,NA,NA,0,college graduate,716
+Landline,urban,male,65_to_74,Black,No,Yes,Retired,Married,No,No,Yes,Yes,Excellent,9,29.022330643648,0,8th grade or less,717
+Landline,diverse_suburb,female,65_to_74,White,No,Yes,Retired,Married,No,No,Yes,Yes,Very_good,8,21.6307692307692,NA,college graduate,718
+Landline,urban,female,65_to_74,Hispanic,No,Yes,Retired,Widowed,No,Yes,Yes,Yes,Fair,10,30.6763636363636,2,high school graduate,719
+Landline,wealth_suburb,male,55_to_64,White,No,Yes,Self-employed,Married,No,Yes,Yes,Yes,Very_good,10,24.5307621671258,0,college graduate,720
+Landline,mill_town,female,65_to_74,White,Yes,Yes,Retired,Married,No,Yes,Yes,Yes,Good,10,24.37158203125,0,high school graduate,721
+Landline,mfg,male,18_to_24,White,No,Yes,Employed_for_wages,Single/Never,Yes,Yes,Yes,No,Very_good,8,27.1219135802469,0,some college,722
+Landline,mill_town,female,45_to_54,White,Yes,Yes,Employed_for_wages,Divorced,Yes,Yes,Yes,Yes,Very_good,10,30.8193499622071,1,some college,723
+Landline,urban,female,55_to_64,White,No,Yes,Retired,Married,Yes,No,No,No,Very_good,NA,23.4010560146924,0,more than 4-year college,724
+Landline,rural,female,35_to_44,White,Yes,Yes,Homemaker,Married,No,No,No,Yes,Very_good,NA,18.87939453125,2,college graduate,725
+Landline,rural,male,35_to_44,White,Yes,Yes,Employed_for_wages,Married,No,No,Yes,Yes,Very_good,NA,28.4780092592593,2,high school graduate,726
+Landline,diverse_suburb,female,75_or_older,White,No,Yes,Retired,Married,No,No,No,Yes,Excellent,10,30.9964726631393,0,college graduate,727
+Landline,urban,female,45_to_54,White,Yes,Yes,Employed_for_wages,Divorced,No,No,Yes,Yes,Fair,NA,NA,NA,college graduate,728
+Landline,mfg,male,65_to_74,White,No,Yes,Retired,Married,No,No,Yes,Yes,Fair,NA,NA,0,NA,729
+Landline,diverse_suburb,male,55_to_64,White,No,Yes,Retired,Divorced,No,No,Yes,Yes,Good,9,34.6621621621622,0,more than 4-year college,730
+Landline,rural,female,75_or_older,White,No,Yes,Retired,Widowed,No,No,No,Yes,Very_good,NA,30.1755983350676,0,high school graduate,731
+Landline,mill_town,female,55_to_64,White,Yes,Yes,Employed_for_wages,Divorced,No,No,Yes,Yes,Very_good,10,20.25244140625,1,college graduate,732
+Landline,urban,male,65_to_74,Hispanic,Yes,Yes,Retired,Single/Never,No,No,Yes,Yes,Very_good,10,31.3210069057697,0,more than 4-year college,733
+Landline,mill_town,female,55_to_64,White,Yes,Yes,Employed_for_wages,Married,No,No,No,Yes,Very_good,10,21.2846020761246,2,college graduate,734
+Landline,rural,male,75_or_older,White,Yes,Yes,Employed_for_wages,Married,No,No,No,Yes,Excellent,NA,25.5375510204082,0,college graduate,735
+Landline,diverse_suburb,male,45_to_54,White,Yes,Yes,Employed_for_wages,Married,No,No,No,Yes,Excellent,9,28.6938775510204,1,more than 4-year college,736
+Cell,diverse_suburb,female,35_to_44,Black,No,Yes,Out_of_work_1+,Single/Never,Yes,Yes,Yes,Yes,Good,7,37.4378698224852,0,some high school,737
+Cell,mfg,female,25_to_34,White,No,Yes,Employed_for_wages,Single/Never,No,Yes,No,Yes,Very_good,NA,23.4333333333333,2,high school graduate,738
+Landline,mfg,male,65_to_74,White,Yes,Yes,Out_of_work_1+,Married,No,No,Yes,Yes,Very_good,10,30.5589795918367,0,some college,739
+Landline,mill_town,male,25_to_34,Black,Yes,Yes,Retired,Married,Yes,Yes,Yes,Yes,Fair,10,31.190200617284,0,more than 4-year college,740
+Landline,wealth_suburb,male,45_to_54,White,Yes,Yes,Employed_for_wages,Married,No,Yes,No,Yes,Excellent,NA,28.2426538108356,2,college graduate,741
+Landline,mill_town,male,55_to_64,White,Yes,Yes,Employed_for_wages,Divorced,No,Yes,Yes,Yes,Good,10,24.4097222222222,0,some college,742
+Landline,rural,male,75_or_older,White,Yes,Yes,Retired,Married,No,Yes,Yes,Yes,Good,8,23.2420408163265,0,high school graduate,743
+Landline,urban,female,NA,NA,Yes,Yes,Homemaker,Married,No,No,Yes,Yes,Good,8,NA,0,high school graduate,744
+Landline,rural,male,35_to_44,White,Yes,Yes,Employed_for_wages,Married,Yes,Yes,Yes,No,Excellent,NA,24.4772923875433,2,high school graduate,745
+Landline,mfg,male,45_to_54,White,Yes,Yes,Employed_for_wages,Married,No,No,Yes,Yes,Good,NA,33.715306122449,0,high school graduate,746
+Landline,urban,female,35_to_44,Hispanic,No,No,Employed_for_wages,Married,Yes,No,No,No,Excellent,NA,28.8862456747405,4,some college,747
+Landline,wealth_suburb,male,75_or_older,White,No,Yes,Retired,Divorced,No,No,Yes,Yes,Fair,10,22.8643350412118,0,high school graduate,748
+Cell,mill_town,female,45_to_54,White,Yes,Yes,Employed_for_wages,Married,No,Yes,Yes,Yes,Very_good,10,32.60986328125,1,more than 4-year college,749
+Landline,rural,female,55_to_64,White,Yes,Yes,Out_of_work_1+,Married,No,Yes,Yes,Yes,Good,10,26.5684051398337,2,some college,750
+Landline,rural,male,45_to_54,NA,Yes,Yes,Employed_for_wages,Married,Yes,Yes,Yes,Yes,Good,8,26.037037037037,0,some college,751
+Cell,urban,male,45_to_54,Hispanic,No,Yes,Disabled,Single/Never,No,No,No,Yes,Fair,NA,27.632568359375,0,high school graduate,752
+Cell,rural,female,35_to_44,White,Yes,Yes,Employed_for_wages,Married,No,No,No,Yes,Excellent,NA,26.1446280991736,2,some college,753
+Landline,urban,male,65_to_74,Black,No,Yes,Retired,Married,Yes,No,No,Yes,Poor,4,22.3755787037037,NA,high school graduate,754
+Landline,rural,male,55_to_64,White,Yes,Yes,Employed_for_wages,Divorced,Yes,No,Yes,Yes,Very_good,7,32.3203227622443,0,college graduate,755
+Landline,mill_town,female,55_to_64,White,Yes,Yes,Employed_for_wages,Married,No,No,Yes,Yes,Very_good,9,34.0075585789872,0,more than 4-year college,756
+Cell,mfg,female,45_to_54,Black,Yes,Yes,Student,Married,No,No,No,No,Very_good,NA,30.4065743944637,NA,college graduate,757
+Landline,mfg,male,55_to_64,White,Yes,Yes,Employed_for_wages,Married,No,No,No,Yes,Excellent,NA,27.8912914104344,0,some college,758
+Cell,rural,female,25_to_34,Other,Yes,Yes,Employed_for_wages,Married,No,No,No,No,Excellent,NA,26.4438657407407,0,college graduate,759
+Landline,urban,male,55_to_64,White,No,Yes,Employed_for_wages,Single/Never,No,No,Yes,Yes,Good,9,28.6938775510204,0,some college,760
+Landline,urban,female,25_to_34,Black,No,Yes,Employed_for_wages,Separated,No,No,No,No,Very_good,NA,40.4040989084429,4,high school graduate,761
+Cell,mfg,male,65_to_74,Hispanic,No,Yes,Retired,Single/Never,No,No,No,Yes,Good,8,28.2426538108356,0,high school graduate,762
+Landline,mill_town,female,75_or_older,White,No,Yes,Retired,Widowed,Yes,No,Yes,Yes,Good,10,28.7170115560333,0,college graduate,763
+Landline,urban,male,18_to_24,Black,Yes,Yes,Employed_for_wages,Single/Never,No,No,Yes,No,Good,NA,29.1183431952663,3,high school graduate,764
+Landline,diverse_suburb,female,35_to_44,Hispanic,No,No,Employed_for_wages,Married,Yes,Yes,No,No,Good,10,23.4010560146924,1,some high school,765
+Landline,mill_town,female,55_to_64,White,Yes,Yes,Employed_for_wages,Single/Never,No,No,Yes,Yes,Good,10,31.1150295857988,0,some college,766
+Landline,mfg,female,55_to_64,Black,No,Yes,Disabled,Single/Never,No,No,No,Yes,Fair,10,NA,0,some high school,767
+Landline,mfg,female,45_to_54,White,Yes,Yes,Employed_for_wages,Single/Never,No,No,Yes,Yes,Very_good,NA,21.2822265625,0,some college,768
+Landline,mill_town,male,45_to_54,White,Yes,Yes,Employed_for_wages,Married,No,No,Yes,Yes,Excellent,NA,25.1071428571429,1,more than 4-year college,769
+Landline,urban,female,75_or_older,Black,No,Yes,Retired,Single/Never,No,Yes,Yes,Yes,Good,8,30.2284332168772,0,some high school,770
+Landline,diverse_suburb,male,65_to_74,White,Yes,Yes,Retired,Divorced,No,No,No,No,Excellent,10,22.31201171875,0,more than 4-year college,771
+Landline,mill_town,male,55_to_64,White,Yes,Yes,Retired,Married,No,No,Yes,Yes,Good,8,31.190200617284,NA,some college,772
+Cell,rural,male,25_to_34,White,Yes,Yes,Employed_for_wages,Single/Never,No,No,No,No,Excellent,NA,24.4097222222222,0,high school graduate,773
+Cell,diverse_suburb,male,25_to_34,NA,No,Yes,Employed_for_wages,Married,No,No,No,No,Fair,NA,22.8869985297206,0,high school graduate,774
+Landline,urban,female,NA,NA,Yes,Yes,Employed_for_wages,Married,Yes,No,Yes,Yes,Good,9,NA,0,NA,775
+Landline,urban,male,18_to_24,Asian,No,No,Out_of_work_1-,Separated,No,No,No,No,Excellent,NA,NA,0,high school graduate,776
+Landline,diverse_suburb,male,65_to_74,White,No,Yes,Retired,Married,No,No,Yes,Yes,Good,10,23.3855102040816,0,some high school,777
+Landline,mfg,female,35_to_44,White,Yes,Yes,Employed_for_wages,Single/Never,No,No,No,Yes,Good,NA,37.4378698224852,0,high school graduate,778
+Landline,mfg,male,25_to_34,Asian,Yes,Yes,Employed_for_wages,Single/Never,No,No,No,Yes,Excellent,NA,23.6252888048729,0,more than 4-year college,779
+Landline,mfg,female,18_to_24,White,Yes,Yes,Student,Single/Never,No,No,No,Yes,Excellent,NA,20.3586544887503,0,some college,780
+Landline,mfg,male,65_to_74,White,No,Yes,Retired,Single/Never,No,Yes,Yes,Yes,Good,8,22.0447664359862,0,some college,781
+Landline,urban,male,25_to_34,Hispanic,Yes,Yes,Out_of_work_1-,Divorced,No,No,No,No,Good,NA,NA,0,high school graduate,782
+Landline,diverse_suburb,female,55_to_64,White,No,Yes,Disabled,Divorced,No,Yes,Yes,Yes,Fair,10,30.2284332168772,0,high school graduate,783
+Landline,mill_town,male,65_to_74,White,Yes,Yes,Retired,Married,No,No,No,Yes,Excellent,10,25.7905325443787,0,some college,784
+Landline,urban,female,75_or_older,Black,Yes,Yes,Retired,Widowed,No,No,No,Yes,Fair,10,31.614201183432,0,high school graduate,785
+Landline,mill_town,male,18_to_24,Hispanic,Yes,Yes,Employed_for_wages,Single/Never,Yes,Yes,Yes,Yes,Very_good,NA,20.9802571166208,1,high school graduate,786
+Landline,urban,male,55_to_64,Black,Yes,Yes,Employed_for_wages,Divorced,No,No,No,Yes,Good,10,31.4776119402985,0,high school graduate,787
+Cell,mill_town,female,25_to_34,White,Yes,Yes,Employed_for_wages,Single/Never,No,Yes,Yes,Yes,Fair,8,32.277318640955,NA,college graduate,788
+Cell,mfg,male,18_to_24,Hispanic,No,Yes,Student,Single/Never,No,No,Yes,Yes,Very_good,NA,25.7994445546519,1,some high school,789
+Landline,mill_town,female,55_to_64,White,Yes,Yes,Employed_for_wages,Married,No,No,No,Yes,Excellent,10,27.4609375,0,more than 4-year college,790
+Landline,mfg,female,35_to_44,Black,Yes,Yes,Employed_for_wages,Single/Never,No,No,No,No,Very_good,NA,28.1889062151927,0,high school graduate,791
+Landline,wealth_suburb,male,18_to_24,White,No,Yes,Student,Single/Never,Yes,Yes,Yes,Yes,Good,9,24.3897959183673,0,some college,792
+Landline,rural,male,55_to_64,White,Yes,Yes,Disabled,Single/Never,No,No,No,No,Very_good,10,25.74462890625,0,high school graduate,793
+Landline,mill_town,female,75_or_older,White,No,Yes,Retired,Divorced,Yes,No,Yes,Yes,Good,5,26.946044921875,0,high school graduate,794
+Landline,NA,female,55_to_64,NA,No,Yes,Disabled,Widowed,No,Yes,NA,NA,NA,NA,NA,NA,NA,795
+Landline,wealth_suburb,female,65_to_74,White,Yes,Yes,Retired,Married,No,Yes,Yes,No,Very_good,NA,20.5041666666667,0,high school graduate,796
+Landline,urban,female,75_or_older,White,Yes,Yes,Retired,Widowed,No,Yes,Yes,Yes,Very_good,10,21.2143600416233,0,high school graduate,797
+Cell,mfg,male,35_to_44,NA,Yes,Yes,Employed_for_wages,Married,Yes,Yes,Yes,Yes,Very_good,NA,23.1081081081081,1,college graduate,798
+Landline,mfg,female,55_to_64,White,Yes,Yes,Employed_for_wages,Married,Yes,Yes,Yes,Yes,Very_good,8,22.707730006683,0,more than 4-year college,799
+Cell,rural,male,45_to_54,White,Yes,Yes,Employed_for_wages,Married,No,No,No,Yes,Excellent,NA,27.1219135802469,0,college graduate,800
+Cell,urban,male,45_to_54,Black,Yes,Yes,Employed_for_wages,Divorced,No,No,Yes,Yes,Excellent,10,31.0081915563957,NA,high school graduate,801
+Landline,mfg,female,35_to_44,White,Yes,Yes,Homemaker,Married,Yes,Yes,Yes,Yes,Poor,3,28.7125390218522,2,college graduate,802
+Landline,rural,female,55_to_64,White,Yes,Yes,Retired,Married,No,No,Yes,Yes,Very_good,10,27.9536094674556,0,more than 4-year college,803
+Landline,urban,male,65_to_74,Black,No,Yes,Out_of_work_1+,Married,No,Yes,Yes,No,Excellent,9,25.821854912764,0,some high school,804
+Cell,mill_town,male,25_to_34,White,No,No,Out_of_work_1+,Single/Never,Yes,Yes,No,Yes,Very_good,6,25.8244897959184,0,some college,805
+Landline,wealth_suburb,female,75_or_older,White,Yes,Yes,Retired,Married,No,Yes,Yes,Yes,Very_good,9,34.326171875,0,more than 4-year college,806
+Landline,diverse_suburb,female,65_to_74,White,No,Yes,Retired,Divorced,No,No,No,No,Excellent,NA,21.7871900826446,0,college graduate,807
+Landline,mfg,male,35_to_44,White,No,Yes,Employed_for_wages,Married,No,Yes,Yes,Yes,Very_good,NA,25.821854912764,2,more than 4-year college,808
+Landline,mill_town,female,55_to_64,White,Yes,Yes,Employed_for_wages,Married,No,No,No,No,Excellent,NA,NA,0,college graduate,809
+Landline,wealth_suburb,male,55_to_64,White,No,Yes,Self-employed,Single/Never,No,No,No,No,Very_good,NA,27.1219135802469,0,some college,810
+Landline,rural,female,75_or_older,White,Yes,Yes,Retired,Married,No,Yes,No,Yes,Very_good,10,31.4557752341311,0,college graduate,811
+Landline,urban,female,55_to_64,Black,No,No,Homemaker,Married,No,No,No,Yes,Fair,6,28.2863905325444,0,some high school,812
+Landline,rural,female,75_or_older,White,Yes,Yes,Retired,Widowed,No,Yes,Yes,Yes,Fair,7,33.4674817898023,0,some high school,813
+Landline,mill_town,female,25_to_34,Other,Yes,Yes,Homemaker,Married,No,No,No,Yes,Very_good,9,22.31201171875,2,some college,814
+Landline,rural,female,65_to_74,White,Yes,Yes,Retired,Married,Yes,No,Yes,Yes,Very_good,0,23.294674556213,0,college graduate,815
+Landline,mfg,female,65_to_74,White,No,Yes,Retired,Widowed,No,Yes,No,Yes,Fair,10,25.3861111111111,0,high school graduate,816
+Landline,wealth_suburb,female,65_to_74,White,No,Yes,Retired,Married,No,No,Yes,Yes,Very_good,9,28.2863905325444,0,college graduate,817
+Landline,mill_town,male,65_to_74,White,Yes,Yes,Disabled,Divorced,No,No,Yes,Yes,Fair,9,29.17724609375,0,high school graduate,818
+Landline,rural,male,55_to_64,White,No,Yes,Self-employed,Single/Never,No,No,Yes,Yes,Very_good,9,23.731674382716,0,more than 4-year college,819
+Landline,mfg,male,55_to_64,White,Yes,Yes,Employed_for_wages,Divorced,No,Yes,No,No,Very_good,9,24.1028571428571,0,high school graduate,820
+Landline,diverse_suburb,female,55_to_64,White,No,Yes,Disabled,Divorced,No,No,No,Yes,Poor,7,39.705707491082,0,high school graduate,821
+Landline,rural,female,55_to_64,White,Yes,Yes,Retired,Divorced,No,Yes,Yes,Yes,Very_good,8,20.595703125,0,college graduate,822
+Landline,urban,female,45_to_54,White,Yes,Yes,Employed_for_wages,Divorced,No,No,No,Yes,Good,10,NA,0,high school graduate,823
+Landline,wealth_suburb,female,75_or_older,White,Yes,Yes,Employed_for_wages,Married,Yes,No,No,No,Fair,0,28.9719313878369,0,college graduate,824
+Landline,mill_town,female,65_to_74,White,No,Yes,Retired,Widowed,No,No,Yes,Yes,Excellent,10,27.4609375,0,some college,825
+Landline,mill_town,female,55_to_64,White,Yes,Yes,Retired,Divorced,No,No,Yes,Yes,Good,8,29.0495867768595,0,college graduate,826
+Cell,diverse_suburb,male,25_to_34,White,No,Yes,Student,Single/Never,No,No,No,No,Very_good,NA,28.6938775510204,0,some college,827
+Cell,NA,male,35_to_44,White,Yes,Yes,Self-employed,Married,Yes,No,No,Yes,Good,6,NA,NA,more than 4-year college,828
+Landline,mfg,female,45_to_54,White,No,Yes,Out_of_work_1+,Divorced,Yes,No,No,Yes,Fair,4,29.2252456538171,0,college graduate,829
+Landline,diverse_suburb,female,45_to_54,White,Yes,Yes,Employed_for_wages,Married,Yes,Yes,Yes,Yes,Excellent,NA,22.8603017689906,2,high school graduate,830
+Landline,urban,male,55_to_64,White,No,Yes,Disabled,Single/Never,No,Yes,No,Yes,Excellent,NA,27.1219135802469,0,some college,831
+Cell,urban,male,35_to_44,White,No,Yes,Out_of_work_1+,Single/Never,No,No,No,Yes,Excellent,NA,33.6533131771227,0,high school graduate,832
+Cell,rural,female,55_to_64,White,Yes,Yes,Employed_for_wages,Divorced,Yes,No,No,No,Very_good,10,24.7971781305115,0,some college,833
+Cell,wealth_suburb,female,65_to_74,White,Yes,Yes,Employed_for_wages,Married,No,No,No,Yes,Excellent,7,23.5650951557093,NA,college graduate,834
+Landline,diverse_suburb,female,55_to_64,White,Yes,Yes,Employed_for_wages,Married,No,Yes,Yes,Yes,Very_good,9,24.2079889807163,1,some college,835
+Landline,mill_town,male,45_to_54,Other,No,Yes,Disabled,Married,Yes,Yes,Yes,Yes,Poor,2,15.1707637455433,0,some high school,836
+Cell,urban,male,35_to_44,White,Yes,Yes,Employed_for_wages,Single/Never,No,No,Yes,Yes,Good,9,27.2591836734694,0,college graduate,837
+Landline,mfg,female,65_to_74,White,Yes,Yes,Retired,Divorced,No,No,Yes,Yes,Poor,8,23.7747138397503,0,college graduate,838
+Cell,mill_town,male,25_to_34,Black,Yes,Yes,Employed_for_wages,Single/Never,No,No,No,No,Excellent,NA,23.0103154136084,0,college graduate,839
+Landline,rural,male,75_or_older,White,No,Yes,Retired,Married,No,No,Yes,Yes,Very_good,10,22.0447664359862,0,high school graduate,840
+Landline,mill_town,female,65_to_74,White,No,Yes,Retired,Widowed,No,No,Yes,Yes,Fair,10,NA,0,some college,841
+Landline,mfg,female,25_to_34,Black,Yes,Yes,Employed_for_wages,Single/Never,No,Yes,No,No,Excellent,NA,27.9853867472915,2,some college,842
+Landline,wealth_suburb,female,45_to_54,White,Yes,Yes,Employed_for_wages,Married,No,No,No,Yes,Excellent,NA,20.0857142857143,1,more than 4-year college,843
+Landline,diverse_suburb,female,65_to_74,Hispanic,No,Yes,Retired,Married,NA,NA,No,Yes,Fair,9,28.1502284332169,0,some high school,844
+Landline,wealth_suburb,female,NA,NA,No,No,Out_of_work_1+,Single/Never,No,No,No,No,Excellent,NA,NA,0,NA,845
+Landline,mill_town,female,75_or_older,White,No,Yes,Retired,Divorced,No,Yes,Yes,No,Very_good,10,22.0010501995379,0,college graduate,846
+Landline,mill_town,male,75_or_older,White,Yes,Yes,Retired,Widowed,No,No,No,Yes,Excellent,10,20.524437716263,0,high school graduate,847
+Cell,mfg,female,25_to_34,White,No,Yes,Employed_for_wages,Single/Never,Yes,No,Yes,Yes,Good,NA,25.0568055246157,2,some college,848
+Cell,diverse_suburb,female,55_to_64,Other,No,Yes,Disabled,Divorced,Yes,Yes,Yes,Yes,Poor,NA,37.7587890625,0,some college,849
+Landline,rural,male,65_to_74,White,No,No,Employed_for_wages,Widowed,Yes,No,No,No,Good,0,23.75,0,some college,850
+Cell,urban,male,18_to_24,Hispanic,No,Yes,Employed_for_wages,Single/Never,No,Yes,No,Yes,Very_good,NA,29.8565197428834,0,some college,851
+Landline,rural,male,75_or_older,White,No,Yes,Retired,Married,No,No,Yes,Yes,Excellent,10,24.6809413580247,0,some college,852
+Landline,NA,female,75_or_older,White,No,Yes,Retired,Widowed,No,Yes,No,Yes,Very_good,8,NA,0,some college,853
+Cell,diverse_suburb,male,35_to_44,White,No,Yes,Out_of_work_1+,Widowed,No,No,Yes,No,Good,NA,30.5379817331254,0,some high school,854
+Landline,rural,female,25_to_34,Black,No,Yes,Out_of_work_1+,Single/Never,No,Yes,No,Yes,Fair,6,21.797119140625,2,high school graduate,855
+Landline,rural,male,55_to_64,White,Yes,Yes,Retired,Single/Never,No,No,Yes,No,Very_good,10,19.3432052089897,0,college graduate,856
+Landline,urban,female,65_to_74,Black,No,Yes,Retired,Widowed,No,No,Yes,Yes,Good,9,28.2863905325444,0,some college,857
+Cell,urban,male,18_to_24,White,Yes,Yes,Employed_for_wages,Single/Never,Yes,No,No,Yes,Excellent,10,23.6252888048729,0,some college,858
+Cell,urban,female,25_to_34,Hispanic,No,Yes,Homemaker,Married,No,No,No,Yes,Good,NA,33.8911845730028,4,high school graduate,859
+Landline,urban,female,45_to_54,White,Yes,Yes,Self-employed,Single/Never,Yes,Yes,Yes,Yes,Fair,10,19.9668639053254,0,high school graduate,860
+Landline,wealth_suburb,female,55_to_64,White,Yes,Yes,Employed_for_wages,Widowed,Yes,No,No,No,Fair,NA,28.319091796875,0,some college,861
+Landline,diverse_suburb,female,25_to_34,Black,No,No,Homemaker,Married,No,No,No,No,Good,NA,28.72681359045,3,some college,862
+Landline,urban,female,35_to_44,Hispanic,No,Yes,Homemaker,Single/Never,No,Yes,Yes,Yes,Poor,10,25.572998046875,0,some high school,863
+Cell,urban,female,18_to_24,Hispanic,No,Yes,Employed_for_wages,Single/Never,No,No,No,Yes,Excellent,NA,25.3861111111111,1,high school graduate,864
+Landline,urban,female,45_to_54,Black,No,No,Out_of_work_1+,Single/Never,Yes,No,No,Yes,Fair,0,42.283359322789,0,some college,865
+Landline,diverse_suburb,male,NA,White,No,Yes,Retired,Married,No,Yes,Yes,Yes,Very_good,8,NA,0,more than 4-year college,866
+Landline,mfg,male,65_to_74,White,No,Yes,Retired,Married,No,No,Yes,Yes,Very_good,10,26.4967268399127,0,more than 4-year college,867
+Cell,diverse_suburb,female,NA,White,Yes,Yes,Retired,Married,No,Yes,Yes,Yes,Excellent,NA,NA,0,some college,868
+Landline,rural,female,35_to_44,White,Yes,Yes,Employed_for_wages,Separated,Yes,Yes,Yes,Yes,Very_good,NA,22.5941230486685,2,college graduate,869
+Landline,mill_town,female,55_to_64,White,Yes,Yes,Employed_for_wages,Married,No,No,No,No,Excellent,8,19.1349112426036,0,more than 4-year college,870
+Landline,diverse_suburb,female,55_to_64,White,No,Yes,Retired,Married,Yes,Yes,Yes,Yes,Fair,10,26.037037037037,0,more than 4-year college,871
+Landline,urban,female,NA,Asian,No,No,Out_of_work_1-,Married,Yes,No,No,No,Good,8,21.6307692307692,NA,8th grade or less,872
+Landline,mill_town,female,55_to_64,White,Yes,Yes,Employed_for_wages,Married,No,Yes,No,Yes,Excellent,NA,23.5650951557093,0,college graduate,873
+Landline,urban,female,65_to_74,Hispanic,No,Yes,Homemaker,Single/Never,No,No,No,Yes,Fair,8,NA,0,8th grade or less,874
+Landline,urban,male,55_to_64,White,Yes,Yes,Employed_for_wages,Married,No,No,Yes,No,Excellent,NA,23.7455432538938,0,more than 4-year college,875
+Landline,mfg,male,35_to_44,White,No,Yes,Disabled,Married,No,No,No,Yes,Fair,3,23.4907551793272,0,high school graduate,876
+Cell,rural,male,25_to_34,White,No,No,Self-employed,Married,No,No,No,No,Very_good,NA,22.8513513513514,2,college graduate,877
+Landline,mill_town,male,55_to_64,White,No,Yes,Retired,Married,No,Yes,Yes,Yes,Good,9,29.0495867768595,0,some college,878
+Landline,urban,male,65_to_74,White,Yes,Yes,Out_of_work_1+,Widowed,No,No,Yes,Yes,Good,10,32.5462962962963,0,college graduate,879
+Landline,urban,female,55_to_64,Black,Yes,Yes,Employed_for_wages,Single/Never,No,Yes,Yes,Yes,Very_good,10,46.452133194589,0,some college,880
+Landline,diverse_suburb,female,45_to_54,White,Yes,Yes,Self-employed,Married,No,Yes,No,Yes,Very_good,NA,19.7642733564014,2,college graduate,881
+Landline,wealth_suburb,female,65_to_74,White,No,Yes,Homemaker,Married,No,No,Yes,Yes,Fair,8,31.0900104058273,0,some college,882
+Landline,rural,male,75_or_older,White,No,Yes,Retired,Married,No,No,Yes,Yes,Very_good,NA,24.8232493552866,0,more than 4-year college,883
+Landline,mill_town,male,55_to_64,White,Yes,Yes,Employed_for_wages,Divorced,No,Yes,No,No,Good,8,28.1889062151927,0,college graduate,884
+Cell,diverse_suburb,female,55_to_64,Hispanic,No,Yes,Disabled,Separated,Yes,No,Yes,Yes,NA,NA,37.1027777777778,0,college graduate,885
+Landline,rural,female,45_to_54,White,No,No,Out_of_work_1+,Single/Never,Yes,Yes,No,Yes,Very_good,4,14.8475665748393,0,some college,886
+Landline,urban,male,75_or_older,White,No,Yes,Retired,Widowed,No,No,Yes,Yes,Good,8,27.2591836734694,0,college graduate,887
+Cell,mill_town,female,65_to_74,White,No,Yes,Retired,Widowed,No,No,Yes,Yes,Fair,10,30.8935546875,0,college graduate,888
+Landline,urban,female,18_to_24,Black,No,Yes,Student,Single/Never,No,No,No,No,Good,NA,19.5277777777778,2,high school graduate,889
+Landline,wealth_suburb,female,45_to_54,White,Yes,Yes,Employed_for_wages,Single/Never,No,No,Yes,No,Excellent,NA,NA,0,more than 4-year college,890
+Landline,rural,male,25_to_34,White,Yes,Yes,Employed_for_wages,Single/Never,No,No,Yes,No,Very_good,NA,25.1071428571429,0,college graduate,891
+Landline,rural,female,55_to_64,White,Yes,Yes,Retired,Single/Never,No,No,No,No,Excellent,NA,20.3691106072058,0,college graduate,892
+Landline,mill_town,female,25_to_34,White,Yes,Yes,Out_of_work_1+,Married,No,Yes,No,No,Very_good,NA,NA,3,some college,893
+Landline,mill_town,female,75_or_older,White,Yes,Yes,Retired,Married,No,No,Yes,Yes,Very_good,10,26.4674012855831,0,some college,894
+Landline,mill_town,male,65_to_74,White,Yes,Yes,Retired,Single/Never,No,Yes,Yes,Yes,Excellent,10,22.5008650519031,0,high school graduate,895
+Landline,diverse_suburb,female,45_to_54,White,Yes,Yes,Employed_for_wages,Married,Yes,Yes,No,Yes,Very_good,NA,22.1099632690542,2,some college,896
+Landline,wealth_suburb,male,65_to_74,White,Yes,Yes,Retired,Married,Yes,No,Yes,Yes,Good,10,35.258487654321,0,more than 4-year college,897
+Landline,rural,female,55_to_64,White,Yes,Yes,Employed_for_wages,Married,Yes,Yes,Yes,Yes,Very_good,10,24.2079889807163,0,more than 4-year college,898
+Landline,mill_town,female,75_or_older,White,No,Yes,Retired,Widowed,No,Yes,Yes,Yes,Poor,5,34.7476586888658,0,high school graduate,899
+Cell,NA,male,NA,NA,Yes,Yes,Employed_for_wages,NA,Yes,Yes,Yes,Yes,NA,NA,NA,0,NA,900
+Landline,diverse_suburb,male,75_or_older,White,No,Yes,Retired,Widowed,No,No,Yes,Yes,Excellent,10,27.8912914104344,0,8th grade or less,901
+Landline,rural,male,65_to_74,White,Yes,Yes,Employed_for_wages,Married,Yes,No,Yes,Yes,Very_good,10,27.4357208448118,0,high school graduate,902
+Landline,urban,female,45_to_54,Black,No,Yes,Out_of_work_1-,Single/Never,No,Yes,Yes,Yes,Fair,10,36.9439878892734,0,some high school,903
+Cell,mfg,female,45_to_54,Hispanic,Yes,Yes,Employed_for_wages,Married,No,No,Yes,Yes,Excellent,NA,23.7747138397503,0,8th grade or less,904
+Landline,urban,male,35_to_44,Black,No,No,Out_of_work_1+,Single/Never,No,No,No,No,Excellent,NA,34.864114263043,0,high school graduate,905
+Landline,wealth_suburb,female,55_to_64,White,Yes,Yes,Employed_for_wages,Married,No,Yes,Yes,Yes,Excellent,NA,20.818870523416,0,more than 4-year college,906
+Landline,rural,female,65_to_74,White,No,Yes,Homemaker,Married,No,Yes,Yes,Yes,Good,10,22.8603017689906,0,high school graduate,907
+Landline,NA,female,65_to_74,White,Yes,Yes,Retired,Married,No,No,No,Yes,Very_good,NA,23.4010560146924,0,some college,908
+Landline,rural,male,65_to_74,White,Yes,Yes,Retired,Married,No,No,No,Yes,Very_good,10,27.1219135802469,0,college graduate,909
+Landline,urban,female,45_to_54,Hispanic,No,Yes,Homemaker,Single/Never,No,No,No,Yes,Fair,5,26.037037037037,0,8th grade or less,910
+Landline,mfg,female,75_or_older,White,Yes,Yes,Retired,Widowed,No,No,No,Yes,Very_good,9,24.5307621671258,0,some college,911
+Cell,mill_town,female,45_to_54,White,Yes,Yes,Employed_for_wages,Married,Yes,Yes,Yes,Yes,Very_good,NA,27.4357208448118,0,some college,912
+Landline,mill_town,female,65_to_74,White,Yes,Yes,Retired,Married,No,Yes,Yes,Yes,Fair,7,30.5413631633715,0,more than 4-year college,913
+Landline,mfg,female,25_to_34,White,No,Yes,Employed_for_wages,Married,Yes,No,No,Yes,Very_good,NA,22.31201171875,0,college graduate,914
+Landline,mill_town,male,45_to_54,White,Yes,Yes,Self-employed,Married,No,Yes,Yes,Yes,Good,8,29.5316110060912,0,some college,915
+Landline,mfg,male,65_to_74,White,No,Yes,Self-employed,Married,No,No,Yes,Yes,Excellent,10,28.2426538108356,0,college graduate,916
+Cell,rural,male,25_to_34,White,Yes,Yes,Employed_for_wages,Single/Never,Yes,No,Yes,Yes,Good,5,23.7455432538938,1,high school graduate,917
+Landline,mill_town,female,65_to_74,White,No,Yes,Homemaker,Widowed,No,No,No,No,Excellent,10,20.25244140625,0,college graduate,918
+Landline,urban,female,75_or_older,White,No,Yes,Retired,Widowed,No,No,No,Yes,Excellent,10,21.2143600416233,0,college graduate,919
+Cell,diverse_suburb,female,45_to_54,NA,No,Yes,Out_of_work_1+,Widowed,Yes,Yes,Yes,Yes,Good,7,28.72681359045,1,college graduate,920
+Landline,diverse_suburb,female,75_or_older,Hispanic,No,Yes,Disabled,Widowed,No,Yes,Yes,Yes,NA,5,19.366391184573,0,8th grade or less,921
+Landline,mill_town,female,65_to_74,White,No,Yes,Retired,Widowed,Yes,Yes,Yes,Yes,Good,8,30.1108591584782,0,some college,922
+Landline,diverse_suburb,male,55_to_64,Hispanic,No,No,Out_of_work_1-,Married,No,No,No,Yes,Excellent,NA,29.2109733700643,1,high school graduate,923
+Landline,urban,male,65_to_74,White,No,Yes,Retired,Single/Never,No,No,Yes,No,Good,8,22.9551020408163,0,more than 4-year college,924
+Landline,urban,male,65_to_74,White,No,Yes,Retired,Married,No,No,Yes,Yes,Very_good,9,28.4069387755102,0,more than 4-year college,925
+Landline,wealth_suburb,female,55_to_64,White,No,Yes,Self-employed,Married,Yes,No,No,No,Very_good,NA,22.707730006683,0,high school graduate,926
+Landline,mfg,female,55_to_64,White,No,Yes,Retired,Married,No,No,Yes,Yes,Fair,10,45.8902777777778,0,college graduate,927
+Landline,mill_town,female,35_to_44,Black,No,Yes,Out_of_work_1+,Separated,Yes,Yes,Yes,Yes,Good,9,31.1644018712408,1,some high school,928
+Landline,rural,female,55_to_64,White,Yes,Yes,Employed_for_wages,Divorced,No,Yes,Yes,Yes,Very_good,10,23.9115646258503,0,more than 4-year college,929
+Landline,mfg,female,55_to_64,Hispanic,Yes,Yes,Employed_for_wages,Single/Never,No,No,No,Yes,Very_good,8,NA,0,more than 4-year college,930
+Landline,urban,male,25_to_34,Hispanic,Yes,Yes,Employed_for_wages,Single/Never,Yes,No,No,No,Excellent,NA,28.4780092592593,0,high school graduate,931
+Cell,urban,female,35_to_44,White,No,No,Employed_for_wages,Married,Yes,Yes,Yes,Yes,Poor,0,23.9115646258503,0,more than 4-year college,932
+Landline,diverse_suburb,female,65_to_74,White,No,Yes,Retired,Married,No,Yes,Yes,Yes,Very_good,10,28.3467741935484,0,college graduate,933
+Landline,urban,male,75_or_older,White,Yes,Yes,Retired,Married,No,Yes,No,Yes,Good,10,26.1496539792388,0,high school graduate,934
+Cell,mfg,female,18_to_24,Other,Yes,Yes,Employed_for_wages,Single/Never,No,No,Yes,Yes,Very_good,NA,26.5179500520291,0,college graduate,935
+Landline,urban,female,55_to_64,Black,Yes,Yes,Employed_for_wages,Divorced,No,Yes,Yes,Yes,Good,10,31.527840765936,1,8th grade or less,936
+Cell,mill_town,female,18_to_24,White,Yes,Yes,Employed_for_wages,Single/Never,No,No,No,No,Very_good,NA,23.6159634506853,0,some college,937
+Landline,mill_town,male,65_to_74,White,No,Yes,Disabled,Single/Never,Yes,Yes,Yes,Yes,Poor,5,28.0550304557866,0,college graduate,938
+Cell,mfg,male,55_to_64,Hispanic,Yes,Yes,Employed_for_wages,Separated,No,No,No,No,Good,NA,32.0044224765869,2,8th grade or less,939
+Cell,mill_town,female,18_to_24,White,Yes,Yes,Employed_for_wages,Single/Never,No,Yes,Yes,Yes,Excellent,NA,25.7905325443787,0,some college,940
+Landline,mill_town,female,65_to_74,White,No,Yes,Retired,Married,No,Yes,Yes,Yes,Very_good,NA,29.2916666666667,NA,high school graduate,941
+Landline,diverse_suburb,female,55_to_64,White,Yes,Yes,Employed_for_wages,Single/Never,Yes,Yes,No,Yes,Good,10,27.2637173226084,0,some college,942
+Landline,mfg,male,65_to_74,White,Yes,Yes,Retired,Married,No,No,Yes,Yes,Very_good,9,30.8198770085301,0,some college,943
+Landline,mill_town,female,45_to_54,White,Yes,Yes,Employed_for_wages,Married,Yes,No,Yes,Yes,Good,NA,40.333251953125,0,some college,944
+Landline,wealth_suburb,female,75_or_older,White,Yes,Yes,Employed_for_wages,Divorced,No,No,Yes,Yes,Very_good,8,21.9247048340388,0,college graduate,945
+Landline,NA,female,75_or_older,White,Yes,Yes,Retired,Married,Yes,No,No,Yes,Excellent,NA,20.424072265625,0,college graduate,946
+Landline,mill_town,female,55_to_64,White,Yes,Yes,Employed_for_wages,Married,No,No,Yes,Yes,Very_good,6,34.4531075963466,0,some college,947
+Landline,rural,female,45_to_54,White,Yes,Yes,Employed_for_wages,Single/Never,No,No,Yes,Yes,Very_good,10,29.6464100346021,0,more than 4-year college,948
+Landline,mill_town,female,75_or_older,White,No,Yes,Retired,Widowed,No,No,Yes,Yes,Excellent,NA,23.2381080354743,0,more than 4-year college,949
+Landline,mfg,female,65_to_74,White,No,Yes,Retired,Married,No,No,Yes,Yes,Very_good,10,NA,0,more than 4-year college,950
+Cell,rural,female,18_to_24,White,Yes,Yes,Student,Single/Never,Yes,Yes,Yes,Yes,Fair,7,19.2026534859521,0,some high school,951
+Landline,rural,female,65_to_74,White,Yes,Yes,Retired,Married,No,No,No,No,Excellent,NA,23.856689453125,0,more than 4-year college,952
+Landline,mill_town,female,65_to_74,White,No,Yes,Employed_for_wages,Divorced,No,No,Yes,No,Excellent,10,21.9247048340388,0,college graduate,953
+Cell,mfg,female,35_to_44,White,Yes,Yes,Employed_for_wages,Single/Never,No,No,Yes,Yes,Good,8,26.602783203125,0,more than 4-year college,954
+Landline,urban,male,65_to_74,White,No,Yes,Retired,Single/Never,No,No,Yes,Yes,Very_good,10,27.3659169550173,0,more than 4-year college,955
+Landline,diverse_suburb,female,35_to_44,White,No,Yes,Out_of_work_1-,Divorced,Yes,No,Yes,Yes,Fair,10,43.0663844954333,0,some college,956
+Landline,mfg,male,75_or_older,White,Yes,Yes,Retired,Married,No,Yes,Yes,Yes,Good,10,28.8153263533081,0,high school graduate,957
+Cell,mfg,female,25_to_34,Hispanic,Yes,Yes,Employed_for_wages,Married,No,No,No,Yes,Excellent,NA,24.7971781305115,3,some college,958
+Landline,mill_town,female,75_or_older,White,No,Yes,Retired,Widowed,No,No,No,Yes,Excellent,10,21.2979881656805,0,8th grade or less,959
+Landline,mfg,female,75_or_older,Hispanic,No,Yes,Retired,Widowed,No,No,Yes,Yes,Very_good,10,40.7382212144117,0,some college,960
+Landline,mill_town,male,75_or_older,White,No,Yes,Retired,Married,No,No,Yes,Yes,Fair,10,36.0317906574394,0,some high school,961
+Landline,mill_town,female,65_to_74,White,Yes,Yes,Employed_for_wages,Single/Never,No,Yes,No,Yes,Good,9,31.8820861678005,1,some college,962
+Landline,mfg,male,65_to_74,White,No,Yes,Self-employed,Married,No,No,No,Yes,Good,8,25.821854912764,NA,high school graduate,963
+Landline,urban,female,25_to_34,Black,No,No,Employed_for_wages,Single/Never,No,No,No,No,Fair,NA,NA,0,some college,964
+Landline,wealth_suburb,female,75_or_older,White,No,Yes,Employed_for_wages,Widowed,No,Yes,Yes,Yes,Good,8,23.1775451102695,0,some college,965
+Landline,mill_town,female,45_to_54,White,Yes,Yes,Self-employed,Married,Yes,No,Yes,Yes,Very_good,10,NA,3,some college,966
+Cell,mfg,female,35_to_44,Black,No,No,Employed_for_wages,Single/Never,Yes,Yes,No,Yes,Good,NA,29.9502958579882,1,high school graduate,967
+Landline,rural,female,45_to_54,White,Yes,Yes,Employed_for_wages,Married,No,No,Yes,Yes,Excellent,NA,22.8603017689906,0,high school graduate,968
+Cell,mill_town,female,35_to_44,White,No,Yes,Homemaker,Divorced,No,Yes,Yes,Yes,Very_good,NA,26.6287878787879,4,some college,969
+Cell,rural,female,25_to_34,White,No,No,Out_of_work_1-,Married,No,Yes,No,Yes,Excellent,10,23.0536265432099,1,more than 4-year college,970
+Landline,mill_town,female,65_to_74,White,No,Yes,Out_of_work_1+,Divorced,No,Yes,Yes,Yes,Very_good,6,25.3163128191346,0,high school graduate,971
+Cell,rural,male,55_to_64,White,Yes,Yes,Employed_for_wages,Married,No,Yes,Yes,Yes,Good,7,43.0408163265306,0,high school graduate,972
+Landline,mill_town,female,45_to_54,White,No,Yes,Self-employed,Divorced,Yes,Yes,Yes,Yes,Excellent,NA,21.254724111867,0,some college,973
+Landline,rural,female,45_to_54,White,Yes,Yes,Homemaker,Married,Yes,No,Yes,Yes,Good,9,22.4627218934911,1,college graduate,974
+Landline,mfg,female,55_to_64,White,No,Yes,Employed_for_wages,Married,No,No,Yes,Yes,Good,7,40.1236623067776,0,some college,975
+Landline,rural,male,45_to_54,White,No,Yes,Employed_for_wages,Married,Yes,No,No,No,Very_good,3,29.8341049382716,0,some college,976
+Landline,urban,male,75_or_older,White,No,Yes,Retired,Widowed,No,Yes,Yes,Yes,Very_good,8,28.3503465658475,0,more than 4-year college,977
+Landline,mfg,female,18_to_24,White,Yes,Yes,Student,Single/Never,No,No,Yes,Yes,Good,8,33.0842516069789,0,college graduate,978
+Landline,mfg,female,55_to_64,Hispanic,No,Yes,Disabled,Separated,No,No,Yes,Yes,Poor,10,32.7676996724616,0,8th grade or less,979
+Landline,diverse_suburb,male,45_to_54,White,Yes,Yes,Employed_for_wages,Married,No,Yes,Yes,Yes,Excellent,NA,25.7994445546519,NA,college graduate,980
+Landline,diverse_suburb,male,25_to_34,White,No,Yes,Employed_for_wages,Single/Never,No,Yes,No,Yes,Good,9,25.1071428571429,0,high school graduate,981
+Landline,rural,female,75_or_older,White,Yes,Yes,Retired,Married,No,No,Yes,Yes,Excellent,10,23.7139483892731,0,college graduate,982
+Landline,mfg,female,65_to_74,White,No,Yes,Homemaker,Married,No,No,No,Yes,Good,9,29.7549565604812,0,high school graduate,983
+Cell,rural,male,65_to_74,White,Yes,Yes,Employed_for_wages,Divorced,No,No,No,No,Very_good,9,23.731674382716,0,more than 4-year college,984
+Landline,urban,male,65_to_74,Black,Yes,Yes,Retired,Married,No,No,No,Yes,Very_good,8,33.043662285587,NA,some college,985
+Landline,urban,female,25_to_34,Hispanic,Yes,Yes,Employed_for_wages,Single/Never,Yes,No,No,No,Very_good,10,24.5606019887127,NA,college graduate,986
+Landline,urban,male,75_or_older,Hispanic,No,Yes,Retired,Married,No,No,No,Yes,Good,NA,24.1385030864198,0,8th grade or less,987
+Landline,diverse_suburb,male,45_to_54,White,No,Yes,Self-employed,Married,Yes,No,No,No,Excellent,10,25.0854238754325,0,college graduate,988
+Landline,mill_town,female,45_to_54,Hispanic,Yes,Yes,Employed_for_wages,Married,No,No,Yes,Yes,Good,8,26.6287878787879,1,high school graduate,989
+Landline,diverse_suburb,male,75_or_older,White,No,Yes,Retired,Married,No,No,No,Yes,Excellent,10,26.3839369487709,0,high school graduate,990
+Landline,mill_town,male,65_to_74,White,No,Yes,Retired,Married,No,Yes,Yes,Yes,Excellent,10,35.5050505050505,0,high school graduate,991
+Landline,mill_town,female,18_to_24,White,Yes,Yes,Employed_for_wages,Single/Never,No,Yes,Yes,Yes,Excellent,NA,28.1889062151927,0,some college,992
+Landline,urban,female,55_to_64,White,Yes,Yes,Employed_for_wages,Single/Never,No,No,Yes,Yes,Very_good,10,39.47509765625,0,college graduate,993
+Landline,mill_town,female,55_to_64,White,Yes,Yes,Employed_for_wages,Married,No,No,No,No,Excellent,NA,25.74462890625,0,college graduate,994
+Landline,rural,female,65_to_74,White,No,Yes,Retired,Widowed,Yes,No,Yes,Yes,Excellent,10,24.9384574039237,0,college graduate,995
+Landline,rural,female,35_to_44,White,No,Yes,Self-employed,Divorced,Yes,No,No,No,Good,8,25.74462890625,3,some high school,996
+Landline,mfg,male,35_to_44,White,No,Yes,Employed_for_wages,Single/Never,Yes,No,Yes,Yes,Very_good,9,27.4357208448118,0,some college,997
+Landline,diverse_suburb,female,75_or_older,White,No,Yes,Retired,Widowed,No,Yes,Yes,Yes,Good,7,16.8266565885614,0,college graduate,998
+Landline,diverse_suburb,female,55_to_64,White,Yes,Yes,Employed_for_wages,Single/Never,No,Yes,Yes,Yes,Good,NA,35.8962644450417,0,more than 4-year college,999
+Landline,rural,female,75_or_older,White,No,Yes,Retired,Widowed,Yes,No,Yes,Yes,Fair,10,26.602783203125,0,more than 4-year college,1000
+Cell,mill_town,male,55_to_64,White,Yes,Yes,Employed_for_wages,Single/Never,Yes,No,No,Yes,Fair,5,24.1385030864198,0,more than 4-year college,1001
+Landline,mfg,female,45_to_54,Black,Yes,Yes,Employed_for_wages,Widowed,Yes,Yes,Yes,Yes,Very_good,9,31.0900104058273,1,college graduate,1002
+Cell,mill_town,female,35_to_44,Hispanic,Yes,Yes,Employed_for_wages,Married,No,Yes,Yes,Yes,Good,8,32.60986328125,1,college graduate,1003
+Landline,mill_town,female,65_to_74,White,No,Yes,Retired,Divorced,Yes,Yes,Yes,Yes,Poor,10,38.273681640625,0,some college,1004
+Landline,mfg,female,65_to_74,White,Yes,Yes,Employed_for_wages,Divorced,No,No,Yes,Yes,Very_good,9,35.424540186445,0,some college,1005
+Landline,mill_town,female,65_to_74,White,Yes,Yes,Retired,Widowed,No,No,No,Yes,Excellent,10,29.5316110060912,0,more than 4-year college,1006
+Landline,mfg,male,65_to_74,White,No,Yes,Retired,Divorced,No,No,Yes,Yes,Very_good,10,29.5316110060912,1,some college,1007
+Landline,rural,female,35_to_44,White,Yes,Yes,Employed_for_wages,Married,No,No,Yes,Yes,Excellent,NA,25.821854912764,0,more than 4-year college,1008
+Landline,rural,male,75_or_older,White,Yes,Yes,Retired,Married,Yes,No,Yes,Yes,Good,7,26.9863040123457,0,more than 4-year college,1009
+Cell,wealth_suburb,female,18_to_24,White,Yes,Yes,Employed_for_wages,Single/Never,No,No,Yes,No,Good,NA,25.8244897959184,0,high school graduate,1010
+Landline,urban,male,45_to_54,White,No,Yes,Out_of_work_1+,Single/Never,No,No,No,Yes,Good,NA,23.125,0,high school graduate,1011
+Landline,NA,female,35_to_44,Hispanic,No,Yes,Disabled,Divorced,Yes,Yes,Yes,Yes,Excellent,NA,29.0495867768595,0,some high school,1012
+Landline,mill_town,female,65_to_74,White,Yes,Yes,Employed_for_wages,Single/Never,No,Yes,Yes,Yes,Excellent,NA,29.2837946788498,0,more than 4-year college,1013
+Cell,mfg,male,25_to_34,Black,Yes,Yes,Employed_for_wages,Single/Never,No,Yes,Yes,Yes,Very_good,NA,21.0194830246914,0,more than 4-year college,1014
+Landline,mill_town,female,55_to_64,White,No,Yes,Disabled,Widowed,Yes,Yes,Yes,Yes,Poor,10,23.7938461538462,0,high school graduate,1015
+Landline,rural,male,65_to_74,White,Yes,Yes,Retired,Married,No,No,No,Yes,Very_good,NA,30.3415274910865,0,more than 4-year college,1016
+Landline,urban,male,55_to_64,Hispanic,No,No,Out_of_work_1+,Widowed,Yes,No,No,No,Fair,NA,25.1018693551775,0,some college,1017
+Cell,urban,male,35_to_44,Hispanic,Yes,Yes,Out_of_work_1+,Divorced,Yes,Yes,No,Yes,Fair,5,35.8797577854671,1,some high school,1018
+Cell,mill_town,male,18_to_24,White,Yes,Yes,Employed_for_wages,Single/Never,No,No,Yes,Yes,Good,NA,29.5316110060912,1,college graduate,1019
+Landline,mill_town,female,25_to_34,NA,Yes,Yes,Employed_for_wages,Single/Never,No,No,Yes,No,Very_good,NA,NA,4,some college,1020
+Landline,rural,male,55_to_64,White,Yes,Yes,Retired,Married,No,Yes,No,Yes,Very_good,10,29.7549565604812,1,college graduate,1021
+Cell,urban,female,45_to_54,Black,No,Yes,Disabled,Single/Never,No,No,No,No,Very_good,NA,18.5978835978836,0,high school graduate,1022
+Cell,wealth_suburb,female,18_to_24,White,Yes,Yes,Employed_for_wages,Single/Never,No,No,Yes,Yes,Excellent,NA,18.7750062988158,0,college graduate,1023
+Landline,wealth_suburb,female,45_to_54,White,Yes,Yes,Employed_for_wages,Married,Yes,No,Yes,Yes,Very_good,10,28.1260813148789,2,more than 4-year college,1024
+Landline,mill_town,female,35_to_44,White,Yes,Yes,Out_of_work_1-,Single/Never,No,No,Yes,Yes,Very_good,10,25.0568055246157,0,more than 4-year college,1025
+Landline,mfg,male,45_to_54,White,Yes,Yes,Employed_for_wages,Married,No,No,No,Yes,Good,7,36.584693877551,1,high school graduate,1026
+Landline,mill_town,male,55_to_64,White,Yes,Yes,Employed_for_wages,Divorced,No,No,Yes,Yes,Good,8,24.6767346938775,1,high school graduate,1027
+Cell,mfg,male,55_to_64,White,Yes,Yes,Retired,Widowed,No,Yes,Yes,Yes,Very_good,10,37.6532434040865,0,some college,1028
+Landline,wealth_suburb,male,55_to_64,White,Yes,Yes,Employed_for_wages,Widowed,No,Yes,Yes,Yes,Good,10,31.5632653061224,0,more than 4-year college,1029
+Landline,diverse_suburb,female,55_to_64,White,No,Yes,Retired,Married,Yes,Yes,No,Yes,NA,0,21.5204081632653,0,some college,1030
+Landline,mfg,male,35_to_44,White,Yes,Yes,Employed_for_wages,Married,No,Yes,No,Yes,Very_good,10,27.4058810425485,0,college graduate,1031
+Landline,mfg,female,75_or_older,White,Yes,Yes,Retired,Widowed,No,No,No,Yes,Good,10,33.468017578125,0,high school graduate,1032
+Landline,mill_town,female,75_or_older,White,No,Yes,Retired,Widowed,No,No,Yes,Yes,Good,10,29.0948669712443,0,high school graduate,1033
+Landline,wealth_suburb,male,55_to_64,White,Yes,Yes,Employed_for_wages,Single/Never,No,No,No,No,Good,NA,23.6252888048729,0,high school graduate,1034
+Landline,mfg,male,35_to_44,NA,Yes,Yes,Employed_for_wages,Single/Never,No,No,No,Yes,Very_good,NA,25.1071428571429,0,more than 4-year college,1035
+Cell,mill_town,male,65_to_74,White,No,Yes,Disabled,Divorced,No,No,Yes,Yes,Fair,10,40.8887755102041,0,some high school,1036
+Landline,diverse_suburb,female,75_or_older,White,No,Yes,Retired,Widowed,No,No,Yes,Yes,Very_good,10,38.2224245577523,0,high school graduate,1037
+Landline,mfg,female,65_to_74,Black,Yes,Yes,Retired,Widowed,No,No,Yes,No,Very_good,NA,28.6938775510204,0,college graduate,1038
+Landline,urban,female,75_or_older,White,Yes,Yes,Retired,Married,No,Yes,Yes,Yes,Very_good,10,20.0263370061811,0,more than 4-year college,1039
+Landline,mfg,female,45_to_54,White,No,No,Retired,Single/Never,Yes,Yes,Yes,Yes,Fair,10,26.6287878787879,1,8th grade or less,1040
+Landline,rural,female,35_to_44,White,Yes,Yes,Employed_for_wages,Married,No,Yes,Yes,Yes,Very_good,NA,23.68505859375,2,more than 4-year college,1041
+Landline,rural,male,55_to_64,White,Yes,Yes,Retired,Divorced,No,No,Yes,Yes,Excellent,8,27.7999614197531,0,college graduate,1042
+Landline,diverse_suburb,female,55_to_64,Hispanic,No,No,Retired,Divorced,No,No,No,No,Excellent,NA,25.7042211652794,NA,high school graduate,1043
+Landline,mfg,female,18_to_24,Hispanic,No,No,Employed_for_wages,Single/Never,Yes,No,No,Yes,Good,NA,37.8566597294485,3,high school graduate,1044
+Cell,diverse_suburb,female,45_to_54,White,No,Yes,Out_of_work_1-,Single/Never,Yes,Yes,Yes,Yes,Poor,5,33.8911845730028,0,college graduate,1045
+Cell,urban,female,25_to_34,White,Yes,Yes,Employed_for_wages,Married,Yes,No,No,Yes,Excellent,NA,23.4089490114464,NA,more than 4-year college,1046
+Landline,rural,male,55_to_64,White,Yes,Yes,Employed_for_wages,Married,No,No,No,Yes,Very_good,10,28.6938775510204,0,college graduate,1047
+Landline,mfg,female,55_to_64,Black,Yes,Yes,Retired,Widowed,No,Yes,No,Yes,Good,NA,39.9846453287197,0,some college,1048
+Landline,diverse_suburb,male,55_to_64,White,Yes,Yes,Employed_for_wages,Divorced,No,No,No,No,Excellent,10,22.8869985297206,0,college graduate,1049
+Landline,rural,male,75_or_older,White,No,Yes,Retired,Widowed,No,No,Yes,Yes,Fair,8,24.1413023081254,NA,college graduate,1050
+Cell,diverse_suburb,male,35_to_44,Black,Yes,Yes,Employed_for_wages,Single/Never,Yes,No,No,No,Good,NA,31.190200617284,0,some high school,1051
+Cell,rural,female,25_to_34,White,No,Yes,Out_of_work_1-,Single/Never,No,No,Yes,Yes,Very_good,NA,30.5325738697045,0,some college,1052
+Landline,mfg,male,25_to_34,Other,No,No,Out_of_work_1-,Single/Never,Yes,Yes,No,Yes,Excellent,NA,23.6724489795918,0,high school graduate,1053
+Cell,mill_town,male,18_to_24,White,Yes,Yes,Employed_for_wages,Single/Never,No,Yes,Yes,Yes,Very_good,NA,20.0857142857143,0,high school graduate,1054
+Landline,urban,female,18_to_24,Hispanic,No,No,Student,Single/Never,No,No,No,No,Fair,NA,25.74462890625,0,high school graduate,1055
+Landline,NA,female,55_to_64,White,Yes,Yes,Employed_for_wages,Married,No,Yes,Yes,Yes,Very_good,9,28.3467741935484,0,college graduate,1056
+Landline,mill_town,male,65_to_74,White,Yes,Yes,Employed_for_wages,Married,No,Yes,Yes,Yes,Good,10,35.1822773186409,0,high school graduate,1057
+Landline,diverse_suburb,female,25_to_34,White,Yes,Yes,Employed_for_wages,Single/Never,No,No,Yes,Yes,Very_good,NA,18.7926041434618,0,college graduate,1058
+Landline,rural,female,35_to_44,White,Yes,Yes,Employed_for_wages,Married,No,No,Yes,Yes,Very_good,10,20.5462333081381,1,more than 4-year college,1059
+Cell,rural,female,25_to_34,White,Yes,Yes,Employed_for_wages,Single/Never,No,No,Yes,No,Excellent,NA,NA,0,some college,1060
+Cell,NA,female,25_to_34,NA,Yes,Yes,Student,Single/Never,No,No,NA,NA,NA,NA,NA,0,NA,1061
+Landline,mill_town,male,55_to_64,Hispanic,No,Yes,Employed_for_wages,Married,Yes,Yes,Yes,No,Excellent,NA,21.7871900826446,NA,college graduate,1062
+Cell,mill_town,female,55_to_64,White,No,Yes,Employed_for_wages,Single/Never,No,Yes,Yes,Yes,Excellent,7,32.277318640955,0,high school graduate,1063
+Landline,mfg,female,65_to_74,White,No,Yes,Retired,Married,No,Yes,Yes,Yes,Good,10,41.19140625,0,some college,1064
+Landline,mfg,female,45_to_54,White,Yes,Yes,Employed_for_wages,Married,No,No,Yes,Yes,Very_good,8,18.8822314049587,0,college graduate,1065
+Landline,urban,female,65_to_74,White,Yes,Yes,Retired,Widowed,No,No,No,Yes,Good,10,41.19140625,0,some college,1066
+Landline,mfg,male,45_to_54,White,No,Yes,Out_of_work_1+,Single/Never,No,No,No,Yes,NA,6,23.6724489795918,0,some college,1067
+Landline,rural,female,65_to_74,White,No,Yes,Retired,Divorced,No,No,Yes,Yes,Very_good,NA,21.915614082236,NA,some college,1068
+Landline,diverse_suburb,male,65_to_74,Black,No,Yes,Retired,Single/Never,No,No,No,Yes,Very_good,10,28.4780092592593,0,more than 4-year college,1069
+Landline,urban,male,55_to_64,White,Yes,Yes,Employed_for_wages,Single/Never,No,No,Yes,Yes,Good,9,32.4847721067003,0,college graduate,1070
+Landline,mfg,male,55_to_64,White,Yes,Yes,Retired,Single/Never,No,No,No,No,Very_good,NA,20.3414351851852,0,more than 4-year college,1071
+Landline,mill_town,female,75_or_older,White,No,Yes,Retired,Widowed,No,Yes,Yes,Yes,Very_good,10,23.294674556213,0,high school graduate,1072
+Landline,rural,female,75_or_older,White,Yes,Yes,Retired,Widowed,No,No,Yes,Yes,Very_good,NA,21.0776014109347,0,college graduate,1073
+Landline,mfg,female,25_to_34,White,Yes,Yes,Employed_for_wages,Married,Yes,No,Yes,Yes,Excellent,NA,24.1171753174426,0,more than 4-year college,1074
+Landline,rural,female,55_to_64,White,Yes,Yes,Employed_for_wages,Married,No,No,Yes,Yes,Very_good,7,NA,0,college graduate,1075
+Cell,rural,female,18_to_24,White,Yes,Yes,Student,Single/Never,No,No,No,Yes,Excellent,NA,20.524437716263,0,some college,1076
+Landline,mill_town,female,55_to_64,White,Yes,Yes,Employed_for_wages,Married,No,Yes,Yes,Yes,Very_good,NA,20.3768115942029,0,high school graduate,1077
+Cell,rural,male,18_to_24,White,No,No,Out_of_work_1-,Single/Never,Yes,Yes,No,Yes,Fair,4,23.5650951557093,0,high school graduate,1078
+Landline,urban,female,75_or_older,White,No,Yes,Retired,Widowed,No,No,No,Yes,Good,NA,16.6390532544379,0,high school graduate,1079
+Landline,rural,female,75_or_older,White,Yes,Yes,Retired,Married,No,No,Yes,Yes,Excellent,10,21.6758333333333,0,more than 4-year college,1080
+Cell,mill_town,female,18_to_24,White,Yes,Yes,Out_of_work_1+,Single/Never,No,Yes,Yes,Yes,Fair,9,36.900634765625,0,high school graduate,1081
+Landline,mfg,male,55_to_64,White,Yes,Yes,Self-employed,Married,No,No,No,No,Excellent,NA,30.6804205514779,0,high school graduate,1082
+Landline,mfg,female,55_to_64,White,Yes,Yes,Employed_for_wages,Single/Never,No,No,No,Yes,Very_good,10,NA,0,more than 4-year college,1083
+Landline,mill_town,male,55_to_64,Other,Yes,Yes,Employed_for_wages,Divorced,No,Yes,No,Yes,Very_good,9,19.1955471539593,0,some college,1084
+Landline,diverse_suburb,female,55_to_64,White,No,Yes,Self-employed,Married,No,No,No,Yes,Very_good,9,24.7971781305115,0,more than 4-year college,1085
+Landline,rural,female,75_or_older,White,Yes,Yes,Disabled,Divorced,No,Yes,No,Yes,Good,NA,34.9516259070142,0,high school graduate,1086
+Landline,NA,male,35_to_44,White,Yes,Yes,Employed_for_wages,Married,No,No,No,No,Very_good,NA,23.1081081081081,0,more than 4-year college,1087
+Landline,mfg,female,45_to_54,White,Yes,Yes,Retired,Single/Never,No,No,No,No,Very_good,NA,19.2026534859521,0,college graduate,1088
+Landline,mill_town,female,65_to_74,White,No,Yes,Retired,Widowed,No,No,Yes,Yes,Very_good,10,24.0886873267826,0,some college,1089
+Landline,mill_town,female,75_or_older,White,No,Yes,Retired,Widowed,Yes,No,Yes,Yes,Good,10,31.751708984375,0,some college,1090
+Landline,wealth_suburb,female,65_to_74,White,Yes,Yes,Self-employed,Married,No,Yes,Yes,Yes,Excellent,10,29.17724609375,0,more than 4-year college,1091
+Landline,urban,female,55_to_64,White,Yes,Yes,Employed_for_wages,Married,No,No,Yes,Yes,Very_good,10,27.875696146135,0,some college,1092
+Landline,urban,female,25_to_34,Black,Yes,Yes,Out_of_work_1+,Single/Never,No,No,No,Yes,Excellent,8,38.4053069719043,2,college graduate,1093
+Landline,mfg,female,45_to_54,White,Yes,Yes,Employed_for_wages,Married,No,No,Yes,Yes,Excellent,10,22.99853515625,0,college graduate,1094
+Landline,mill_town,male,55_to_64,White,Yes,Yes,Employed_for_wages,Married,Yes,Yes,Yes,Yes,Fair,7,41.0489392984667,0,college graduate,1095
+Cell,diverse_suburb,male,18_to_24,White,No,Yes,Employed_for_wages,Single/Never,No,No,No,No,Excellent,NA,21.7871900826446,0,college graduate,1096
+Landline,mfg,male,45_to_54,White,Yes,Yes,Self-employed,Married,Yes,Yes,No,Yes,Very_good,NA,24.4051416776131,0,more than 4-year college,1097
+Landline,diverse_suburb,male,65_to_74,White,No,Yes,Out_of_work_1-,Married,Yes,No,Yes,Yes,Fair,10,24.1385030864198,0,college graduate,1098
+Landline,mfg,female,65_to_74,NA,No,Yes,Retired,Married,Yes,No,No,Yes,Good,10,26.4967268399127,0,some college,1099
+Landline,urban,male,65_to_74,White,Yes,Yes,Retired,Single/Never,No,No,No,Yes,Fair,8,NA,0,high school graduate,1100
+Landline,mill_town,male,25_to_34,White,Yes,Yes,Employed_for_wages,Married,No,Yes,Yes,Yes,Very_good,9,28.1260813148789,2,some college,1101
+Landline,mill_town,male,NA,White,No,Yes,Retired,Married,No,No,No,No,Very_good,NA,25.0337837837838,0,more than 4-year college,1102
+Landline,mfg,female,75_or_older,White,No,Yes,Retired,Widowed,No,Yes,Yes,Yes,Fair,0,23.8048911582908,0,8th grade or less,1103
+Landline,urban,male,55_to_64,Black,Yes,Yes,Employed_for_wages,Married,No,No,Yes,Yes,Very_good,10,27.1219135802469,1,more than 4-year college,1104
+Landline,wealth_suburb,female,65_to_74,White,No,Yes,Retired,Married,No,No,No,No,Very_good,NA,38.0791666666667,2,some college,1105
+Landline,mfg,male,55_to_64,White,No,Yes,Employed_for_wages,Divorced,Yes,No,No,Yes,Excellent,8,25.0149219467401,0,college graduate,1106
+Landline,NA,male,75_or_older,White,No,Yes,Retired,Married,No,Yes,Yes,Yes,Very_good,10,NA,0,more than 4-year college,1107
+Landline,diverse_suburb,male,55_to_64,White,Yes,Yes,Retired,Married,No,Yes,Yes,Yes,Good,10,33.2230623818526,0,high school graduate,1108
+Landline,rural,female,45_to_54,White,Yes,Yes,Homemaker,Married,Yes,Yes,Yes,Yes,Poor,10,36.1330309901739,0,college graduate,1109
+Cell,mfg,male,45_to_54,Black,Yes,Yes,Retired,Divorced,No,No,No,No,Very_good,NA,30.1689189189189,2,college graduate,1110
+Landline,urban,male,35_to_44,White,Yes,Yes,Employed_for_wages,Single/Never,Yes,No,Yes,Yes,Very_good,7,18.6510204081633,0,college graduate,1111
+Landline,mill_town,female,45_to_54,White,No,Yes,Self-employed,Divorced,Yes,No,No,No,Very_good,NA,26.6224852071006,1,high school graduate,1112
+Landline,urban,female,65_to_74,White,No,Yes,Retired,Widowed,No,No,No,Yes,Very_good,NA,NA,0,high school graduate,1113
+Landline,mfg,female,75_or_older,White,No,Yes,Retired,Widowed,No,No,Yes,Yes,Very_good,9,24.2344153978742,0,some college,1114
+Landline,mfg,male,45_to_54,White,Yes,Yes,Employed_for_wages,Married,No,Yes,Yes,Yes,Good,10,27.3659169550173,NA,some college,1115
+Cell,urban,male,25_to_34,White,Yes,Yes,Student,Married,Yes,No,Yes,No,Very_good,NA,22.1487082545684,1,more than 4-year college,1116
+Cell,rural,male,65_to_74,White,Yes,Yes,Retired,Widowed,No,Yes,No,Yes,Good,8,29.5316110060912,0,some high school,1117
+Landline,rural,male,65_to_74,White,Yes,Yes,Retired,Widowed,No,Yes,No,Yes,Very_good,10,22.7824074074074,0,some college,1118
+Landline,mill_town,male,35_to_44,White,Yes,Yes,Employed_for_wages,Married,Yes,No,No,No,Good,NA,27.4058810425485,1,high school graduate,1119
+Landline,rural,female,45_to_54,White,Yes,Yes,Employed_for_wages,Single/Never,No,No,No,No,Very_good,NA,29.8565197428834,0,high school graduate,1120
+Landline,mill_town,female,75_or_older,White,No,Yes,Retired,Widowed,No,Yes,Yes,Yes,Very_good,10,28.3467741935484,NA,some high school,1121
+Landline,urban,female,55_to_64,White,Yes,Yes,Employed_for_wages,Married,No,No,Yes,Yes,Very_good,10,26.6287878787879,0,more than 4-year college,1122
+Landline,diverse_suburb,female,55_to_64,White,Yes,Yes,Employed_for_wages,Divorced,Yes,No,Yes,No,Excellent,NA,21.0314776274714,NA,some college,1123
+Landline,rural,female,75_or_older,White,No,Yes,Retired,Widowed,No,Yes,Yes,Yes,Good,9,29.261186264308,0,high school graduate,1124
+Landline,rural,female,55_to_64,White,Yes,Yes,Out_of_work_1+,Married,No,No,No,Yes,Fair,8,27.2591836734694,0,college graduate,1125
+Landline,mill_town,female,75_or_older,White,No,Yes,Retired,Married,No,No,Yes,Yes,Very_good,10,28.12,0,college graduate,1126
+Cell,wealth_suburb,female,35_to_44,White,Yes,Yes,Employed_for_wages,Single/Never,No,No,No,No,Good,8,25.4990817263545,0,college graduate,1127
+Landline,mfg,female,65_to_74,White,No,Yes,Retired,Widowed,Yes,Yes,Yes,Yes,Good,8,48.4159779614325,3,high school graduate,1128
+Landline,wealth_suburb,female,75_or_older,White,No,Yes,Retired,Married,No,No,Yes,Yes,Fair,10,30.8935546875,0,high school graduate,1129
+Landline,urban,female,55_to_64,Black,Yes,Yes,Employed_for_wages,Married,Yes,No,No,Yes,Excellent,8,25.74462890625,0,high school graduate,1130
+Landline,rural,male,25_to_34,White,Yes,Yes,Employed_for_wages,Married,Yes,No,Yes,Yes,Very_good,NA,24.9506578947368,0,some high school,1131
+Cell,mill_town,female,18_to_24,White,No,Yes,Employed_for_wages,Single/Never,No,Yes,Yes,No,Excellent,NA,27.4540186444948,1,some college,1132
+Cell,diverse_suburb,female,45_to_54,White,Yes,Yes,Employed_for_wages,Married,No,Yes,Yes,Yes,Very_good,9,21.7871900826446,NA,college graduate,1133
+Cell,diverse_suburb,male,35_to_44,Hispanic,No,No,Disabled,Single/Never,No,No,No,Yes,Poor,NA,NA,0,8th grade or less,1134
+Landline,mill_town,male,55_to_64,Hispanic,No,Yes,Out_of_work_1+,Divorced,Yes,No,Yes,Yes,Fair,5,37.1189164370982,0,more than 4-year college,1135
+Landline,wealth_suburb,male,65_to_74,White,No,Yes,Retired,Married,No,No,No,Yes,Excellent,10,26.6057525951557,0,some college,1136
+Cell,mfg,female,55_to_64,White,Yes,Yes,Employed_for_wages,Divorced,No,No,Yes,Yes,Excellent,NA,24.9585798816568,0,college graduate,1137
+Landline,rural,male,45_to_54,White,Yes,Yes,Employed_for_wages,Married,Yes,Yes,Yes,Yes,Very_good,NA,22.5941230486685,4,college graduate,1138
+Landline,mill_town,female,75_or_older,White,Yes,Yes,Retired,Married,No,Yes,Yes,No,Very_good,9,21.96875,0,college graduate,1139
