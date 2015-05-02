@@ -1,0 +1,77 @@
++#1 Upload Training and Testing datasets
+
+  
+train = read.csv(file = file.choose(), header = T)
+test = read.csv(file = file.choose(), header = T)
+
+#2 Exploratoy Data Analysis
+
+install.packages("data.table") 
+library(data.table)
+summary(train)
+
+#3 Clean up data by converting 2-level factor dental.visit variable into binary
+
+#convert dependent variable column dental.visit to binary
+train$dental.visit = as.numeric(train$dental.visit)   #de-factorize
+train$dental.visit[train$dental.visit == 1] = 0   #convert to binary
+train$dental.visit[train$dental.visit == 2] = 1  #convert to binary
+
+#4 Fit basic binomial glm with logit link
+
+dental1 = glm(dental.visit ~ ., data = train, family = binomial, maxit = 100000)
+summary(dental1)   #the fit is so-so, since 1399 observations were deleted due to missing values
+
+#5 Make predictions and score it on Kaggle to establish base level score. 
+
+dental1.fitted = predict(dental1, newdata = test, type = "response")
+summary(dental1.fitted)  #This is problematic because our prediction is skipping over entires in test with NA
+
+#account fo missing values by imputing the mean of missing quantitative values and converting "NA in
+# a factor for factor-level variables. 
+
+library(gam)  #install.packages("gam")
+train_gam = na.gam.replace(train)
+test_gam = na.gam.replace(test)   
+dental1.na_replace = glm(dental.visit ~ ., data = train_gam, family = binomial, maxit = 100000)
+summary(dental1.na_replace)
+dental.predict.basic = predict(dental1.na_replace, newdata = test_gam, type = "response")
+summary(dental.predict.basic)
+
+#save output into appropriate csv format for uplading into Kaggle
+
+dental.predict.basic
+write.table(data.frame(dental.predict.basic), file = "predict_basic.csv", row.names = F, col.names = "hi", sep=",") #ready for upload!
+
+#️check for collinearity
+library(faraway)
+vif(dental1.na_replace)  #check for collinearity
+train
+
+#Get rid of the variables employ.ins, insured, postponed.care, emergency, specialist, meds
+dental2.na_replace = glm(dental.visit ~ phone+healthgroup+sex+agegrp+race+employ+martial.stat
+                         +health+confident+bmi+children+educ, data = train_gam, family = binomial, maxit = 100000)
+dental.predict.basic = predict(dental2.na_replace, newdata = test_gam, type = "response")
+summary(dental.predict.basic)
+
+
+#Created a function that takes in the predicted object and converts it into acceptable submission csv format
+save_predict=  function(p, name){
+  p2 = transform(data.frame(p), rownames = rownames(data.frame(p)))
+  names(p2) = c("dental.visit", "id")  #rename columns required by kaggle
+  p2 =  p2[, c("id", "dental.visit")]   #switch columns into the correct order
+  write.table(p2, file = name, row.names = F, col.names = T, sep=",") #save
+}
+
+save_predict(dental.predict.basic, "predict_basic.csv")
+#6.Missing value refinement
+# in MAC OS Command-Shift-C comments out highlted blocks of code
+# Here, we will attempt to implement several missing value strategies, including 1. Point imputation 
+# 2. Multiple imputation and 3. Modeling "missingness" mechanisms. 
+# 
+# For missing factors, we will start off by creating an extra variable and "NA" level
+# that corresponds to missing values. 
+
+
+#TODO: 
+
